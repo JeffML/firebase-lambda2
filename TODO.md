@@ -8,14 +8,27 @@
 ## store pgn
   Use chess.js to parse/validate the PGNs
   headers() and history() will return meta info and moves, respectfully
-  Store headers needed, store moves as returned by history()
+  Store headers needed
+  store moves as returned by history()
+  for first 18 moves, generate FEN
 ## import and index [SCID](http://watfordchessclub.org/images/downloads/scid.eco)
   parse out:
     * SCID, description, moves
-    * convert moves to history via chess.js
-    * store
+    * parse moves via chess.js
+    * generate FEN & store
 ## indexes
   term indexes on Player names, color, ECO, descriptive opening
-  find & store all matching [SCID](http://watfordchessclub.org/images/downloads/scid.eco) up to move 18
   value indexes on date
+  index FENS for first 18 moves
+## search
+### find opening of game
+  for each FEN in descending move order
+    * look for FEN in SCID db
+    * when found, stop
+### find all games with opening
+  find 18 move game FENs, both plies
+  while not found, decrement and repeat
+### find all descriptions for opening
+  Similar to above
+
   
