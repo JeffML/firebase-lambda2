@@ -28,33 +28,6 @@
 .app-intro {
   font-size: large;
 }
-.deploy-button-wrapper {
-  margin-right: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.deploy-button {
-  width: 200px;
-}
-.view-src {
-  margin-top: 15px;
-  text-align: center;
-}
-.view-src img {
-  margin-right: 10px;
-}
-.view-src a {
-  text-decoration: none;
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.github-icon {
-  width: 25px;
-  fill: white;
-}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
@@ -82,15 +55,5 @@
     height: 60px;
     margin-right: 20px;
     animation: none;
-  }
-  .deploy-button-wrapper {
-    margin-left: 80px;
-    margin-top: 5px;
-  }
-  .deploy-button {
-    width: 150px;
-  }
-  .view-src {
-    display: none;
   }
 }
