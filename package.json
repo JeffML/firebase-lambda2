@@ -1,8 +1,9 @@
 {
-  "name": "netlify-fauna",
+  "name": "chessmap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chess.js": "^0.10.2",
     "faunadb": "^2.8.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",

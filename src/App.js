@@ -10,6 +10,7 @@ export default class App extends Component {
     return <div className="app">
       <AppHeader />
       <FileImportRow />
+      <hr />
       <DatabaseSummaryRow />
       <HeatMapOptionsRow />
       <HeatMapRow />
