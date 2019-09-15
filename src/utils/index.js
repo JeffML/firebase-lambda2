@@ -1,3 +1,5 @@
+const Chess = require('chess.js');
+
 class PgnParser {
   index = 0
   reader = null
@@ -36,11 +38,22 @@ class PgnParser {
     return (pgnGame.join('\n'))
   }
 
-  *gen() {
-    yield 1;
-    yield 2;
-  }
-
 }
 
-export { PgnParser }
+const getFens = (plies) => {
+  const chess = new Chess();
+  const startPos = chess.fen();
+
+  let fens = plies.map(move => {
+    chess.move(move);
+    return chess.fen();
+  });
+
+  // the above technique will not capture the fen of 
+  // the starting position.  therefore:
+  fens = [startPos, ...fens];
+  return fens;
+}
+
+
+export { PgnParser, getFens }

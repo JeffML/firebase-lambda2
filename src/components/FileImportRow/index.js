@@ -1,10 +1,9 @@
 import React from 'react'
 import Chess from 'chess.js';
-import { PgnParser } from '../../utils'
+import { PgnParser, getFens } from '../../utils'
+import { store } from '../../utils/api'
 
 const chess = new Chess();
-
-console.dir({ chess })
 
 async function handler(e) {
   const files = Array.from(e.target.files)
@@ -18,10 +17,12 @@ async function handler(e) {
       do {
         const game = games.nextGame()
         var okay = game && game.length
-        console.log({ game })
+
         if (okay) {
           chess.load_pgn(game)
-          console.log(chess.history().slice(0, 20));
+          const halfMoves = chess.history().slice(0, 35);
+          const fens = getFens(halfMoves)
+          store({ headers: chess.header(), fens, game })
         }
       } while (okay && ++count < 3)
     };

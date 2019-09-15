@@ -1,5 +1,8 @@
 /* Api methods to call /functions */
-
+const store = ({ headers, fens, game }) => {
+  console.log({ headers, fens, game })
+}
+/*
 const create = (data) => {
   return fetch('/.netlify/functions/todos-create', {
     body: JSON.stringify(data),
@@ -42,11 +45,12 @@ const batchDeleteTodo = (todoIds) => {
     return response.json()
   })
 }
-
-export default {
-  create: create,
-  readAll: readAll,
-  update: update,
-  delete: deleteTodo,
-  batchDelete: batchDeleteTodo
+*/
+export {
+  store
+  // create: create,
+  // readAll: readAll,
+  // update: update,
+  // delete: deleteTodo,
+  // batchDelete: batchDeleteTodo
 }
