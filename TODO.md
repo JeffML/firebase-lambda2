@@ -31,4 +31,26 @@
 ### find all descriptions for opening
   Similar to above
 
+----
+Code from https://stackoverflow.com/questions/32685324/converting-a-pgn-to-a-list-of-fen-strings-in-nodejs-chess-notations
+
+```js
+const Chess = require('chess.js').Chess;
+const chess1 = new Chess();
+const chess2 = new Chess();
+const startPos = chess2.fen();
+const pgn = `1.e4 c5 0-1`;
+
+chess1.load_pgn(pgn);
+let fens = chess1.history().map(move => {
+  chess2.move(move);
+  return chess2.fen();
+});
+
+//the above technique will not capture the fen of the starting position.  therefore:
+fens = [startPos, ...fens];
+
+//double checking everything
+fens.forEach(fen => console.log(fen));
+```
   
