@@ -1,0 +1,16 @@
+type Game {
+  header: Header!
+  fens: [String!]!
+}
+
+type Header {
+    event: String!
+    date: String!
+    white: String!
+    black: String!
+    eco: String!
+}
+
+type Query {
+  allGames: [Game]
+}
