@@ -11,7 +11,7 @@ console.log(chalk.cyan('Creating your FaunaDB Database...\n'))
 if (!process.env.FAUNADB_SERVER_SECRET) {
   console.log(chalk.yellow('Required FAUNADB_SERVER_SECRET enviroment variable not found.'))
   if (insideNetlify) {
-    console.log(`Visit https://app.netlify.com/sites/YOUR_SITE_HERE/settings/deploys`)
+    console.log(`Visit https://app.netlify.com/sites/fauna2663/settings/deploys`)
     console.log('and set a `FAUNADB_SERVER_SECRET` value in the "Build environment variables" section')
     process.exit(1)
   }
@@ -82,7 +82,7 @@ function ask(question, callback) {
     input: process.stdin,
     output: process.stdout
   })
-  rl.question(question + '\n', function(answer) {
+  rl.question(question + '\n', function (answer) {
     rl.close()
     callback(null, answer)
   })

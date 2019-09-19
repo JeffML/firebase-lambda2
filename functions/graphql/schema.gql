@@ -1,6 +1,13 @@
+type Opening {
+  fen: String! @unique
+  SCID: String!
+  desc: String!
+}
+
 type Game {
-  header: Header!
+  header: Header! 
   fens: [String!]!
+  opening: Opening @relation
 }
 
 type Header {
@@ -13,4 +20,6 @@ type Header {
 
 type Query {
   allGames: [Game]
+  #findOpeningByFen(fen: String!): Opening!
 }
+
