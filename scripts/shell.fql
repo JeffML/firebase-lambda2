@@ -1,0 +1,17 @@
+// add openings
+CreateFunction({
+  name: "add_openings",
+  body: Query(
+    Lambda(["openings"], 
+      Map(Var("openings"), 
+        Lambda("X", Create(
+          Collection("Opening"), 
+          { 
+            data: Var("X") 
+          }
+        )
+      )
+      )
+    )
+  )
+})

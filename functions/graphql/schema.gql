@@ -20,6 +20,15 @@ type Header {
 
 type Query {
   allGames: [Game]
-  #findOpeningByFen(fen: String!): Opening!
+  allOpenings: [Opening]
 }
 
+input OpeningInput {
+  fen: String!
+  SCID: String!
+  desc: String!
+}
+
+type Mutation {
+  addOpenings(openings: [OpeningInput]) : [Opening]! @resolver(name: "add_openings2")
+}
