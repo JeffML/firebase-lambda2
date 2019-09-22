@@ -27,5 +27,14 @@ exports.handler = (event, context, callback) => {
       }
     }
   `;
-  return client.query({ query: allOpeningFens })
+
+
+  client.query({ query: allOpeningFens })
+    .then(results => {
+      callback(null, {
+        statusCode: 200,
+        body: JSON.stringify(results),
+      })
+    })
+    .catch(e => callback(e))
 }

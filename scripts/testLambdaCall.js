@@ -6,7 +6,7 @@ function query(data) {
   return fetch(`${URL}.netlify/functions/all-opening-fens`, {
     method: 'GET'
   })
-    .then(response => console.log("text=", response.text()))
+    // .then(response => console.log("text=", response.text()))
     .then(response => response.json())
 }
 
