@@ -14,6 +14,8 @@
 # netlify
 .netlify
 
+.graphqlconfig
+
 # misc
 .DS_Store
 .env.local
