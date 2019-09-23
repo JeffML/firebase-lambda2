@@ -1,10 +1,8 @@
 import ApolloClient from 'apollo-boost';
-
 import gql from 'graphql-tag'
 import fetch from 'node-fetch'
 
 const URL = 'https://graphql.fauna.com/graphql'
-// const URL = 'http://localhost:9000/'  //FIXME
 
 const client = new ApolloClient({
   uri: URL,
