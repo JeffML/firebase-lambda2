@@ -1,0 +1,7 @@
+    Map(
+      Paginate(Functions()),
+      Lambda("ref", {
+        name: Select("name", Get(Var("ref"))),
+        body: Select("body", Get(Var("ref")))
+      })
+    )

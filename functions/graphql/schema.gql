@@ -1,3 +1,5 @@
+
+
 type Opening {
   fen: String! @unique
   SCID: String!
@@ -11,16 +13,30 @@ type Game {
 }
 
 type Header {
-    event: String!
-    date: String!
-    white: String!
-    black: String!
-    eco: String!
+    Event: String
+    Date: String!
+    White: String!
+    WhiteElo: String
+    Black: String!
+    BlackElo: String
+    ECO: String
+    Result: String
 }
 
 type Query {
   allGames: [Game]
   allOpenings: [Opening]
+}
+
+input HeaderInput {
+    Event: String
+    Date: String!
+    White: String!
+    WhiteElo: String
+    Black: String!
+    BlackElo: String
+    ECO: String
+    Result: String
 }
 
 input OpeningInput {
@@ -29,6 +45,13 @@ input OpeningInput {
   desc: String!
 }
 
+input GameInput {
+  header: HeaderInput! 
+  fens: [String!]!
+  opening: OpeningInput @relation
+}
+
 type Mutation {
-  addOpenings(openings: [OpeningInput]) : [Opening]! @resolver(name: "add_openings2")
+  addOpenings(openings: [OpeningInput]) : [Opening]! @resolver(name: "add_openings2" paginated:false)
+  addGames(games: [GameInput]) : [Game]! @resolver(name: "add_games", paginated: false)
 }

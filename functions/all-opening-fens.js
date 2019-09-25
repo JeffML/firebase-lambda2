@@ -1,6 +1,7 @@
 import ApolloClient from 'apollo-boost';
 import gql from 'graphql-tag'
 import fetch from 'node-fetch'
+import authorization from './authorization'
 
 const URL = 'https://graphql.fauna.com/graphql'
 
@@ -10,7 +11,7 @@ const client = new ApolloClient({
   request: operation => {
     operation.setContext({
       headers: {
-        authorization: "Basic Zm5BRFgtUnc2NEFDQlNzRnkzbGRGMm9FcHd6Z3F1WlExQzR0Q2VHUzpwZ25iYXNlOnNlcnZlcg=="
+        authorization
       },
     });
   },

@@ -20,17 +20,17 @@ const client = new ApolloClient({
 
 exports.handler = (event, context, callback) => {
 
-  const addScidDocs = gql`
-  mutation($scid: [OpeningInput]) {
-    addOpenings(openings: $scid) {desc}
+  const addGameDocs = gql`
+  mutation($games: [GameInput]) {
+    addGames(games: $games) {header {result}}
   }
   `
 
   const json = JSON.parse(event.body)
 
   client.mutate({
-    mutation: addScidDocs,
-    variables: { scid: json },
+    mutation: addGameDocs,
+    variables: { games: json },
   })
     .then(results => {
       console.log({ results })
