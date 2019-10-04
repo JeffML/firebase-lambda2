@@ -22,7 +22,7 @@ exports.handler = (event, context, callback) => {
 
   const addGameDocs = gql`
   mutation($games: [GameInput]) {
-    addGames(games: $games) {header {result}}
+    addGames(games: $games) {header {Result}}
   }
   `
 
