@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "dependencies": {
+    "@google-cloud/firestore": "^2.4.0",
     "apollo-boost": "^0.4.4",
     "chess.js": "^0.10.2",
     "encoding": "^0.1.12",
-    "faunadb": "^2.8.0",
     "graphql": "^14.5.7",
     "graphql-tag": "^2.10.1",
     "node-fetch": "^2.6.0",
@@ -16,18 +16,14 @@
     "react-scripts": "^3.1.1"
   },
   "scripts": {
-    "bootstrap": "node ./scripts/bootstrap-fauna-database.js",
     "docs": "md-magic --path '**/*.md' --ignore 'node_modules'",
-    "checkForFaunaKey": "node ./scripts/check-for-fauna-key.js",
-    "start": "export $(cat .env | xargs) && npm-run-all --parallel checkForFaunaKey start:app start:server",
     "start:app": "react-scripts start",
     "start:server": "netlify-lambda serve functions -c ./webpack.config.js",
-    "prebuild": "echo 'setup faunaDB' && npm run bootstrap",
     "build": "npm-run-all --parallel build:**",
     "build:app": "react-scripts build",
     "build:functions": "netlify-lambda build functions -c ./webpack.config.js",
     "test": "react-scripts test --env=jsdom",
-    "callAny": "node --experimental-modules"
+    "callAny": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node --experimental-modules"
   },
   "devDependencies": {
     "http-proxy-middleware": "^0.20.0",

@@ -1,6 +1,6 @@
 {
-  "short_name": "FaunaDB Example",
-  "name": "Fauna + Netlify Functions",
+  "short_name": "DynamoDB Implementation",
+  "name": "Fauna + DynamoDB Functions",
   "icons": [
     {
       "src": "favicon.ico",
