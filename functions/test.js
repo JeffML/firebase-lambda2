@@ -17,7 +17,7 @@ const resolvers = {
 
 const server = new ApolloServer({ typeDefs, resolvers });
 
-export default server.createHandler({
+exports.handler = server.createHandler({
   cors: {
     origin: true,
     credentials: true,
