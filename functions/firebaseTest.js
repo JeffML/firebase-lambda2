@@ -5,7 +5,7 @@ const firestore = new Firestore();
 
 async function quickstart() {
   // Obtain a document reference.
-  const document = firestore.doc('posts/intro-to-firestore');
+  const document = firestore.doc('posts/intro-to-firestore2');
 
   // Enter new data into the document.
   await document.set({
