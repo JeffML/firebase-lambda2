@@ -1,5 +1,5 @@
-import lambda from 'apollo-server-lambda';
-const { ApolloServer, gql } = lambda;
+// import lambda from 'apollo-server-lambda';
+const { ApolloServer, gql } = require('apollo-server-lambda');
 
 // Construct a schema, using GraphQL schema language
 const typeDefs = gql`
