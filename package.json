@@ -6,6 +6,7 @@
   "dependencies": {
     "@google-cloud/firestore": "^2.4.0",
     "apollo-boost": "^0.4.4",
+    "apollo-server-lambda": "^2.9.5",
     "chess.js": "^0.10.2",
     "encoding": "^0.1.12",
     "graphql": "^14.5.7",
