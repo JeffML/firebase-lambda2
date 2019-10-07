@@ -15,5 +15,10 @@ async function quickstart() {
   console.log('Entered new data into the document');
 }
 
-exports.handler = () =>
-  quickstart();
+exports.handler = async (event, context, callback) => {
+  await quickstart();
+  callback(null, {
+    statusCode: 200,
+    body: "foo",
+  })
+}
