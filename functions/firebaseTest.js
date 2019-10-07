@@ -15,4 +15,5 @@ async function quickstart() {
   console.log('Entered new data into the document');
 }
 
-quickstart();
+exports.handler = () =>
+  quickstart();
