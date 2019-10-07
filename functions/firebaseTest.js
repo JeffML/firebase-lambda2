@@ -9,14 +9,14 @@ async function quickstart() {
 
   // Enter new data into the document.
   await document.set({
-    title: 'Welcome to Firestore',
-    body: 'Hello World',
+    title: 'Welcome to Firestore2',
+    body: 'Hello World2',
   });
   console.log('Entered new data into the document');
 }
 
 exports.handler = (event, context, callback) => {
-  await quickstart();
+  await quickstart().catch(e => callback(e));
   callback(null, {
     statusCode: 200,
     body: "foo",
