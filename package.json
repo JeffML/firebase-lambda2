@@ -24,7 +24,8 @@
     "build:app": "react-scripts build",
     "build:functions": "netlify-lambda build functions -c ./webpack.config.js",
     "test": "react-scripts test --env=jsdom",
-    "callAny": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node --experimental-modules"
+    "callAny": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node --experimental-modules",
+    "callAny2": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node "
   },
   "devDependencies": {
     "http-proxy-middleware": "^0.20.0",
