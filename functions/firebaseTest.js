@@ -16,6 +16,7 @@ async function quickstart() {
 }
 
 exports.handler = (event, context, callback) => {
+  quickstart();
   // quickstart().then(() => callback(null, {
   //   statusCode: 200,
   //   body: "foo",
