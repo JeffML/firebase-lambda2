@@ -19,10 +19,10 @@
   "scripts": {
     "docs": "md-magic --path '**/*.md' --ignore 'node_modules'",
     "start:app": "react-scripts start",
-    "start:server": "netlify-lambda serve functions -c ./webpack.config.js",
+    "start:server": "netlify-lambda serve functions -c ./webpack.functions.js",
     "build": "npm-run-all --parallel build:**",
     "build:app": "react-scripts build",
-    "build:functions": "netlify-lambda build functions -c ./webpack.config.js",
+    "build:functions": "netlify-lambda build functions -c ./webpack.functions.js",
     "test": "react-scripts test --env=jsdom",
     "callAny": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node --experimental-modules",
     "callAny2": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node "
@@ -31,7 +31,8 @@
     "http-proxy-middleware": "^0.20.0",
     "markdown-magic": "^1.0.0",
     "netlify-lambda": "^1.6.3",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "webpack-node-externals": "^1.7.2"
   },
   "browserslist": [
     ">0.2%",
