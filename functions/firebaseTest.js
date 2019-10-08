@@ -5,7 +5,7 @@ const firestore = new Firestore();
 
 async function quickstart() {
   // Obtain a document reference.
-  const document = firestore.doc('posts/intro-to-firestore2');
+  const document = firestore.doc('posts/intro-to-firestoreeee');
 
   // // Enter new data into the document.
   await document.set({
@@ -15,12 +15,7 @@ async function quickstart() {
   // console.log('Entered new data into the document');
 }
 
-exports.handler = (event, context, callback) => {
+exports.handler = async (event, context, callback) => {
   await quickstart().catch(e => { throw e })
-  // quickstart().then(() => callback(null, {
-  //   statusCode: 200,
-  //   body: "foo",
-  // }))
-  //   .catch(e => callback(e));
-  callback(null, { statusCode: 200, body: "flub" })
+  return { statusCode: 200, body: "flub" }
 }
