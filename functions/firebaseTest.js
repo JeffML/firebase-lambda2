@@ -8,10 +8,10 @@ async function quickstart() {
   const document = firestore.doc('posts/intro-to-firestore2');
 
   // // Enter new data into the document.
-  // await document.set({
-  //   title: 'Welcome to Firestore2',
-  //   body: 'Hello World2',
-  // });
+  await document.set({
+    title: 'Welcome to Firestore2',
+    body: 'Hello World2',
+  });
   // console.log('Entered new data into the document');
 }
 
