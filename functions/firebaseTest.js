@@ -16,11 +16,11 @@ async function quickstart() {
 }
 
 exports.handler = (event, context, callback) => {
-  quickstart();
+  await quickstart().catch(e => { throw e })
   // quickstart().then(() => callback(null, {
   //   statusCode: 200,
   //   body: "foo",
   // }))
   //   .catch(e => callback(e));
-  callback(null, { statusCode: 200, body: "goob" })
+  callback(null, { statusCode: 200, body: "flub" })
 }
