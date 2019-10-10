@@ -8,6 +8,7 @@
     "apollo-boost": "^0.4.4",
     "apollo-server-lambda": "^2.9.5",
     "chess.js": "^0.10.2",
+    "copy-webpack-plugin": "^5.0.4",
     "encoding": "^0.1.12",
     "graphql": "^14.5.7",
     "graphql-tag": "^2.10.1",
@@ -19,7 +20,7 @@
   "scripts": {
     "docs": "md-magic --path '**/*.md' --ignore 'node_modules'",
     "start:app": "react-scripts start",
-    "start:server": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && netlify-lambda serve functions -c ./webpack.functions.js",
+    "start:server": "netlify-lambda serve functions -c ./webpack.functions.js",
     "build": "npm-run-all --parallel build:**",
     "build:app": "react-scripts build",
     "build:functions": "netlify-lambda build functions -c ./webpack.functions.js",
