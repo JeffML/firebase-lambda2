@@ -1,5 +1,4 @@
 const Firestore = require('@google-cloud/firestore');
-require('./pgnfen2-0dcc7c57af09.json')
 
 // // Create a new client
 const firestore = new Firestore();

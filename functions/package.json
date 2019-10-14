@@ -1,0 +1,20 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firebaseTest.js",
+  "dependencies": {
+    "@google-cloud/firestore": "^2.4.0",
+    "apollo-server-lambda": "^2.9.5",
+    "chess.js": "^0.10.2",
+    "graphql": "^14.5.7",
+    "graphql-tag": "^2.10.1",
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

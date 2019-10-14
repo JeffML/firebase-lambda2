@@ -4,15 +4,10 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@google-cloud/firestore": "^2.4.0",
     "apollo-boost": "^0.4.4",
-    "apollo-server-lambda": "^2.9.5",
     "chess.js": "^0.10.2",
     "copy-webpack-plugin": "^5.0.4",
     "encoding": "^0.1.12",
-    "graphql": "^14.5.7",
-    "graphql-tag": "^2.10.1",
-    "node-fetch": "^2.6.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "^3.1.1"

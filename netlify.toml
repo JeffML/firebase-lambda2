@@ -4,3 +4,6 @@
   command = "npm run build"
   # This is the directory is publishing to netlify's CDN
   publish = "build"
+[context.branch-deploy.environment]
+  NODE_ENV = "development"
+  GOOGLE_APPLICATION_CREDENTIALS = "./pgnfen2-0dcc7c57af09.json"
