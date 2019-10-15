@@ -3,16 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "firebaseTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@google-cloud/firestore": "^2.4.0",
+    "apollo-boost": "^0.4.4",
     "apollo-server-lambda": "^2.9.5",
     "chess.js": "^0.10.2",
+    "creds": "file:./creds",
+    "encoding": "^0.1.12",
     "graphql": "^14.5.7",
     "graphql-tag": "^2.10.1",
     "node-fetch": "^2.6.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",

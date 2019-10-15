@@ -1,4 +1,5 @@
 const Firestore = require('@google-cloud/firestore');
+require('creds')
 
 // // Create a new client
 const firestore = new Firestore();
