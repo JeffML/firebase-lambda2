@@ -1,6 +1,0 @@
-CreateFunction(
-  {
-    "name": "add_openings2",
-    "body": Query(Lambda(["openings"], Map(Var("openings"), Lambda("X", Create(Collection("Opening"), {data: Var("X")})))))
-  }
-)
