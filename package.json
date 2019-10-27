@@ -19,7 +19,7 @@
     "start:app": "react-scripts start",
     "build": "npm-run-all build:*",
     "build:app": "react-scripts build",
-    "x-build:functions": "yarn --cwd functions install && node ./zipFuncs.js",
+    "build:functions": "yarn --cwd functions install",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "callAny": "export GOOGLE_APPLICATION_CREDENTIALS=\"./pgnfen2-0dcc7c57af09.json\" && node --experimental-modules",
