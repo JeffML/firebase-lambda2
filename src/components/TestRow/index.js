@@ -1,21 +1,22 @@
 import React from 'react';
 import fetch from 'node-fetch';
-// import gql from 'graphql-tag';
+import ApolloClient, { gql } from 'apollo-boost';
 
-const handler = () => {
+const handler = async () => {
   const URL = 'http://localhost:8888';
-  const query = `
+
+  const query = gql`
     mutation {addDoc{name}}
   `;
 
-  const json = { operationName: null, variables: {}, query: 'mutation { addDoc {   name  }}' };
-
-  return fetch(`${URL}/.netlify/functions/pgnfen`, {
-    method: 'POST',
-    headers: { 'Content-type': 'application/json' },
-    body: JSON.stringify(json),
+  const client = new ApolloClient({
+    uri: `${URL}/.netlify/functions/pgnfen`,
+    fetch,
   });
+
+  await client.mutate({ mutation: query }).catch((e) => { console.error(e); });
 };
+
 
 export default () => (
   <div className="row">

@@ -22,5 +22,7 @@ module.exports = {
     'react',
   ],
   rules: {
+    'react/jsx-filename-extension': 'off',
+    'jsx-a11y/label-has-associated-control': 'off'
   },
 };
