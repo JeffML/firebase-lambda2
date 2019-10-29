@@ -48,11 +48,13 @@ const authors = [{
 },
 ];
 
+const index = 1;
+
 const addDoc = async () => {
   admin.firestore()
     .doc('posts/author')
-    .set(authors[0]);
-  return authors[0];
+    .set(authors[index]);
+  return authors[index];
 };
 
 
@@ -75,4 +77,11 @@ const server = new ApolloServer({
   resolvers,
 });
 
-exports.handler = server.createHandler();
+exports.handler = server.createHandler(
+  {
+    cors: {
+      origin: '*',
+      credentials: true,
+    },
+  },
+);
