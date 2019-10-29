@@ -48,7 +48,7 @@ const authors = [{
 },
 ];
 
-const index = 1;
+const index = 2;
 
 const addDoc = async () => {
   admin.firestore()
