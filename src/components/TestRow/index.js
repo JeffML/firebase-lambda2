@@ -3,14 +3,14 @@ import fetch from 'node-fetch';
 import ApolloClient, { gql } from 'apollo-boost';
 
 const handler = async () => {
-  const URL = 'http://localhost:8888';
+  // const URL = 'http://localhost:8888';
 
   const query = gql`
     mutation {addDoc{name}}
   `;
 
   const client = new ApolloClient({
-    uri: `${URL}/.netlify/functions/pgnfen`,
+    uri: '/.netlify/functions/pgnfen',
     fetch,
   });
 
