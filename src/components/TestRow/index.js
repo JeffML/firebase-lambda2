@@ -14,6 +14,7 @@ const handler = async () => {
     fetch,
   });
 
+  // eslint-disable-next-line no-console
   await client.mutate({ mutation: query }).catch((e) => { console.error(e); });
 };
 
