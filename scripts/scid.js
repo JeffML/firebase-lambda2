@@ -1,5 +1,5 @@
-const scid = 
-[
+/* eslint-disable comma-dangle */
+const scid = [
   {
     SCID: 'A00b',
     desc: '"Barnes Opening"',
@@ -1032,7 +1032,7 @@ const scid =
   },
   {
     SCID: 'A05',
-    desc: `"Reti: Santasiere's folly"`,
+    desc: '"Reti: Santasiere\'s folly"',
     fen: 'rnbqkb1r/pppppppp/5n2/8/1P6/5N2/P1PPPPPP/RNBQKB1R b KQkq b3 0 2'
   },
   {
@@ -1162,12 +1162,12 @@ const scid =
   },
   {
     SCID: 'A06',
-    desc: `"Reti: Santasiere's folly"`,
+    desc: '"Reti: Santasiere\'s folly"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/1P6/5N2/P1PPPPPP/RNBQKB1R b KQkq b3 0 2'
   },
   {
     SCID: 'A06',
-    desc: `"Reti: Santasiere's folly"`,
+    desc: '"Reti: Santasiere\'s folly"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/1P6/5N2/P1PPPPPP/RNBQKB1R w KQkq - 1 3'
   },
   {
@@ -2512,37 +2512,37 @@ const scid =
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian"`,
+    desc: '"English: Anglo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian, 4.e4"`,
+    desc: '"English: Anglo-Queen\'s Indian, 4.e4"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2P1P3/2N2N2/PP1P1PPP/R1BQKB1R b KQkq e3 0 4'
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian, Romanishin"`,
+    desc: '"English: Anglo-Queen\'s Indian, Romanishin"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2P1P3/2NB1N2/PP1P1PPP/R1BQK2R b KQkq - 2 5'
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian, 4.g3"`,
+    desc: '"English: Anglo-Queen\'s Indian, 4.g3"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2P5/2N2NP1/PP1PPP1P/R1BQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian, 4.g3"`,
+    desc: '"English: Anglo-Queen\'s Indian, 4.g3"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2P5/2N2NP1/PP1PPPBP/R1BQK2R b KQkq - 2 5'
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian, 4.g3"`,
+    desc: '"English: Anglo-Queen\'s Indian, 4.g3"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2P5/2N2NP1/PP1PPPBP/R1BQ1RK1 w - - 5 7'
   },
   {
     SCID: 'A17',
-    desc: `"English: Anglo-Queen's Indian, 4.g3"`,
+    desc: '"English: Anglo-Queen\'s Indian, 4.g3"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2P5/2N2NP1/PP1PPPBP/R1BQR1K1 b - - 6 7'
   },
   {
@@ -2672,182 +2672,182 @@ const scid =
   },
   {
     SCID: 'A20',
-    desc: `"English: King's (1...e5)"`,
+    desc: '"English: King\'s (1...e5)"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR w KQkq e6 0 2'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.d3"`,
+    desc: '"English: King\'s, 2.d3"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2P5/3P4/PP2PPPP/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.e3"`,
+    desc: '"English: King\'s, 2.e3"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2P5/4P3/PP1P1PPP/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3"`,
+    desc: '"English: King\'s, 2.g3"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2P5/6P1/PP1PPP1P/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 f5"`,
+    desc: '"English: King\'s, 2.g3 f5"',
     fen: 'rnbqkbnr/pppp2pp/8/4pp2/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq f6 0 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 g6"`,
+    desc: '"English: King\'s, 2.g3 g6"',
     fen: 'rnbqkbnr/pppp1p1p/6p1/4p3/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 g6"`,
+    desc: '"English: King\'s, 2.g3 g6"',
     fen: 'rnbqkbnr/pppp1p1p/6p1/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR b KQkq - 1 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 g6"`,
+    desc: '"English: King\'s, 2.g3 g6"',
     fen: 'rnbqk1nr/pppp1pbp/6p1/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq - 2 4'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 c6"`,
+    desc: '"English: King\'s, 2.g3 c6"',
     fen: 'rnbqkbnr/pp1p1ppp/2p5/4p3/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 c6 3.d4"`,
+    desc: '"English: King\'s, 2.g3 c6 3.d4"',
     fen: 'rnbqkbnr/pp1p1ppp/2p5/4p3/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq d3 0 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 d6"`,
+    desc: '"English: King\'s, 2.g3 d6"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 d6"`,
+    desc: '"English: King\'s, 2.g3 d6"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR b KQkq - 1 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nc6"`,
+    desc: '"English: King\'s, 2.g3 Nc6"',
     fen: 'r1bqkbnr/pppp1ppp/2n5/4p3/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nc6 3.Bg2"`,
+    desc: '"English: King\'s, 2.g3 Nc6 3.Bg2"',
     fen: 'r1bqkbnr/pppp1ppp/2n5/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR b KQkq - 2 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nf6"`,
+    desc: '"English: King\'s, 2.g3 Nf6"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2P5/6P1/PP1PPP1P/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nf6 3.Bg2"`,
+    desc: '"English: King\'s, 2.g3 Nf6 3.Bg2"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR b KQkq - 2 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nf6 3.Bg2 Bc5"`,
+    desc: '"English: King\'s, 2.g3 Nf6 3.Bg2 Bc5"',
     fen: 'rnbqk2r/pppp1ppp/5n2/2b1p3/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq - 3 4'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nf6 3.Bg2 Nc6"`,
+    desc: '"English: King\'s, 2.g3 Nf6 3.Bg2 Nc6"',
     fen: 'r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq - 3 4'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nf6 3.Bg2 c6"`,
+    desc: '"English: King\'s, 2.g3 Nf6 3.Bg2 c6"',
     fen: 'rnbqkb1r/pp1p1ppp/2p2n2/4p3/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq - 0 4'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, 2.g3 Nf6 3.Bg2 d5"`,
+    desc: '"English: King\'s, 2.g3 Nf6 3.Bg2 d5"',
     fen: 'rnbqkb1r/ppp2ppp/5n2/3pp3/2P5/6P1/PP1PPPBP/RNBQK1NR w KQkq d6 0 4'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, Nimzowitsch"`,
+    desc: '"English: King\'s, Nimzowitsch"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, Nimzowitsch, 2...Nc6"`,
+    desc: '"English: King\'s, Nimzowitsch, 2...Nc6"',
     fen: 'r1bqkbnr/pppp1ppp/2n5/4p3/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 2 3'
   },
   {
     SCID: 'A20',
-    desc: `"English: King's, Nimzowitsch, Flohr Variation"`,
+    desc: '"English: King\'s, Nimzowitsch, Flohr Variation"',
     fen: 'rnbqkbnr/pppp1ppp/8/8/2P1p3/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3"`,
+    desc: '"English: King\'s, 2.Nc3"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 f5"`,
+    desc: '"English: King\'s, 2.Nc3 f5"',
     fen: 'rnbqkbnr/pppp2pp/8/4pp2/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq f6 0 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 f5"`,
+    desc: '"English: King\'s, 2.Nc3 f5"',
     fen: 'rnbqkb1r/pppp2pp/5n2/4pp2/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 1 4'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 f5"`,
+    desc: '"English: King\'s, 2.Nc3 f5"',
     fen: 'rnbqkb1r/pppp2pp/5n2/4pp2/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 g6"`,
+    desc: '"English: King\'s, 2.Nc3 g6"',
     fen: 'rnbqkbnr/pppp1p1p/6p1/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 g6"`,
+    desc: '"English: King\'s, 2.Nc3 g6"',
     fen: 'rnbqk1nr/pppp1pbp/6p1/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 2 4'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 d6"`,
+    desc: '"English: King\'s, 2.Nc3 d6"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, Keres Variation"`,
+    desc: '"English: King\'s, Keres Variation"',
     fen: 'rnbqkbnr/pp3ppp/2pp4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, Keres Variation"`,
+    desc: '"English: King\'s, Keres Variation"',
     fen: 'rnbqkbnr/pp3ppp/2pp4/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR b KQkq - 1 4'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 d6 3.d4"`,
+    desc: '"English: King\'s, 2.Nc3 d6 3.d4"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq d3 0 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 d6 3.g3"`,
+    desc: '"English: King\'s, 2.Nc3 d6 3.g3"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 d6 3.Nf3"`,
+    desc: '"English: King\'s, 2.Nc3 d6 3.Nf3"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A21',
-    desc: `"English: King's, 2.Nc3 d6 3.Nf3 g6"`,
+    desc: '"English: King\'s, 2.Nc3 d6 3.Nf3 g6"',
     fen: 'rnbqkbnr/ppp2p1p/3p2p1/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4'
   },
   {
@@ -2947,37 +2947,37 @@ const scid =
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3'
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6 3.e4"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6 3.e4"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2P1P3/2N5/PP1P1PPP/R1BQKBNR b KQkq e3 0 3'
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6 3.e3"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6 3.e3"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N1P3/PP1P1PPP/R1BQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6 3.e3 Bb4"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6 3.e3 Bb4"',
     fen: 'rnbqk2r/pppp1ppp/5n2/4p3/1bP5/2N1P3/PP1P1PPP/R1BQKBNR w KQkq - 1 4'
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6 3.Nf3"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6 3.Nf3"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3'
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6 3.Nf3 d6"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6 3.Nf3 d6"',
     fen: 'rnbqkb1r/ppp2ppp/3p1n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'A22',
-    desc: `"English: King's, 2.Nc3 Nf6 3.Nf3 e4"`,
+    desc: '"English: King\'s, 2.Nc3 Nf6 3.Nf3 e4"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/8/2P1p3/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 4'
   },
   {
@@ -4922,92 +4922,92 @@ const scid =
   },
   {
     SCID: 'A40a',
-    desc: `"Queen's Pawn Game"`,
+    desc: '"Queen\'s Pawn Game"',
     fen: 'rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1'
   },
   {
     SCID: 'A40b',
-    desc: `"Queen's Pawn: 1...c6"`,
+    desc: '"Queen\'s Pawn: 1...c6"',
     fen: 'rnbqkbnr/pp1ppppp/2p5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2'
   },
   {
     SCID: 'A40b',
-    desc: `"Queen's Pawn: 1...c6 2.Nf3"`,
+    desc: '"Queen\'s Pawn: 1...c6 2.Nf3"',
     fen: 'rnbqkbnr/pp1ppppp/2p5/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2'
   },
   {
     SCID: 'A40b',
-    desc: `"Queen's Pawn: 1...c6 2.c4"`,
+    desc: '"Queen\'s Pawn: 1...c6 2.c4"',
     fen: 'rnbqkbnr/pp1ppppp/2p5/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2'
   },
   {
     SCID: 'A40b',
-    desc: `"Queen's Pawn: Jadoul"`,
+    desc: '"Queen\'s Pawn: Jadoul"',
     fen: 'rnbqkbnr/p2ppppp/2p5/1p6/2PP4/8/PP2PPPP/RNBQKBNR w KQkq b6 0 3'
   },
   {
     SCID: 'A40c',
-    desc: `"Queen's Pawn: Polish Defence"`,
+    desc: '"Queen\'s Pawn: Polish Defence"',
     fen: 'rnbqkbnr/p1pppppp/8/1p6/3P4/8/PPP1PPPP/RNBQKBNR w KQkq b6 0 2'
   },
   {
     SCID: 'A40c',
-    desc: `"Queen's Pawn: Polish Defence"`,
+    desc: '"Queen\'s Pawn: Polish Defence"',
     fen: 'rnbqkbnr/p1pppppp/8/1p6/3PP3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 2'
   },
   {
     SCID: 'A40c',
-    desc: `"Queen's Pawn: Polish Defence"`,
+    desc: '"Queen\'s Pawn: Polish Defence"',
     fen: 'rn1qkbnr/pbpppppp/8/1p6/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'A40c',
-    desc: `"Queen's Pawn: Polish Defence, Spassky Gambit"`,
+    desc: '"Queen\'s Pawn: Polish Defence, Spassky Gambit"',
     fen: 'rn1qkbnr/pbpppppp/8/1B6/3PP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3'
   },
   {
     SCID: 'A40d',
-    desc: `"Queen's Pawn: English Defence"`,
+    desc: '"Queen\'s Pawn: English Defence"',
     fen: 'rnbqkbnr/p1pppppp/1p6/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2'
   },
   {
     SCID: 'A40d',
-    desc: `"Queen's Pawn: English Defence, 2.c4"`,
+    desc: '"Queen\'s Pawn: English Defence, 2.c4"',
     fen: 'rnbqkbnr/p1pppppp/1p6/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2'
   },
   {
     SCID: 'A40d',
-    desc: `"Queen's Pawn: English Defence, 2.c4 Bb7"`,
+    desc: '"Queen\'s Pawn: English Defence, 2.c4 Bb7"',
     fen: 'rn1qkbnr/pbpppppp/1p6/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'A40e',
-    desc: `"Queen's Pawn: English Defence, 2.c4 e6"`,
+    desc: '"Queen\'s Pawn: English Defence, 2.c4 e6"',
     fen: 'rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A40f',
-    desc: `"Queen's Pawn: English Defence, 3.a3"`,
+    desc: '"Queen\'s Pawn: English Defence, 3.a3"',
     fen: 'rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/P7/1P2PPPP/RNBQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'A40g',
-    desc: `"Queen's Pawn: English Defence, 3.e4"`,
+    desc: '"Queen\'s Pawn: English Defence, 3.e4"',
     fen: 'rnbqkbnr/p1pp1ppp/1p2p3/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq e3 0 3'
   },
   {
     SCID: 'A40g',
-    desc: `"Queen's Pawn: English Defence, Polli Gambit"`,
+    desc: '"Queen\'s Pawn: English Defence, Polli Gambit"',
     fen: 'rn1qkbnr/pbpp2pp/1p2p3/5p2/2PPP3/5P2/PP4PP/RNBQKBNR w KQkq f6 0 5'
   },
   {
     SCID: 'A40g',
-    desc: `"Queen's Pawn: English Defence, Hartlaub Gambit"`,
+    desc: '"Queen\'s Pawn: English Defence, Hartlaub Gambit"',
     fen: 'rn1qkbnr/pbpp2pp/1p2p3/5p2/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq f6 0 5'
   },
   {
     SCID: 'A40h',
-    desc: `"Queen's Pawn: English Defence, 3.Nc3"`,
+    desc: '"Queen\'s Pawn: English Defence, 3.Nc3"',
     fen: 'rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3'
   },
   {
@@ -5057,132 +5057,132 @@ const scid =
   },
   {
     SCID: 'A40j',
-    desc: `"Queen's Pawn: Bogoljubow-Miles Defence"`,
+    desc: '"Queen\'s Pawn: Bogoljubow-Miles Defence"',
     fen: 'r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2'
   },
   {
     SCID: 'A40j',
-    desc: `"Queen's Pawn: Bogoljubow-Miles, 2.Bg5"`,
+    desc: '"Queen\'s Pawn: Bogoljubow-Miles, 2.Bg5"',
     fen: 'r1bqkbnr/pppppppp/2n5/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2'
   },
   {
     SCID: 'A40j',
-    desc: `"Queen's Pawn: Bogoljubow-Miles, 2.d5"`,
+    desc: '"Queen\'s Pawn: Bogoljubow-Miles, 2.d5"',
     fen: 'r1bqkbnr/pppppppp/2n5/3P4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'A40k',
-    desc: `"Queen's Pawn: Bogoljubow-Miles, 2.c4"`,
+    desc: '"Queen\'s Pawn: Bogoljubow-Miles, 2.c4"',
     fen: 'r1bqkbnr/pppppppp/2n5/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2'
   },
   {
     SCID: 'A40k',
-    desc: `"Queen's Pawn: Bogoljubow-Miles, Pozarek Gambit"`,
+    desc: '"Queen\'s Pawn: Bogoljubow-Miles, Pozarek Gambit"',
     fen: 'r1bqkbnr/pppp1ppp/8/8/2n5/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5'
   },
   {
     SCID: 'A40l',
-    desc: `"Queen's Pawn: Bogoljubow-Miles, 2.Nf3"`,
+    desc: '"Queen\'s Pawn: Bogoljubow-Miles, 2.Nf3"',
     fen: 'r1bqkbnr/pppppppp/2n5/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2'
   },
   {
     SCID: 'A40m',
-    desc: `"Queen's Pawn: 1...e6"`,
+    desc: '"Queen\'s Pawn: 1...e6"',
     fen: 'rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2'
   },
   {
     SCID: 'A40n',
-    desc: `"Queen's Pawn: 1...e6 2.Nf3"`,
+    desc: '"Queen\'s Pawn: 1...e6 2.Nf3"',
     fen: 'rnbqkbnr/pppp1ppp/4p3/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2'
   },
   {
     SCID: 'A40n',
-    desc: `"Queen's Pawn: 1...e6 2.Nf3 c5"`,
+    desc: '"Queen\'s Pawn: 1...e6 2.Nf3 c5"',
     fen: 'rnbqkbnr/pp1p1ppp/4p3/2p5/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq c6 0 3'
   },
   {
     SCID: 'A40o',
-    desc: `"Queen's Pawn: 1...e6 2.c4"`,
+    desc: '"Queen\'s Pawn: 1...e6 2.c4"',
     fen: 'rnbqkbnr/pppp1ppp/4p3/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2'
   },
   {
     SCID: 'A40p',
-    desc: `"Queen's Pawn: Keres Defence"`,
+    desc: '"Queen\'s Pawn: Keres Defence"',
     fen: 'rnbqk1nr/pppp1ppp/4p3/8/1bPP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'A40q',
-    desc: `"Queen's Pawn: Keres Defence, 3.Bd2"`,
+    desc: '"Queen\'s Pawn: Keres Defence, 3.Bd2"',
     fen: 'rnbqk1nr/pppp1ppp/4p3/8/1bPP4/8/PP1BPPPP/RN1QKBNR b KQkq - 2 3'
   },
   {
     SCID: 'A40q',
-    desc: `"Queen's Pawn: Keres Defence, 3.Bd2 Bxd2+"`,
+    desc: '"Queen\'s Pawn: Keres Defence, 3.Bd2 Bxd2+"',
     fen: 'rnbqk1nr/pppp1ppp/4p3/8/2PP4/8/PP1bPPPP/RN1QKBNR w KQkq - 0 4'
   },
   {
     SCID: 'A40q',
-    desc: `"Queen's Pawn: Keres Defence, Kangaroo Variation"`,
+    desc: '"Queen\'s Pawn: Keres Defence, Kangaroo Variation"',
     fen: 'rn1qk2r/pbpp1ppp/1p2p2n/8/2PPP3/2N5/PP1Q1PPP/R3KBNR w KQkq - 1 7'
   },
   {
     SCID: 'A40r',
-    desc: `"Queen's Pawn: Keres Defence, 3.Bd2 a5"`,
+    desc: '"Queen\'s Pawn: Keres Defence, 3.Bd2 a5"',
     fen: 'rnbqk1nr/1ppp1ppp/4p3/p7/1bPP4/8/PP1BPPPP/RN1QKBNR w KQkq a6 0 4'
   },
   {
     SCID: 'A40s',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2'
   },
   {
     SCID: 'A40t',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqkbnr/pppppp1p/6p1/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2'
   },
   {
     SCID: 'A40u',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqkbnr/pppppp1p/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2'
   },
   {
     SCID: 'A40u',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/ppppppbp/6p1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'A40v',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/ppppppbp/6p1/8/2PPP3/8/PP3PPP/RNBQKBNR b KQkq e3 0 3'
   },
   {
     SCID: 'A40w',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/ppppppbp/6p1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 3'
   },
   {
     SCID: 'A40w',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/pp1pppbp/6p1/2p5/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq c6 0 4'
   },
   {
     SCID: 'A40x',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/ppppppbp/6p1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3'
   },
   {
     SCID: 'A40x',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/pp1pppbp/6p1/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq c6 0 4'
   },
   {
     SCID: 'A40x',
-    desc: `"Queen's Pawn: Modern"`,
+    desc: '"Queen\'s Pawn: Modern"',
     fen: 'rnbqk1nr/pp1pppbp/6p1/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4'
   },
   {
     SCID: 'A40y',
-    desc: `"Queen's Pawn: Modern, Beefeater Defence"`,
+    desc: '"Queen\'s Pawn: Modern, Beefeater Defence"',
     fen: 'rnbqk1nr/pp1pp2p/6p1/2pP1p2/2P5/2P5/P3PPPP/R1BQKBNR w KQkq f6 0 6'
   },
   {
@@ -6022,7 +6022,7 @@ const scid =
   },
   {
     SCID: 'A45a',
-    desc: `"Queen's Pawn: Indian"`,
+    desc: '"Queen\'s Pawn: Indian"',
     fen: 'rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2'
   },
   {
@@ -6807,322 +6807,322 @@ const scid =
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pppppp/1p3n2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p2p1ppp/1p2pn2/2p5/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq c6 0 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pppppp/1p3n2/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pppppp/1p3n2/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 1 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p2p1ppp/1p2pn2/2p5/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq c6 0 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 2 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/3BPN2/PPP2PPP/RNBQK2R w KQkq - 0 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/3BPN2/PPP2PPP/RNBQ1RK1 b kq - 1 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/3P4/3BPN2/PPP2PPP/RNBQ1RK1 w kq c6 0 6'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pppppp/1p3n2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 2 4'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian"`,
+    desc: '"Neo-Queen\'s Indian"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 0 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian: Marienbad System"`,
+    desc: '"Neo-Queen\'s Indian: Marienbad System"',
     fen: 'rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq c6 0 5'
   },
   {
     SCID: 'A47',
-    desc: `"Neo-Queen's Indian: Marienbad System, Berg Variation"`,
+    desc: '"Neo-Queen\'s Indian: Marienbad System, Berg Variation"',
     fen: 'rn1qkb1r/pb1ppppp/1p3n2/8/2PQ4/5NP1/PP2PPBP/RNB1K2R b KQkq - 0 6'
   },
   {
     SCID: 'A48a',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'A48a',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPPNPPPP/R1BQKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A48b',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P4/2P2N2/PP2PPPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'A48b',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P4/2P2N2/PP2PPPP/RNBQKB1R w KQkq - 1 4'
   },
   {
     SCID: 'A48c',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'A48c',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 1 4'
   },
   {
     SCID: 'A48d',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqkb1r/pp1ppp1p/5np1/2p5/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq c6 0 4'
   },
   {
     SCID: 'A48e',
-    desc: `"Neo-King's Indian"`,
+    desc: '"Neo-King\'s Indian"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A48f',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A48g',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4'
   },
   {
     SCID: 'A48h',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P1B2/5N2/PPPNPPPP/R2QKB1R b KQkq - 3 4'
   },
   {
     SCID: 'A48i',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P1B2/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A48j',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A48j',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQ - 1 5'
   },
   {
     SCID: 'A48k',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/3P1B2/4PN2/PPP1BPPP/RN1QK2R b KQ - 2 5'
   },
   {
     SCID: 'A48k',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/4PN2/PPP1BPPP/RN1QK2R w KQ - 0 6'
   },
   {
     SCID: 'A48l',
-    desc: `"Neo-King's Indian: London System"`,
+    desc: '"Neo-King\'s Indian: London System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/3P1B2/4PN1P/PPP1BPP1/RN1QK2R b KQ - 0 6'
   },
   {
     SCID: 'A48m',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqkb1r/pppppp1p/5np1/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3'
   },
   {
     SCID: 'A48n',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqkb1r/pppppp1p/6p1/6B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4'
   },
   {
     SCID: 'A48o',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqk2r/ppppppbp/5np1/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4'
   },
   {
     SCID: 'A48o',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqk2r/ppppppbp/5np1/6B1/3P4/2P2N2/PP2PPPP/RN1QKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A48o',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqk2r/ppppppbp/5np1/6B1/3P4/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4'
   },
   {
     SCID: 'A48p',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqk2r/ppppppbp/5np1/6B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 3 4'
   },
   {
     SCID: 'A48q',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbqk2r/ppppppbp/5np1/6B1/3P4/5N2/PPPNPPPP/R2QKB1R b KQkq - 3 4'
   },
   {
     SCID: 'A48r',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppppppbp/5np1/6B1/3P4/5N2/PPPNPPPP/R2QKB1R w KQ - 4 5'
   },
   {
     SCID: 'A48s',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppppppbp/5np1/6B1/3PP3/5N2/PPPN1PPP/R2QKB1R b KQ e3 0 5'
   },
   {
     SCID: 'A48t',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/3PP3/5N2/PPPN1PPP/R2QKB1R w KQ - 0 6'
   },
   {
     SCID: 'A48u',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppp1ppbp/5np1/3p2B1/3PP3/5N2/PPPN1PPP/R2QKB1R w KQ d6 0 6'
   },
   {
     SCID: 'A48v',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppppppbp/5np1/6B1/3P4/2P2N2/PP1NPPPP/R2QKB1R b KQ - 0 5'
   },
   {
     SCID: 'A48v',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/3P4/2P2N2/PP1NPPPP/R2QKB1R w KQ - 0 6'
   },
   {
     SCID: 'A48w',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/3PP3/2P2N2/PP1N1PPP/R2QKB1R b KQ e3 0 6'
   },
   {
     SCID: 'A48x',
-    desc: `"Neo-King's Indian: Torre Attack"`,
+    desc: '"Neo-King\'s Indian: Torre Attack"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p3B1/3PP3/2P2N2/PP1N1PPP/R2QKB1R w KQ c6 0 7'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Fianchetto System"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Fianchetto System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 1 4'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Fianchetto System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 2 4'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Fianchetto System"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/3P4/5NP1/PPP1PPBP/RNBQK2R w KQ - 3 5'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Double Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Double Fianchetto System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/3P4/1P3NP1/PBP1PPBP/RN1QK2R b KQ - 1 6'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Fianchetto System"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/3P4/5NP1/PPP1PPBP/RNBQ1RK1 b - - 4 5'
   },
   {
     SCID: 'A49',
-    desc: `"Neo-King's Indian: Fianchetto System"`,
+    desc: '"Neo-King\'s Indian: Fianchetto System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w - - 0 6'
   },
   {
@@ -7187,17 +7187,17 @@ const scid =
   },
   {
     SCID: 'A50l',
-    desc: `"Indian: Queen's Indian Accelerated"`,
+    desc: '"Indian: Queen\'s Indian Accelerated"',
     fen: 'rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'A50m',
-    desc: `"Indian: Queen's Indian Accelerated"`,
+    desc: '"Indian: Queen\'s Indian Accelerated"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4'
   },
   {
     SCID: 'A50n',
-    desc: `"Indian: Queen's Indian Accelerated"`,
+    desc: '"Indian: Queen\'s Indian Accelerated"',
     fen: 'rn1qkb1r/pbpppppp/1p3n2/8/2PP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq - 3 4'
   },
   {
@@ -7827,7 +7827,7 @@ const scid =
   },
   {
     SCID: 'A56j',
-    desc: `"Benoni: Bronstein's Gambit"`,
+    desc: '"Benoni: Bronstein\'s Gambit"',
     fen: 'rnbqkb1r/p3pp1p/3p1np1/1ppP4/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq b6 0 6'
   },
   {
@@ -11052,17 +11052,17 @@ const scid =
   },
   {
     SCID: 'B00a',
-    desc: `"King's Pawn"`,
+    desc: '"King\'s Pawn"',
     fen: 'rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1'
   },
   {
     SCID: 'B00a',
-    desc: `"King's Pawn: Hippopotamus Defence"`,
+    desc: '"King\'s Pawn: Hippopotamus Defence"',
     fen: 'rnbqkb1r/ppppp2p/5ppn/8/2PPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4'
   },
   {
     SCID: 'B00a',
-    desc: `"King's Pawn: Fred"`,
+    desc: '"King\'s Pawn: Fred"',
     fen: 'rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq f6 0 2'
   },
   {
@@ -11087,7 +11087,7 @@ const scid =
   },
   {
     SCID: 'B00c',
-    desc: `"Basman's Creepy-Crawly System (as Black)"`,
+    desc: '"Basman\'s Creepy-Crawly System (as Black)"',
     fen: 'rnbqkbnr/1pppppp1/p6p/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3'
   },
   {
@@ -12097,7 +12097,7 @@ const scid =
   },
   {
     SCID: 'B03a',
-    desc: `"Alekhine: O'Sullivan Gambit"`,
+    desc: '"Alekhine: O\'Sullivan Gambit"',
     fen: 'rnbqkb1r/p1pppppp/8/1p1nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq b6 0 4'
   },
   {
@@ -15892,52 +15892,52 @@ const scid =
   },
   {
     SCID: 'B28a',
-    desc: `"Sicilian: O'Kelly Variation"`,
+    desc: '"Sicilian: O\'Kelly Variation"',
     fen: 'rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'B28b',
-    desc: `"Sicilian: O'Kelly, 3.Nc3"`,
+    desc: '"Sicilian: O\'Kelly, 3.Nc3"',
     fen: 'rnbqkbnr/1p1ppppp/p7/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3'
   },
   {
     SCID: 'B28c',
-    desc: `"Sicilian: O'Kelly, 3.d4"`,
+    desc: '"Sicilian: O\'Kelly, 3.d4"',
     fen: 'rnbqkbnr/1p1ppppp/p7/2p5/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3'
   },
   {
     SCID: 'B28d',
-    desc: `"Sicilian: O'Kelly, 3.d4 cxd4 4.Nxd4"`,
+    desc: '"Sicilian: O\'Kelly, 3.d4 cxd4 4.Nxd4"',
     fen: 'rnbqkbnr/1p1ppppp/p7/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'B28e',
-    desc: `"Sicilian: O'Kelly, 3.d4 cxd4 4.Nxd4 Nf6"`,
+    desc: '"Sicilian: O\'Kelly, 3.d4 cxd4 4.Nxd4 Nf6"',
     fen: 'rnbqkb1r/1p1ppppp/p4n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'B28f',
-    desc: `"Sicilian: O'Kelly, 3.c4"`,
+    desc: '"Sicilian: O\'Kelly, 3.c4"',
     fen: 'rnbqkbnr/1p1ppppp/p7/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R b KQkq c3 0 3'
   },
   {
     SCID: 'B28g',
-    desc: `"Sicilian: O'Kelly, 3.c4 e6"`,
+    desc: '"Sicilian: O\'Kelly, 3.c4 e6"',
     fen: 'rnbqkbnr/1p1p1ppp/p3p3/2p5/2P1P3/5N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'B28h',
-    desc: `"Sicilian: O'Kelly, 3.c3"`,
+    desc: '"Sicilian: O\'Kelly, 3.c3"',
     fen: 'rnbqkbnr/1p1ppppp/p7/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'B28i',
-    desc: `"Sicilian: O'Kelly, 3.c3 e6"`,
+    desc: '"Sicilian: O\'Kelly, 3.c3 e6"',
     fen: 'rnbqkbnr/1p1p1ppp/p3p3/2p5/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'B28j',
-    desc: `"Sicilian: O'Kelly, 3.c3 d5"`,
+    desc: '"Sicilian: O\'Kelly, 3.c3 d5"',
     fen: 'rnbqkbnr/1p2pppp/p7/2pp4/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq d6 0 4'
   },
   {
@@ -22117,7 +22117,7 @@ const scid =
   },
   {
     SCID: 'B97s',
-    desc: `"Sicilian: Najdorf, Poisoned Pawn, Main Line, Timman's 13.Be2"`,
+    desc: '"Sicilian: Najdorf, Poisoned Pawn, Main Line, Timman\'s 13.Be2"',
     fen: 'r1b1kb1r/6pp/p1pppn2/6B1/4P3/q1N5/P1PQB1PP/1R2K2R b Kkq - 1 13'
   },
   {
@@ -22422,7 +22422,7 @@ const scid =
   },
   {
     SCID: 'B99y',
-    desc: `"Sicilian: Najdorf, Modern Main Line 13.f5 Nc5 14.f6: Perenyi's 16.Rg1"`,
+    desc: '"Sicilian: Najdorf, Modern Main Line 13.f5 Nc5 14.f6: Perenyi\'s 16.Rg1"',
     fen: 'r1b1kb1r/2q2p1p/p2ppP2/1pn5/3NP3/2N2Q2/PPP4P/2KR1BR1 b kq - 2 16'
   },
   {
@@ -24837,7 +24837,7 @@ const scid =
   },
   {
     SCID: 'C20',
-    desc: `"Open Game: Napoleon's Opening"`,
+    desc: '"Open Game: Napoleon\'s Opening"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2'
   },
   {
@@ -25032,187 +25032,187 @@ const scid =
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening"`,
+    desc: '"Bishop\'s Opening"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Anderssen Gambit"`,
+    desc: '"Bishop\'s Opening: Anderssen Gambit"',
     fen: 'rnbqkbnr/p1pp1ppp/8/1p2p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq b6 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Philidor Counterattack"`,
+    desc: '"Bishop\'s Opening: Philidor Counterattack"',
     fen: 'rnbqkbnr/pp1p1ppp/2p5/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Lisitsin Variation"`,
+    desc: '"Bishop\'s Opening: Lisitsin Variation"',
     fen: 'r2qkbnr/pp3ppp/8/3pn3/8/8/PPP1NPPP/RNBQK2R b KQkq - 1 8'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Calabrese Countergambit"`,
+    desc: '"Bishop\'s Opening: Calabrese Countergambit"',
     fen: 'rnbqkbnr/pppp2pp/8/4pp2/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq f6 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Calabrese Countergambit, Jaenisch Variation"`,
+    desc: '"Bishop\'s Opening: Calabrese Countergambit, Jaenisch Variation"',
     fen: 'rnbqkbnr/pppp2pp/8/4pp2/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Classical Variation"`,
+    desc: '"Bishop\'s Opening: Classical Variation"',
     fen: 'rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: 2...Bc5 3.Qe2"`,
+    desc: '"Bishop\'s Opening: 2...Bc5 3.Qe2"',
     fen: 'rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPPQPPP/RNB1K1NR b KQkq - 3 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Lopez Gambit"`,
+    desc: '"Bishop\'s Opening: Lopez Gambit"',
     fen: 'r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1PP2/2P5/PP1PQ1PP/RNB1K1NR b KQkq f3 0 5'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Lewis Gambit"`,
+    desc: '"Bishop\'s Opening: Lewis Gambit"',
     fen: 'rnbqk1nr/pppp1ppp/8/2b1p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq d3 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: MacDonnell Gambit"`,
+    desc: '"Bishop\'s Opening: MacDonnell Gambit"',
     fen: 'rnbqk1nr/pppp1ppp/8/2b1p3/1PB1P3/8/P1PP1PPP/RNBQK1NR b KQkq b3 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: MacDonnell Double Gambit"`,
+    desc: '"Bishop\'s Opening: MacDonnell Double Gambit"',
     fen: 'rnbqk1nr/pppp1ppp/8/4p3/1bB1PP2/8/P1PP2PP/RNBQK1NR b KQkq f3 0 4'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: MacDonnell, Four Pawns Gambit"`,
+    desc: '"Bishop\'s Opening: MacDonnell, Four Pawns Gambit"',
     fen: 'rnbqk1nr/pppp1ppp/8/8/2BPP2b/5N2/P1P4p/RNBQ1R1K b kq - 1 9'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Philidor Variation"`,
+    desc: '"Bishop\'s Opening: Philidor Variation"',
     fen: 'rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/2P5/PP1P1PPP/RNBQK1NR b KQkq - 0 3'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: del Rio Variation"`,
+    desc: '"Bishop\'s Opening: del Rio Variation"',
     fen: 'rnb1k1nr/pppp1ppp/8/2b1p1q1/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq - 1 4'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Lewis Countergambit"`,
+    desc: '"Bishop\'s Opening: Lewis Countergambit"',
     fen: 'rnbqk1nr/ppp2ppp/8/2bpp3/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq d6 0 4'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Lewis Countergambit, Jaenisch"`,
+    desc: '"Bishop\'s Opening: Lewis Countergambit, Jaenisch"',
     fen: 'rnbqk2r/ppp2ppp/5n2/2bBp3/4P3/2P2Q2/PP1P1PPP/RNB1K1NR b KQkq - 2 5'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: 2...Bc5 3.c3 Nf6"`,
+    desc: '"Bishop\'s Opening: 2...Bc5 3.c3 Nf6"',
     fen: 'rnbqk2r/pppp1ppp/5n2/2b1p3/2B1P3/2P5/PP1P1PPP/RNBQK1NR w KQkq - 1 4'
   },
   {
     SCID: 'C23',
-    desc: `"Bishop's Opening: Pratt Variation"`,
+    desc: '"Bishop\'s Opening: Pratt Variation"',
     fen: 'rnbq1rk1/ppp2ppp/5P2/2b4Q/2pp4/2P5/PP3PPP/RNB1K1NR w KQ - 2 8'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Berlin Defence"`,
+    desc: '"Bishop\'s Opening: Berlin Defence"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Greco Gambit"`,
+    desc: '"Bishop\'s Opening: Greco Gambit"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2B1PP2/8/PPPP2PP/RNBQK1NR b KQkq f3 0 3'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: 3.d3"`,
+    desc: '"Bishop\'s Opening: 3.d3"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: 3.d3 d5"`,
+    desc: '"Bishop\'s Opening: 3.d3 d5"',
     fen: 'rnbqkb1r/ppp2ppp/5n2/3pp3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq d6 0 4'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Paulsen Defence"`,
+    desc: '"Bishop\'s Opening: Paulsen Defence"',
     fen: 'rnbqkb1r/pp1p1ppp/2p2n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR w KQkq - 0 4'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Paulsen, 4.Nf3"`,
+    desc: '"Bishop\'s Opening: Paulsen, 4.Nf3"',
     fen: 'rnbqkb1r/pp1p1ppp/2p2n2/4p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 1 4'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: 3.d4"`,
+    desc: '"Bishop\'s Opening: 3.d4"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq d3 0 3'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Panov Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Panov Variation"',
     fen: 'rnb1k2r/ppp1qppp/5n2/3P4/1bBp4/2P2N2/PP3PPP/RNBQK2R w KQkq - 1 7'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Marshall Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Marshall Variation"',
     fen: 'r1bqkb1r/pppp1ppp/2n2n2/8/2B4Q/2N2N2/PPP2PPP/R1B1K2R b KQkq - 4 7'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, 6.Bg5 Nc6 Defence"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, 6.Bg5 Nc6 Defence"',
     fen: 'r1bqkb1r/pppp1ppp/2n2n2/6B1/2BQ4/5N2/PPP2PPP/RN2K2R w KQkq - 3 7'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, 7...c6 Defence"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, 7...c6 Defence"',
     fen: 'rnbqk2r/pp1pbppp/2p2n2/6B1/2BQ4/2N2N2/PPP2PPP/R3K2R w KQkq - 0 8'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Larsen Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Larsen Variation"',
     fen: 'rnbq1rk1/pp2bppp/2p2n2/3p2B1/2B4Q/2N2N2/PPP2PPP/2KRR3 b - - 3 10'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Karpov Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Karpov Variation"',
     fen: 'r2qk2r/pp1nbppp/4bn2/2pp2B1/7Q/2NB1N2/PPP2PPP/2KRR3 w kq - 0 12'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Forintos/Haag Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Forintos/Haag Variation"',
     fen: 'r2qk1nr/pp2bppp/2p1b3/2np2B1/3N3Q/2NB4/PPP2PPP/2KRR3 w kq - 8 13'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, 7...Nc6 Defence"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, 7...Nc6 Defence"',
     fen: 'r1bqk2r/ppppbppp/2n2n2/6B1/2BQ4/2N2N2/PPP2PPP/R3K2R w KQkq - 5 8'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Keres Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Keres Variation"',
     fen: 'r1bqk2r/ppp1bppp/2np1n2/6B1/2B4Q/2N2N2/PPP2PPP/R3K2R w KQkq - 0 9'
   },
   {
     SCID: 'C24',
-    desc: `"Bishop's Opening: Urusov Gambit, Estrin Variation"`,
+    desc: '"Bishop\'s Opening: Urusov Gambit, Estrin Variation"',
     fen: 'r1bqk2r/ppp1bppp/2n2n2/3p2B1/2B4Q/2N2N2/PPP2PPP/R3K2R w KQkq d6 0 9'
   },
   {
@@ -25547,7 +25547,7 @@ const scid =
   },
   {
     SCID: 'C27h',
-    desc: `"Vienna: Adams' Gambit"`,
+    desc: '"Vienna: Adams\' Gambit"',
     fen: 'r1bqkb1r/pppp1ppp/2nn4/4p2Q/3P4/1BN5/PPP2PPP/R1B1K1NR b KQkq d3 0 6'
   },
   {
@@ -25802,87 +25802,87 @@ const scid =
   },
   {
     SCID: 'C30a',
-    desc: `"King's Gambit"`,
+    desc: '"King\'s Gambit"',
     fen: 'rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2'
   },
   {
     SCID: 'C30b',
-    desc: `"King's Gambit: Mafia Defence"`,
+    desc: '"King\'s Gambit: Mafia Defence"',
     fen: 'rnbqkbnr/pp1p1ppp/8/2p1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq c6 0 3'
   },
   {
     SCID: 'C30c',
-    desc: `"King's Gambit: 2...d6"`,
+    desc: '"King\'s Gambit: 2...d6"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'C30c',
-    desc: `"King's Gambit: 2...d6 3.Nf3"`,
+    desc: '"King\'s Gambit: 2...d6 3.Nf3"',
     fen: 'rnbqkbnr/ppp2ppp/3p4/4p3/4PP2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3'
   },
   {
     SCID: 'C30c',
-    desc: `"King's Gambit: 2...d6 3.Nf3 Nc6"`,
+    desc: '"King\'s Gambit: 2...d6 3.Nf3 Nc6"',
     fen: 'r1bqkbnr/ppp2ppp/2np4/4p3/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4'
   },
   {
     SCID: 'C30d',
-    desc: `"King's Gambit: Wade Variation"`,
+    desc: '"King\'s Gambit: Wade Variation"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'C30e',
-    desc: `"King's Gambit: Norwald Variation"`,
+    desc: '"King\'s Gambit: Norwald Variation"',
     fen: 'rnb1kbnr/pppp1ppp/5q2/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'C30e',
-    desc: `"King's Gambit: Norwald Variation, Schubert line"`,
+    desc: '"King\'s Gambit: Norwald Variation, Schubert line"',
     fen: 'rnb1kbnr/pppp1ppp/8/4p3/3PPq2/2N5/PPP3PP/R1BQKBNR b KQkq d3 0 4'
   },
   {
     SCID: 'C30e',
-    desc: `"King's Gambit: Norwald Variation, Buecker Gambit"`,
+    desc: '"King\'s Gambit: Norwald Variation, Buecker Gambit"',
     fen: 'rnb1k1nr/pppp1ppp/8/4p3/1bB1Pq2/2N2N2/PPPP2PP/R1BQK2R b KQkq - 3 5'
   },
   {
     SCID: 'C30f',
-    desc: `"King's Gambit: Keene Defence"`,
+    desc: '"King\'s Gambit: Keene Defence"',
     fen: 'rnb1kbnr/pppp1ppp/8/4p3/4PP1q/8/PPPP2PP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'C30f',
-    desc: `"King's Gambit: Keene Defence, 3.g3 Qe7"`,
+    desc: '"King\'s Gambit: Keene Defence, 3.g3 Qe7"',
     fen: 'rnb1kbnr/ppppqppp/8/4p3/4PP2/6P1/PPPP3P/RNBQKBNR w KQkq - 1 4'
   },
   {
     SCID: 'C30g',
-    desc: `"King's Gambit: 2...Nc6"`,
+    desc: '"King\'s Gambit: 2...Nc6"',
     fen: 'r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'C30h',
-    desc: `"King's Gambit: Adelaide-Wahls Variation"`,
+    desc: '"King\'s Gambit: Adelaide-Wahls Variation"',
     fen: 'r1bqkbnr/pppp2pp/2n5/4pp2/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq f6 0 4'
   },
   {
     SCID: 'C30i',
-    desc: `"King's Gambit: Adelaide-Wahls, 4.exf5"`,
+    desc: '"King\'s Gambit: Adelaide-Wahls, 4.exf5"',
     fen: 'r1bqkbnr/pppp2pp/2n5/4pP2/5P2/5N2/PPPP2PP/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'C30i',
-    desc: `"King's Gambit: Adelaide-Wahls, 4.exf5 e4"`,
+    desc: '"King\'s Gambit: Adelaide-Wahls, 4.exf5 e4"',
     fen: 'r1bqkbnr/pppp2pp/2n5/5P2/4pP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 5'
   },
   {
     SCID: 'C30i',
-    desc: `"King's Gambit: Adelaide-Wahls, 4.exf5 e4 5.Ne5 Nf6"`,
+    desc: '"King\'s Gambit: Adelaide-Wahls, 4.exf5 e4 5.Ne5 Nf6"',
     fen: 'r1bqkb1r/pppp2pp/2n2n2/4NP2/4pP2/8/PPPP2PP/RNBQKB1R w KQkq - 2 6'
   },
   {
     SCID: 'C30j',
-    desc: `"King's Gambit: Classical KGD"`,
+    desc: '"King\'s Gambit: Classical KGD"',
     fen: 'rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3'
   },
   {
@@ -26127,7 +26127,7 @@ const scid =
   },
   {
     SCID: 'C33',
-    desc: `"King's Gambit Accepted (KGA)"`,
+    desc: '"King\'s Gambit Accepted (KGA)"',
     fen: 'rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3'
   },
   {
@@ -26187,152 +26187,152 @@ const scid =
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Lesser Bishop's (Tartakower) Gambit"`,
+    desc: '"KGA: Lesser Bishop\'s (Tartakower) Gambit"',
     fen: 'rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPPB1PP/RNBQK1NR b KQkq - 1 3'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit"`,
+    desc: '"KGA: Bishop\'s Gambit"',
     fen: 'rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 1 3'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Chigorin Attack"`,
+    desc: '"KGA: Bishop\'s Gambit, Chigorin Attack"',
     fen: 'rnb1kbnr/ppp2p1p/8/3B2p1/4Pp1q/6P1/PPPP3P/RNBQ1KNR b kq - 0 6'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Greco Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Greco Variation"',
     fen: 'rnb1k1nr/pppp1ppp/8/2b5/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Classical Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Classical Defence"',
     fen: 'rnb1kbnr/pppp1p1p/8/6p1/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq g6 0 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Grimm Attack"`,
+    desc: '"KGA: Bishop\'s Gambit, Grimm Attack"',
     fen: 'rnb1k1nr/ppp2pbp/3p4/4P1p1/2BP1p1q/2N5/PPP3PP/R1BQ1KNR b kq - 0 7'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Classical Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Classical Defence"',
     fen: 'rnb1k2r/ppppnpbp/8/6p1/2BPPp1q/2N5/PPP3PP/R1BQ1KNR w kq - 1 7'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, McDonnell Attack"`,
+    desc: '"KGA: Bishop\'s Gambit, McDonnell Attack"',
     fen: 'rnb1k2r/ppppnpbp/8/6p1/2BPPp1q/2N3P1/PPP4P/R1BQ1KNR b kq - 0 7'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: bishop's Gambit, McDonnell Attack"`,
+    desc: '"KGA: bishop\'s Gambit, McDonnell Attack"',
     fen: 'rnb1k1nr/pppp1pbp/8/6p1/2B1Pp1q/2N3P1/PPPP3P/R1BQ1KNR b kq - 0 6'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Fraser Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Fraser Variation"',
     fen: 'rnb1k1nr/pppp1pbp/8/6p1/2B1P2q/2N2Qp1/PPPP3P/R1B2KNR b kq - 1 7'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Classical Defence, Cozio Attack"`,
+    desc: '"KGA: Bishop\'s Gambit, Classical Defence, Cozio Attack"',
     fen: 'rnb1kbnr/pppp1p1p/8/6p1/2B1Pp1q/5Q2/PPPP2PP/RNB2KNR b kq - 1 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Boden Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Boden Defence"',
     fen: 'r1b1kbnr/pppp1ppp/2n5/8/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 4 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Bryan Countergambit"`,
+    desc: '"KGA: Bishop\'s Gambit, Bryan Countergambit"',
     fen: 'rnb1kbnr/p1pp1ppp/8/1p6/2B1Pp1q/8/PPPP2PP/RNBQ1KNR w kq b6 0 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Bryan Countergambit"`,
+    desc: '"KGA: Bishop\'s Gambit, Bryan Countergambit"',
     fen: 'rnbqkbnr/p1pp1ppp/8/1p6/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq b6 0 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Steinitz Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Steinitz Defence"',
     fen: 'rnbqkb1r/ppppnppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Maurian Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Maurian Defence"',
     fen: 'r1bqkbnr/pppp1ppp/2n5/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Ruy Lopez Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Ruy Lopez Defence"',
     fen: 'rnbqkbnr/pp1p1ppp/2p5/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 0 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Lopez-Gianutio Countergambit"`,
+    desc: '"KGA: Bishop\'s Gambit, Lopez-Gianutio Countergambit"',
     fen: 'rnbqkbnr/pppp2pp/8/5p2/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq f6 0 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Lopez-Gianutio Countergambit, Hein Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Lopez-Gianutio Countergambit, Hein Variation"',
     fen: 'rnbk1bnr/pppp2pp/8/8/2B1pp1q/2N5/PPPPQ1PP/R1BK2NR w - - 2 7'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Bledow Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Bledow Variation"',
     fen: 'rnbqkbnr/ppp2ppp/8/3p4/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq d6 0 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Bledow, 4.exd5"`,
+    desc: '"KGA: Bishop\'s Gambit, Bledow, 4.exd5"',
     fen: 'rnbqkbnr/ppp2ppp/8/3P4/2B2p2/8/PPPP2PP/RNBQK1NR b KQkq - 0 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Bledow, 4.Bxd5"`,
+    desc: '"KGA: Bishop\'s Gambit, Bledow, 4.Bxd5"',
     fen: 'rnbqkbnr/ppp2ppp/8/3B4/4Pp2/8/PPPP2PP/RNBQK1NR b KQkq - 0 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Boren-Svenonius Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Boren-Svenonius Variation"',
     fen: 'rnb1k1nr/ppp2ppp/3b4/3B4/4Pp1q/8/PPPP2PP/RNBQ1KNR w kq - 3 6'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Anderssen Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Anderssen Variation"',
     fen: 'rnbqkbnr/pp3ppp/2p5/3B4/4Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 0 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Morphy Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Morphy Variation"',
     fen: 'rnbqkb1r/ppp2ppp/5n2/3B4/4Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 1 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Cozio Defence"`,
+    desc: '"KGA: Bishop\'s Gambit, Cozio Defence"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/8/PPPP2PP/RNBQK1NR w KQkq - 2 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Bogoljubow Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Bogoljubow Variation"',
     fen: 'rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR b KQkq - 3 4'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Paulsen Attack"`,
+    desc: '"KGA: Bishop\'s Gambit, Paulsen Attack"',
     fen: 'rnbqk2r/pppp1ppp/5n2/4P3/1bB2p2/2N5/PPPP2PP/R1BQK1NR b KQkq - 0 5'
   },
   {
     SCID: 'C33',
-    desc: `"KGA: Bishop's Gambit, Jaenisch Variation"`,
+    desc: '"KGA: Bishop\'s Gambit, Jaenisch Variation"',
     fen: 'rnbqkb1r/pp1p1ppp/2p2n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR w KQkq - 0 5'
   },
   {
     SCID: 'C34',
-    desc: `"KGA: King's Knight Gambit"`,
+    desc: '"KGA: King\'s Knight Gambit"',
     fen: 'rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3'
   },
   {
@@ -28967,7 +28967,7 @@ const scid =
   },
   {
     SCID: 'C52',
-    desc: `"Evans Gambit: Lasker's Defence"`,
+    desc: '"Evans Gambit: Lasker\'s Defence"',
     fen: 'r1bqk1nr/ppp2ppp/1bnp4/4p3/2BPP3/2P2N2/P4PPP/RNBQ1RK1 w kq - 1 8'
   },
   {
@@ -29082,12 +29082,12 @@ const scid =
   },
   {
     SCID: 'C54c',
-    desc: `"Giuoco Piano: Bird's Attack"`,
+    desc: '"Giuoco Piano: Bird\'s Attack"',
     fen: 'r1bqk2r/pppp1ppp/2n2n2/2b1p3/1PB1P3/2P2N2/P2P1PPP/RNBQK2R b KQkq b3 0 5'
   },
   {
     SCID: 'C54c',
-    desc: `"Giuoco Piano: Bird's Attack"`,
+    desc: '"Giuoco Piano: Bird\'s Attack"',
     fen: 'r1bqk2r/pppp1ppp/1bn2n2/4p3/PPB1P3/2P2N2/3P1PPP/RNBQK2R b KQkq a3 0 6'
   },
   {
@@ -29527,7 +29527,7 @@ const scid =
   },
   {
     SCID: 'C57c',
-    desc: `"Two Knights: Traxler, 5.Nxf7 & 6.Kf1, Beyer's 8...Bg4"`,
+    desc: '"Two Knights: Traxler, 5.Nxf7 & 6.Kf1, Beyer\'s 8...Bg4"',
     fen: 'r3k2N/ppp1q1pp/2n2n2/3Pp3/2B3b1/8/PPPP1bPP/RNBQ1K1R w q - 1 9'
   },
   {
@@ -29627,7 +29627,7 @@ const scid =
   },
   {
     SCID: 'C57j',
-    desc: `"Two Knights: Fritz, Paoli's 8.h4"`,
+    desc: '"Two Knights: Fritz, Paoli\'s 8.h4"',
     fen: 'r1bqkb1r/p1p2ppp/8/1p1np1N1/3n3P/2P5/PP1P1PP1/RNBQKB1R b KQkq h3 0 8'
   },
   {
@@ -29907,77 +29907,77 @@ const scid =
   },
   {
     SCID: 'C61a',
-    desc: `"Spanish: Bird's Defence"`,
+    desc: '"Spanish: Bird\'s Defence"',
     fen: 'r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4'
   },
   {
     SCID: 'C61b',
-    desc: `"Spanish: Bird's, 4.Bc4"`,
+    desc: '"Spanish: Bird\'s, 4.Bc4"',
     fen: 'r1bqkbnr/pppp1ppp/8/4p3/2BnP3/5N2/PPPP1PPP/RNBQK2R b KQkq - 5 4'
   },
   {
     SCID: 'C61c',
-    desc: `"Spanish: Bird's, 4.Nxd4"`,
+    desc: '"Spanish: Bird\'s, 4.Nxd4"',
     fen: 'r1bqkbnr/pppp1ppp/8/1B2p3/3NP3/8/PPPP1PPP/RNBQK2R b KQkq - 0 4'
   },
   {
     SCID: 'C61c',
-    desc: `"Spanish: Bird's, 4.Nxd4 exd4"`,
+    desc: '"Spanish: Bird\'s, 4.Nxd4 exd4"',
     fen: 'r1bqkbnr/pppp1ppp/8/1B6/3pP3/8/PPPP1PPP/RNBQK2R w KQkq - 0 5'
   },
   {
     SCID: 'C61d',
-    desc: `"Spanish: Bird's, 5.d3"`,
+    desc: '"Spanish: Bird\'s, 5.d3"',
     fen: 'r1bqkbnr/pppp1ppp/8/1B6/3pP3/3P4/PPP2PPP/RNBQK2R b KQkq - 0 5'
   },
   {
     SCID: 'C61e',
-    desc: `"Spanish: Bird's, 5.Bc4"`,
+    desc: '"Spanish: Bird\'s, 5.Bc4"',
     fen: 'r1bqkbnr/pppp1ppp/8/8/2BpP3/8/PPPP1PPP/RNBQK2R b KQkq - 1 5'
   },
   {
     SCID: 'C61f',
-    desc: `"Spanish: Bird's, 5.O-O"`,
+    desc: '"Spanish: Bird\'s, 5.O-O"',
     fen: 'r1bqkbnr/pppp1ppp/8/1B6/3pP3/8/PPPP1PPP/RNBQ1RK1 b kq - 1 5'
   },
   {
     SCID: 'C61f',
-    desc: `"Spanish: Bird's, Paulsen Variation"`,
+    desc: '"Spanish: Bird\'s, Paulsen Variation"',
     fen: 'r1bqkb1r/ppppnppp/8/1B6/3pP3/8/PPPP1PPP/RNBQ1RK1 w kq - 2 6'
   },
   {
     SCID: 'C61g',
-    desc: `"Spanish: Bird's, 5.O-O c6"`,
+    desc: '"Spanish: Bird\'s, 5.O-O c6"',
     fen: 'r1bqkbnr/pp1p1ppp/2p5/1B6/3pP3/8/PPPP1PPP/RNBQ1RK1 w kq - 0 6'
   },
   {
     SCID: 'C61h',
-    desc: `"Spanish: Bird's, 5.O-O c6 6.Bc4"`,
+    desc: '"Spanish: Bird\'s, 5.O-O c6 6.Bc4"',
     fen: 'r1bqkbnr/pp1p1ppp/2p5/8/2BpP3/8/PPPP1PPP/RNBQ1RK1 b kq - 1 6'
   },
   {
     SCID: 'C61i',
-    desc: `"Spanish: Bird's, 5.O-O Bc5"`,
+    desc: '"Spanish: Bird\'s, 5.O-O Bc5"',
     fen: 'r1bqk1nr/pppp1ppp/8/1Bb5/3pP3/8/PPPP1PPP/RNBQ1RK1 w kq - 2 6'
   },
   {
     SCID: 'C61j',
-    desc: `"Spanish: Bird's, 5.O-O Bc5 6.d3"`,
+    desc: '"Spanish: Bird\'s, 5.O-O Bc5 6.d3"',
     fen: 'r1bqk1nr/pppp1ppp/8/1Bb5/3pP3/3P4/PPP2PPP/RNBQ1RK1 b kq - 0 6'
   },
   {
     SCID: 'C61k',
-    desc: `"Spanish: Bird's, 5.O-O Bc5 6.d3 c6"`,
+    desc: '"Spanish: Bird\'s, 5.O-O Bc5 6.d3 c6"',
     fen: 'r1bqk1nr/pp1p1ppp/2p5/1Bb5/3pP3/3P4/PPP2PPP/RNBQ1RK1 w kq - 0 7'
   },
   {
     SCID: 'C61l',
-    desc: `"Spanish: Bird's, 5.O-O Bc5 6.d3 c6 7.Bc4"`,
+    desc: '"Spanish: Bird\'s, 5.O-O Bc5 6.d3 c6 7.Bc4"',
     fen: 'r1bqk1nr/pp1p1ppp/2p5/2b5/2BpP3/3P4/PPP2PPP/RNBQ1RK1 b kq - 1 7'
   },
   {
     SCID: 'C61m',
-    desc: `"Spanish: Bird's, 5.O-O Bc5 6.d3 c6 7.Bc4 d5"`,
+    desc: '"Spanish: Bird\'s, 5.O-O Bc5 6.d3 c6 7.Bc4 d5"',
     fen: 'r1bqk1nr/pp3ppp/2p5/2bp4/2BpP3/3P4/PPP2PPP/RNBQ1RK1 w kq d6 0 8'
   },
   {
@@ -30837,7 +30837,7 @@ const scid =
   },
   {
     SCID: 'C70',
-    desc: `"Spanish: Bird's Deferred"`,
+    desc: '"Spanish: Bird\'s Deferred"',
     fen: 'r1bqkbnr/1ppp1ppp/p7/4p3/B2nP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5'
   },
   {
@@ -30892,7 +30892,7 @@ const scid =
   },
   {
     SCID: 'C71',
-    desc: `"Spanish: Modern Steinitz, Noah's Ark Trap"`,
+    desc: '"Spanish: Modern Steinitz, Noah\'s Ark Trap"',
     fen: 'r1bqkbnr/5ppp/p2p4/1pp5/3QP3/1B6/PPP2PPP/RNB1K2R w KQkq c6 0 9'
   },
   {
@@ -32157,7 +32157,7 @@ const scid =
   },
   {
     SCID: 'C88c',
-    desc: `"Spanish: Closed, Noah's Ark Trap"`,
+    desc: '"Spanish: Closed, Noah\'s Ark Trap"',
     fen: 'r1bqk2r/4bppp/p2p1n2/1pp5/3QP3/1B6/PPP2PPP/RNB1R1K1 w kq c6 0 11'
   },
   {
@@ -33187,62 +33187,62 @@ const scid =
   },
   {
     SCID: 'D00a',
-    desc: `"Queen's Pawn Game"`,
+    desc: '"Queen\'s Pawn Game"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2'
   },
   {
     SCID: 'D00a',
-    desc: `"Queen's Pawn: 2.f4"`,
+    desc: '"Queen\'s Pawn: 2.f4"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq f3 0 2'
   },
   {
     SCID: 'D00a',
-    desc: `"Queen's Pawn: 2.g3"`,
+    desc: '"Queen\'s Pawn: 2.g3"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'D00b',
-    desc: `"Queen's Pawn: 2.c3"`,
+    desc: '"Queen\'s Pawn: 2.c3"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P4/2P5/PP2PPPP/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'D00b',
-    desc: `"Queen's Pawn: 2.c3 Nf6"`,
+    desc: '"Queen\'s Pawn: 2.c3 Nf6"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2P5/PP2PPPP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'D00b',
-    desc: `"Queen's Pawn: 2.c3 Nf6 3.Bf4"`,
+    desc: '"Queen\'s Pawn: 2.c3 Nf6 3.Bf4"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2P5/PP2PPPP/RN1QKBNR b KQkq - 2 3'
   },
   {
     SCID: 'D00b',
-    desc: `"Queen's Pawn: 2.c3 Nf6 3.Bg5"`,
+    desc: '"Queen\'s Pawn: 2.c3 Nf6 3.Bg5"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2P5/PP2PPPP/RN1QKBNR b KQkq - 2 3'
   },
   {
     SCID: 'D00c',
-    desc: `"Queen's Pawn: Mason Variation"`,
+    desc: '"Queen\'s Pawn: Mason Variation"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2'
   },
   {
     SCID: 'D00c',
-    desc: `"Queen's Pawn, Mason, Steinitz Countergambit"`,
+    desc: '"Queen\'s Pawn, Mason, Steinitz Countergambit"',
     fen: 'rnbqkbnr/pp2pppp/8/2pp4/3P1B2/8/PPP1PPPP/RN1QKBNR w KQkq c6 0 3'
   },
   {
     SCID: 'D00d',
-    desc: `"Queen's Pawn: 2.e3"`,
+    desc: '"Queen\'s Pawn: 2.e3"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2'
   },
   {
     SCID: 'D00d',
-    desc: `"Queen's Pawn: 2.e3 Nf6"`,
+    desc: '"Queen\'s Pawn: 2.e3 Nf6"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4P3/PPP2PPP/RNBQKBNR w KQkq - 1 3'
   },
   {
     SCID: 'D00e',
-    desc: `"Queen's Pawn: Stonewall Attack"`,
+    desc: '"Queen\'s Pawn: Stonewall Attack"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq - 2 3'
   },
   {
@@ -33422,42 +33422,42 @@ const scid =
   },
   {
     SCID: 'D00n',
-    desc: `"Queen's Pawn: Veresov Attack"`,
+    desc: '"Queen\'s Pawn: Veresov Attack"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2'
   },
   {
     SCID: 'D00n',
-    desc: `"Queen's Pawn: Veresov Attack"`,
+    desc: '"Queen\'s Pawn: Veresov Attack"',
     fen: 'rn1qkbnr/ppp1pppp/8/3p1b2/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3'
   },
   {
     SCID: 'D00n',
-    desc: `"Queen's Pawn: Veresov Attack"`,
+    desc: '"Queen\'s Pawn: Veresov Attack"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3'
   },
   {
     SCID: 'D00o',
-    desc: `"Queen's Pawn: Veresov, 3.Bf4"`,
+    desc: '"Queen\'s Pawn: Veresov, 3.Bf4"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3'
   },
   {
     SCID: 'D00p',
-    desc: `"Queen's Pawn: Veresov, 3.Nf3"`,
+    desc: '"Queen\'s Pawn: Veresov, 3.Nf3"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 3 3'
   },
   {
     SCID: 'D00p',
-    desc: `"Queen's Pawn: Veresov, 3.Nf3 g6"`,
+    desc: '"Queen\'s Pawn: Veresov, 3.Nf3 g6"',
     fen: 'rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D00q',
-    desc: `"Queen's Pawn: Anti-King's Indian"`,
+    desc: '"Queen\'s Pawn: Anti-King\'s Indian"',
     fen: 'rnbqkb1r/ppp1pp1p/5np1/3p4/3P1B2/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 1 4'
   },
   {
     SCID: 'D00r',
-    desc: `"Queen's Pawn: Anti-King's Indian, Main Line"`,
+    desc: '"Queen\'s Pawn: Anti-King\'s Indian, Main Line"',
     fen: 'rnbq1rk1/ppp1ppbp/5np1/3p4/3P1B2/2N1PN2/PPP1BPPP/R2QK2R b KQ - 2 6'
   },
   {
@@ -33487,7 +33487,7 @@ const scid =
   },
   {
     SCID: 'D00u',
-    desc: `"Blackmar-Diemer: O'Kelly Defence"`,
+    desc: '"Blackmar-Diemer: O\'Kelly Defence"',
     fen: 'rnbqkb1r/pp2pppp/2p2n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR w KQkq - 0 5'
   },
   {
@@ -33637,232 +33637,232 @@ const scid =
   },
   {
     SCID: 'D02a',
-    desc: `"Queen's Pawn: 2.Nf3"`,
+    desc: '"Queen\'s Pawn: 2.Nf3"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2'
   },
   {
     SCID: 'D02a',
-    desc: `"Queen's Pawn: 2.Nf3 g6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 g6"',
     fen: 'rnbqkbnr/ppp1pp1p/6p1/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'D02a',
-    desc: `"Queen's Pawn: 2.Nf3 Bg4"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bg4"',
     fen: 'rn1qkbnr/ppp1pppp/8/3p4/3P2b1/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3'
   },
   {
     SCID: 'D02b',
-    desc: `"Queen's Pawn: 2.Nf3 c6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 c6"',
     fen: 'rnbqkbnr/pp2pppp/2p5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'D02c',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'rnbqkbnr/pp2pppp/2p5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3'
   },
   {
     SCID: 'D02c',
-    desc: `"Queen's Pawn: London, Alapin Variation"`,
+    desc: '"Queen\'s Pawn: London, Alapin Variation"',
     fen: 'rnb1kbnr/pp2pppp/1qp5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 2 4'
   },
   {
     SCID: 'D02d',
-    desc: `"Queen's Pawn: 2.Nf3 Bf5"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bf5"',
     fen: 'rn1qkbnr/ppp1pppp/8/3p1b2/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3'
   },
   {
     SCID: 'D02d',
-    desc: `"Queen's Pawn: 2.Nf3 Bf5 3.e3"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bf5 3.e3"',
     fen: 'rn1qkbnr/ppp1pppp/8/3p1b2/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02d',
-    desc: `"Queen's Pawn: 2.Nf3 Bf5 3.e3 c6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bf5 3.e3 c6"',
     fen: 'rn1qkbnr/pp2pppp/2p5/3p1b2/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D02d',
-    desc: `"Queen's Pawn: 2.Nf3 Bf5 3.Bf4"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bf5 3.Bf4"',
     fen: 'rn1qkbnr/ppp1pppp/8/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3'
   },
   {
     SCID: 'D02d',
-    desc: `"Queen's Pawn: 2.Nf3 Bf5 3.Bf4 c6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bf5 3.Bf4 c6"',
     fen: 'rn1qkbnr/pp2pppp/2p5/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D02d',
-    desc: `"Queen's Pawn: 2.Nf3 Bf5 3.Bf4 e6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Bf5 3.Bf4 e6"',
     fen: 'rn1qkbnr/ppp2ppp/4p3/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D02e',
-    desc: `"Queen's Pawn: 2.Nf3 Nc6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Nc6"',
     fen: 'r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3'
   },
   {
     SCID: 'D02f',
-    desc: `"Queen's Pawn: 2.Nf3 Nc6 3.Bf4"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Nc6 3.Bf4"',
     fen: 'r1bqkbnr/ppp1pppp/2n5/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3'
   },
   {
     SCID: 'D02g',
-    desc: `"Queen's Pawn: 2.Nf3 Nc6 3.g3"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Nc6 3.g3"',
     fen: 'r1bqkbnr/ppp1pppp/2n5/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02g',
-    desc: `"Queen's Pawn: 2.Nf3 Nc6 3.g3 Bg4"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Nc6 3.g3 Bg4"',
     fen: 'r2qkbnr/ppp1pppp/2n5/3p4/3P2b1/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 1 4'
   },
   {
     SCID: 'D02h',
-    desc: `"Queen's Pawn: 2.Nf3 e6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 e6"',
     fen: 'rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3'
   },
   {
     SCID: 'D02i',
-    desc: `"Queen's Pawn: 2.Nf3 e6 3.g3"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 e6 3.g3"',
     fen: 'rnbqkbnr/ppp2ppp/4p3/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02i',
-    desc: `"Queen's Pawn: 2.Nf3 e6 3.g3 c5"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 e6 3.g3 c5"',
     fen: 'rnbqkbnr/pp3ppp/4p3/2pp4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq c6 0 4'
   },
   {
     SCID: 'D02i',
-    desc: `"Queen's Pawn: 2.Nf3 e6 3.g3 c5"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 e6 3.g3 c5"',
     fen: 'rnbqkbnr/pp3ppp/4p3/2pp4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4'
   },
   {
     SCID: 'D02i',
-    desc: `"Queen's Pawn: 2.Nf3 e6 3.g3 c5"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 e6 3.g3 c5"',
     fen: 'rnbqkbnr/pp3ppp/4p3/3p4/3N4/6P1/PPP1PPBP/RNBQK2R b KQkq - 0 5'
   },
   {
     SCID: 'D02i',
-    desc: `"Queen's Pawn: 2.Nf3 e6 3.g3 c5"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 e6 3.g3 c5"',
     fen: 'rnbqkbnr/pp3ppp/8/3pp3/3N4/6P1/PPP1PPBP/RNBQK2R w KQkq - 0 6'
   },
   {
     SCID: 'D02j',
-    desc: `"Queen's Pawn: Krause Variation"`,
+    desc: '"Queen\'s Pawn: Krause Variation"',
     fen: 'rnbqkbnr/pp2pppp/8/2pp4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq c6 0 3'
   },
   {
     SCID: 'D02j',
-    desc: `"Queen's Pawn: Krause, 3.c4"`,
+    desc: '"Queen\'s Pawn: Krause, 3.c4"',
     fen: 'rnbqkbnr/pp2pppp/8/2pp4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq c3 0 3'
   },
   {
     SCID: 'D02j',
-    desc: `"Queen's Pawn: Krause, Reversed Slav"`,
+    desc: '"Queen\'s Pawn: Krause, Reversed Slav"',
     fen: 'rnbqkbnr/pp2pppp/8/2pp4/3P4/2P2N2/PP2PPPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02j',
-    desc: `"Queen's Pawn: Krause, Reversed QGD"`,
+    desc: '"Queen\'s Pawn: Krause, Reversed QGD"',
     fen: 'rnbqkbnr/pp2pppp/8/2pp4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02j',
-    desc: `"Queen's Pawn: Krause, Reversed QGA"`,
+    desc: '"Queen\'s Pawn: Krause, Reversed QGA"',
     fen: 'rnbqkbnr/pp2pppp/8/2Pp4/8/5N2/PPP1PPPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02k',
-    desc: `"Queen's Pawn: 2.Nf3 Nf6"`,
+    desc: '"Queen\'s Pawn: 2.Nf3 Nf6"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3'
   },
   {
     SCID: 'D02k',
-    desc: `"Queen's Pawn: 3.c3"`,
+    desc: '"Queen\'s Pawn: 3.c3"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2P2N2/PP2PPPP/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02l',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3'
   },
   {
     SCID: 'D02m',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'rn1qkb1r/ppp1pppp/5n2/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4'
   },
   {
     SCID: 'D02n',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'rnbqkb1r/ppp2ppp/4pn2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D02o',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq c6 0 4'
   },
   {
     SCID: 'D02p',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'rnbqkb1r/pp3ppp/4pn2/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R w KQkq - 0 5'
   },
   {
     SCID: 'D02p',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P1B2/2P1PN2/PP3PPP/RN1QKB1R w KQkq - 1 6'
   },
   {
     SCID: 'D02q',
-    desc: `"Queen's Pawn: London"`,
+    desc: '"Queen\'s Pawn: London"',
     fen: 'r1bqk2r/pp3ppp/2nbpn2/2pp4/3P1B2/2PBPN2/PP3PPP/RN1QK2R w KQkq - 3 7'
   },
   {
     SCID: 'D02r',
-    desc: `"Queen's Pawn: 3.g3"`,
+    desc: '"Queen\'s Pawn: 3.g3"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3'
   },
   {
     SCID: 'D02s',
-    desc: `"Queen's Pawn: 3.g3 c6"`,
+    desc: '"Queen\'s Pawn: 3.g3 c6"',
     fen: 'rnbqkb1r/pp2pppp/2p2n2/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D02s',
-    desc: `"Queen's Pawn: 3.g3 c6"`,
+    desc: '"Queen\'s Pawn: 3.g3 c6"',
     fen: 'rnbqkb1r/pp2pppp/2p2n2/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R b KQkq - 1 4'
   },
   {
     SCID: 'D02t',
-    desc: `"Queen's Pawn: 3.g3 c6 4.Bg2 Bg4"`,
+    desc: '"Queen\'s Pawn: 3.g3 c6 4.Bg2 Bg4"',
     fen: 'rn1qkb1r/pp2pppp/2p2n2/3p4/3P2b1/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5'
   },
   {
     SCID: 'D02t',
-    desc: `"Queen's Pawn: 3.g3 c6 4.Bg2 Bg4"`,
+    desc: '"Queen\'s Pawn: 3.g3 c6 4.Bg2 Bg4"',
     fen: 'rn1qkb1r/pp2pppp/2p2n2/3p4/3P2b1/5NP1/PPP1PPBP/RNBQ1RK1 b kq - 3 5'
   },
   {
     SCID: 'D02t',
-    desc: `"Queen's Pawn: 3.g3 c6 4.Bg2 Bg4"`,
+    desc: '"Queen\'s Pawn: 3.g3 c6 4.Bg2 Bg4"',
     fen: 'r2qkb1r/pp1npppp/2p2n2/3p4/3P2b1/5NP1/PPP1PPBP/RNBQ1RK1 w kq - 4 6'
   },
   {
     SCID: 'D02t',
-    desc: `"Queen's Pawn: 3.g3 c6 4.Bg2 Bg4"`,
+    desc: '"Queen\'s Pawn: 3.g3 c6 4.Bg2 Bg4"',
     fen: 'r2qkb1r/pp1n1ppp/2p1pn2/3p4/3P2b1/5NP1/PPPNPPBP/R1BQ1RK1 w kq - 0 7'
   },
   {
     SCID: 'D02u',
-    desc: `"Queen's Pawn: 3.g3 g6"`,
+    desc: '"Queen\'s Pawn: 3.g3 g6"',
     fen: 'rnbqkb1r/ppp1pp1p/5np1/3p4/3P4/5NP1/PPP1PP1P/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'D02u',
-    desc: `"Queen's Pawn: 3.g3 g6"`,
+    desc: '"Queen\'s Pawn: 3.g3 g6"',
     fen: 'rnbqk2r/ppp1ppbp/5np1/3p4/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq - 2 5'
   },
   {
     SCID: 'D02u',
-    desc: `"Queen's Pawn: 3.g3 g6"`,
+    desc: '"Queen\'s Pawn: 3.g3 g6"',
     fen: 'rnbq1rk1/ppp1ppbp/5np1/3p4/3P4/5NP1/PPP1PPBP/RNBQ1RK1 w - - 4 6'
   },
   {
@@ -33997,7 +33997,7 @@ const scid =
   },
   {
     SCID: 'D04a',
-    desc: `"Queen's Pawn: Colle"`,
+    desc: '"Queen\'s Pawn: Colle"',
     fen: 'rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3'
   },
   {
@@ -34072,12 +34072,12 @@ const scid =
   },
   {
     SCID: 'D05f',
-    desc: `"Colle: Rubinstein's Attack"`,
+    desc: '"Colle: Rubinstein\'s Attack"',
     fen: 'rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P1BPN2/P1P2PPP/RNBQK2R b KQkq - 0 5'
   },
   {
     SCID: 'D05g',
-    desc: `"Colle: Rubinstein's Attack, 5...Nc6"`,
+    desc: '"Colle: Rubinstein\'s Attack, 5...Nc6"',
     fen: 'r1bqkb1r/pp3ppp/2n1pn2/2pp4/3P4/1P1BPN2/P1P2PPP/RNBQK2R w KQkq - 1 6'
   },
   {
@@ -34117,7 +34117,7 @@ const scid =
   },
   {
     SCID: 'D06a',
-    desc: `"Queen's Gambit"`,
+    desc: '"Queen\'s Gambit"',
     fen: 'rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2'
   },
   {
@@ -35817,7 +35817,7 @@ const scid =
   },
   {
     SCID: 'D20a',
-    desc: `"Queen's Gambit Accepted (QGA)"`,
+    desc: '"Queen\'s Gambit Accepted (QGA)"',
     fen: 'rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3'
   },
   {
@@ -36982,7 +36982,7 @@ const scid =
   },
   {
     SCID: 'D30a',
-    desc: `"Queen's Gambit Declined (QGD)"`,
+    desc: '"Queen\'s Gambit Declined (QGD)"',
     fen: 'rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3'
   },
   {
@@ -37817,7 +37817,7 @@ const scid =
   },
   {
     SCID: 'D34h',
-    desc: `"QGD Tarrasch: Tarrasch's Gambit"`,
+    desc: '"QGD Tarrasch: Tarrasch\'s Gambit"',
     fen: 'r1bq1rk1/pp2bppp/2n2n2/2P5/3p4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 10'
   },
   {
@@ -40177,7 +40177,7 @@ const scid =
   },
   {
     SCID: 'D51',
-    desc: `"QGD: Capablanca's Anti-Cambridge Springs"`,
+    desc: '"QGD: Capablanca\'s Anti-Cambridge Springs"',
     fen: 'r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/P1N1P3/1P3PPP/R2QKBNR b KQkq - 0 6'
   },
   {
@@ -41372,17 +41372,17 @@ const scid =
   },
   {
     SCID: 'D70',
-    desc: `"Neo-Gruenfeld: Alekhine's Anti-Gruenfeld"`,
+    desc: '"Neo-Gruenfeld: Alekhine\'s Anti-Gruenfeld"',
     fen: 'rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5P2/PP2P1PP/RNBQKBNR w KQkq d6 0 4'
   },
   {
     SCID: 'D70',
-    desc: `"Neo-Gruenfeld: Alekhine's, 5.e4 Nb6"`,
+    desc: '"Neo-Gruenfeld: Alekhine\'s, 5.e4 Nb6"',
     fen: 'rnbqkb1r/ppp1pp1p/1n4p1/8/3PP3/5P2/PP4PP/RNBQKBNR w KQkq - 1 6'
   },
   {
     SCID: 'D70',
-    desc: `"Neo-Gruenfeld: Alekhine's, 7.Be3 O-O"`,
+    desc: '"Neo-Gruenfeld: Alekhine\'s, 7.Be3 O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/1n4p1/8/3PP3/2N1BP2/PP4PP/R2QKBNR w KQ - 5 8'
   },
   {
@@ -43382,22 +43382,22 @@ const scid =
   },
   {
     SCID: 'E00a',
-    desc: `"Queen's Pawn: Neo-Indian"`,
+    desc: '"Queen\'s Pawn: Neo-Indian"',
     fen: 'rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'E00a',
-    desc: `"Queen's Pawn: Neo-Indian, Devin Gambit"`,
+    desc: '"Queen\'s Pawn: Neo-Indian, Devin Gambit"',
     fen: 'rnbqkb1r/pppp1ppp/4pn2/8/2PP2P1/8/PP2PP1P/RNBQKBNR b KQkq g3 0 3'
   },
   {
     SCID: 'E00b',
-    desc: `"Queen's Pawn: Anti-Nimzo-Indian"`,
+    desc: '"Queen\'s Pawn: Anti-Nimzo-Indian"',
     fen: 'rnbqkb1r/pppp1ppp/4pn2/8/2PP4/P7/1P2PPPP/RNBQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'E00b',
-    desc: `"Queen's Pawn: Anti-Nimzo-Indian, 3...d5"`,
+    desc: '"Queen\'s Pawn: Anti-Nimzo-Indian, 3...d5"',
     fen: 'rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/P7/1P2PPPP/RNBQKBNR w KQkq d6 0 4'
   },
   {
@@ -43407,22 +43407,22 @@ const scid =
   },
   {
     SCID: 'E00d',
-    desc: `"Queen's Pawn: Neo-Indian"`,
+    desc: '"Queen\'s Pawn: Neo-Indian"',
     fen: 'rnbqkb1r/pppp1ppp/4pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3'
   },
   {
     SCID: 'E00e',
-    desc: `"Queen's Pawn: Neo-Indian, 3...b6"`,
+    desc: '"Queen\'s Pawn: Neo-Indian, 3...b6"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4'
   },
   {
     SCID: 'E00e',
-    desc: `"Queen's Pawn: Neo-Indian, 3...b6"`,
+    desc: '"Queen\'s Pawn: Neo-Indian, 3...b6"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 4'
   },
   {
     SCID: 'E00f',
-    desc: `"Queen's Pawn: Neo-Indian, 3...c5"`,
+    desc: '"Queen\'s Pawn: Neo-Indian, 3...c5"',
     fen: 'rnbqkb1r/pp1p1ppp/4pn2/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq c6 0 4'
   },
   {
@@ -44692,1402 +44692,1402 @@ const scid =
   },
   {
     SCID: 'E12a',
-    desc: `"Queen's Indian"`,
+    desc: '"Queen\'s Indian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'E12b',
-    desc: `"Queen's Indian: Miles Variation"`,
+    desc: '"Queen\'s Indian: Miles Variation"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP1B2/5N2/PP2PPPP/RN1QKB1R b KQkq - 1 4'
   },
   {
     SCID: 'E12b',
-    desc: `"Queen's Indian: Miles, 5.e3 Be7"`,
+    desc: '"Queen\'s Indian: Miles, 5.e3 Be7"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP1B2/4PN2/PP3PPP/RN1QKB1R w KQkq - 1 6'
   },
   {
     SCID: 'E12b',
-    desc: `"Queen's Indian: Miles, 5.e3 Be7 6.h3"`,
+    desc: '"Queen\'s Indian: Miles, 5.e3 Be7 6.h3"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP1B2/4PN1P/PP3PP1/RN1QKB1R b KQkq - 0 6'
   },
   {
     SCID: 'E12c',
-    desc: `"Queen's Indian: Miles, 5.e3 Bb4+"`,
+    desc: '"Queen\'s Indian: Miles, 5.e3 Bb4+"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP1B2/4PN2/PP3PPP/RN1QKB1R w KQkq - 1 6'
   },
   {
     SCID: 'E12c',
-    desc: `"Queen's Indian: Miles, 5.e3 Bb4+ 6.Nbd2"`,
+    desc: '"Queen\'s Indian: Miles, 5.e3 Bb4+ 6.Nbd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP1B2/4PN2/PP1N1PPP/R2QKB1R b KQkq - 2 6'
   },
   {
     SCID: 'E12c',
-    desc: `"Queen's Indian: Miles, 5.e3 Bb4+ 6.Nfd2"`,
+    desc: '"Queen\'s Indian: Miles, 5.e3 Bb4+ 6.Nfd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP1B2/4P3/PP1N1PPP/RN1QKB1R b KQkq - 2 6'
   },
   {
     SCID: 'E12d',
-    desc: `"Queen's Indian: Petrosian"`,
+    desc: '"Queen\'s Indian: Petrosian"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/P4N2/1P2PPPP/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'E12e',
-    desc: `"Queen's Indian: Petrosian, 4...c5"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...c5"',
     fen: 'rnbqkb1r/p2p1ppp/1p2pn2/2p5/2PP4/P4N2/1P2PPPP/RNBQKB1R w KQkq c6 0 5'
   },
   {
     SCID: 'E12e',
-    desc: `"Queen's Indian: Petrosian, 4...c5 5.d5"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...c5 5.d5"',
     fen: 'rnbqkb1r/p2p1ppp/1p2pn2/2pP4/2P5/P4N2/1P2PPPP/RNBQKB1R b KQkq - 0 5'
   },
   {
     SCID: 'E12e',
-    desc: `"Queen's Indian: Petrosian, 4...c5 5.d5 Ba6"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...c5 5.d5 Ba6"',
     fen: 'rn1qkb1r/p2p1ppp/bp2pn2/2pP4/2P5/P4N2/1P2PPPP/RNBQKB1R w KQkq - 1 6'
   },
   {
     SCID: 'E12f',
-    desc: `"Queen's Indian: Petrosian, 4...c5 5.d5 Ba6 6.Qc2"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...c5 5.d5 Ba6 6.Qc2"',
     fen: 'rn1qkb1r/p2p1ppp/bp2pn2/2pP4/2P5/P4N2/1PQ1PPPP/RNB1KB1R b KQkq - 2 6'
   },
   {
     SCID: 'E12f',
-    desc: `"Queen's Indian: Petrosian, 4...c5 5.d5 Ba6 6.Qc2 exd5 6.cxd5 g6"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...c5 5.d5 Ba6 6.Qc2 exd5 6.cxd5 g6"',
     fen: 'rn1qkb1r/p2p1p1p/bp3np1/2pP4/8/P4N2/1PQ1PPPP/RNB1KB1R w KQkq - 0 8'
   },
   {
     SCID: 'E12g',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/P4N2/1P2PPPP/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E12g',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.e3"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.e3"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/P3PN2/1P3PPP/RNBQKB1R b KQkq - 0 5'
   },
   {
     SCID: 'E12g',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.Qc2"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.Qc2"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/P4N2/1PQ1PPPP/RNB1KB1R b KQkq - 2 5'
   },
   {
     SCID: 'E12g',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.Qc2 c5"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.Qc2 c5"',
     fen: 'rn1qkb1r/p2p1ppp/bp2pn2/2p5/2PP4/P4N2/1PQ1PPPP/RNB1KB1R w KQkq c6 0 6'
   },
   {
     SCID: 'E12h',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.Qc2 Bb7"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.Qc2 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/P4N2/1PQ1PPPP/RNB1KB1R w KQkq - 3 6'
   },
   {
     SCID: 'E12h',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.Qc2 Bb7 6.Nc3 c5"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.Qc2 Bb7 6.Nc3 c5"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PP4/P1N2N2/1PQ1PPPP/R1B1KB1R w KQkq c6 0 7'
   },
   {
     SCID: 'E12i',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PPP3/P1N2N2/1PQ2PPP/R1B1KB1R b KQkq e3 0 7'
   },
   {
     SCID: 'E12i',
-    desc: `"Queen's Indian: Petrosian, 4...Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4 cd 8.Nxd4 Nc6"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Ba6 5.Qc2 Bb7 6.Nc3 c5 7.e4 cd 8.Nxd4 Nc6"',
     fen: 'r2qkb1r/pb1p1ppp/1pn1pn2/8/2PNP3/P1N5/1PQ2PPP/R1B1KB1R w KQkq - 1 9'
   },
   {
     SCID: 'E12j',
-    desc: `"Queen's Indian: Petrosian, 4...Bb7"`,
+    desc: '"Queen\'s Indian: Petrosian, 4...Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/P4N2/1P2PPPP/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E12j',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/P1N2N2/1P2PPPP/R1BQKB1R b KQkq - 2 5'
   },
   {
     SCID: 'E12j',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 Bxf3"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 Bxf3"',
     fen: 'rn1qkb1r/p1pp1ppp/1p2pn2/8/2PP4/P1N2b2/1P2PPPP/R1BQKB1R w KQkq - 0 6'
   },
   {
     SCID: 'E12j',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 Be7"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 Be7"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 3 6'
   },
   {
     SCID: 'E12k',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 Ne4"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 Ne4"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2p3/8/2PPn3/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 3 6'
   },
   {
     SCID: 'E12l',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 g6"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 g6"',
     fen: 'rn1qkb1r/pbpp1p1p/1p2pnp1/8/2PP4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 0 6'
   },
   {
     SCID: 'E12m',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 d5"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 d5"',
     fen: 'rn1qkb1r/pbp2ppp/1p2pn2/3p4/2PP4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq d6 0 6'
   },
   {
     SCID: 'E12n',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 d5 6.Bg5"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 d5 6.Bg5"',
     fen: 'rn1qkb1r/pbp2ppp/1p2pn2/3p2B1/2PP4/P1N2N2/1P2PPPP/R2QKB1R b KQkq - 1 6'
   },
   {
     SCID: 'E12n',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7"',
     fen: 'rn1qk2r/pbp1bppp/1p2pn2/3p2B1/2PP4/P1N2N2/1P2PPPP/R2QKB1R w KQkq - 2 7'
   },
   {
     SCID: 'E12o',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7 7.Qa4+"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7 7.Qa4+"',
     fen: 'rn1qk2r/pbp1bppp/1p2pn2/3p2B1/Q1PP4/P1N2N2/1P2PPPP/R3KB1R b KQkq - 3 7'
   },
   {
     SCID: 'E12o',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7 7.Qa4+ c6"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7 7.Qa4+ c6"',
     fen: 'rn1qk2r/pb2bppp/1pp1pn2/3p2B1/Q1PP4/P1N2N2/1P2PPPP/R3KB1R w KQkq - 0 8'
   },
   {
     SCID: 'E12o',
-    desc: `"Queen's Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7 7.Qa4+ c6 8.Bxf6 Bxf6 9.cxd5 exd5"`,
+    desc: '"Queen\'s Indian: Petrosian, 5.Nc3 d5 6.Bg5 Be7 7.Qa4+ c6 8.Bxf6 Bxf6 9.cxd5 exd5"',
     fen: 'rn1qk2r/pb3ppp/1pp2b2/3p4/Q2P4/P1N2N2/1P2PPPP/R3KB1R w KQkq - 0 10'
   },
   {
     SCID: 'E12p',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 exd5"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 exd5"',
     fen: 'rn1qkb1r/pbp2ppp/1p3n2/3p4/3P4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 0 7'
   },
   {
     SCID: 'E12p',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 exd5 7.g3"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 exd5 7.g3"',
     fen: 'rn1qkb1r/pbp2ppp/1p3n2/3p4/3P4/P1N2NP1/1P2PP1P/R1BQKB1R b KQkq - 0 7'
   },
   {
     SCID: 'E12q',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 exd5 7.Bg5"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 exd5 7.Bg5"',
     fen: 'rn1qkb1r/pbp2ppp/1p3n2/3p2B1/3P4/P1N2N2/1P2PPPP/R2QKB1R b KQkq - 1 7'
   },
   {
     SCID: 'E12r',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 Nxd5"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 Nxd5"',
     fen: 'rn1qkb1r/pbp2ppp/1p2p3/3n4/3P4/P1N2N2/1P2PPPP/R1BQKB1R w KQkq - 0 7'
   },
   {
     SCID: 'E12r',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 Nxd5 7.e4"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 Nxd5 7.e4"',
     fen: 'rn1qkb1r/pbp2ppp/1p2p3/3n4/3PP3/P1N2N2/1P3PPP/R1BQKB1R b KQkq e3 0 7'
   },
   {
     SCID: 'E12s',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 Nxd5 7.e3"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 Nxd5 7.e3"',
     fen: 'rn1qkb1r/pbp2ppp/1p2p3/3n4/3P4/P1N1PN2/1P3PPP/R1BQKB1R b KQkq - 0 7'
   },
   {
     SCID: 'E12s',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 Nxd5 7.e3 g6"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 Nxd5 7.e3 g6"',
     fen: 'rn1qkb1r/pbp2p1p/1p2p1p1/3n4/3P4/P1N1PN2/1P3PPP/R1BQKB1R w KQkq - 0 8'
   },
   {
     SCID: 'E12s',
-    desc: `"Queen's Indian: Petrosian, 6.cxd5 Nxd5 7.e3 Be7"`,
+    desc: '"Queen\'s Indian: Petrosian, 6.cxd5 Nxd5 7.e3 Be7"',
     fen: 'rn1qk2r/pbp1bppp/1p2p3/3n4/3P4/P1N1PN2/1P3PPP/R1BQKB1R w KQkq - 1 8'
   },
   {
     SCID: 'E12t',
-    desc: `"Queen's Indian: Petrosian, Kasparov Variation"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov Variation"',
     fen: 'rn1qkb1r/pbp2ppp/1p2p3/3n4/3P4/P1N2N2/1PQ1PPPP/R1B1KB1R b KQkq - 1 7'
   },
   {
     SCID: 'E12t',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Be7"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Be7"',
     fen: 'rn1qk2r/pbp1bppp/1p2p3/3n4/3P4/P1N2N2/1PQ1PPPP/R1B1KB1R w KQkq - 2 8'
   },
   {
     SCID: 'E12t',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...c5"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...c5"',
     fen: 'rn1qkb1r/pb3ppp/1p2p3/2pn4/3P4/P1N2N2/1PQ1PPPP/R1B1KB1R w KQkq c6 0 8'
   },
   {
     SCID: 'E12t',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Nxc3"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Nxc3"',
     fen: 'rn1qkb1r/pbp2ppp/1p2p3/8/3P4/P1n2N2/1PQ1PPPP/R1B1KB1R w KQkq - 0 8'
   },
   {
     SCID: 'E12u',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3"',
     fen: 'rn1qkb1r/pbp2ppp/1p2p3/8/3P4/P1P2N2/2Q1PPPP/R1B1KB1R b KQkq - 0 8'
   },
   {
     SCID: 'E12u',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 c5"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 c5"',
     fen: 'rn1qkb1r/pb3ppp/1p2p3/2p5/3P4/P1P2N2/2Q1PPPP/R1B1KB1R w KQkq c6 0 9'
   },
   {
     SCID: 'E12u',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 c5 9.e4"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 c5 9.e4"',
     fen: 'rn1qkb1r/pb3ppp/1p2p3/2p5/3PP3/P1P2N2/2Q2PPP/R1B1KB1R b KQkq e3 0 9'
   },
   {
     SCID: 'E12u',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 Be7"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 Be7"',
     fen: 'rn1qk2r/pbp1bppp/1p2p3/8/3P4/P1P2N2/2Q1PPPP/R1B1KB1R w KQkq - 1 9'
   },
   {
     SCID: 'E12u',
-    desc: `"Queen's Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 Be7 9.e4"`,
+    desc: '"Queen\'s Indian: Petrosian, Kasparov, 7...Nxc3 8.bxc3 Be7 9.e4"',
     fen: 'rn1qk2r/pbp1bppp/1p2p3/8/3PP3/P1P2N2/2Q2PPP/R1B1KB1R b KQkq e3 0 9'
   },
   {
     SCID: 'E12v',
-    desc: `"Queen's Indian: 4.Bg5"`,
+    desc: '"Queen\'s Indian: 4.Bg5"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/6B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 1 4'
   },
   {
     SCID: 'E12w',
-    desc: `"Queen's Indian: 4.Nc3"`,
+    desc: '"Queen\'s Indian: 4.Nc3"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4'
   },
   {
     SCID: 'E12w',
-    desc: `"Queen's Indian: 4.Nc3 Bb7"`,
+    desc: '"Queen\'s Indian: 4.Nc3 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5'
   },
   {
     SCID: 'E12w',
-    desc: `"Queen's Indian: 4.Nc3 Bb7 5.Bg5"`,
+    desc: '"Queen\'s Indian: 4.Nc3 Bb7 5.Bg5"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 5'
   },
   {
     SCID: 'E12x',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Be7"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Be7"',
     fen: 'rn1qk2r/pbppbpp1/1p2pn1p/8/2PP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7'
   },
   {
     SCID: 'E12x',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Be7 7.e3 Ne4"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Be7 7.e3 Ne4"',
     fen: 'rn1qk2r/pbppbpp1/1p2p2p/8/2PPn2B/2N1PN2/PP3PPP/R2QKB1R w KQkq - 1 8'
   },
   {
     SCID: 'E12x',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Be7 7.e3 c5"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Be7 7.e3 c5"',
     fen: 'rn1qk2r/pb1pbpp1/1p2pn1p/2p5/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQkq c6 0 8'
   },
   {
     SCID: 'E12y',
-    desc: `"Queen's Indian: Botvinnik Variation"`,
+    desc: '"Queen\'s Indian: Botvinnik Variation"',
     fen: 'rn1qkb1r/pbpp1p2/1p2pn1p/6p1/2PP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq g6 0 7'
   },
   {
     SCID: 'E12y',
-    desc: `"Queen's Indian: Botvinnik, 8.Qc2"`,
+    desc: '"Queen\'s Indian: Botvinnik, 8.Qc2"',
     fen: 'rn1qkb1r/pbpp1p2/1p2p2p/6pn/2PP4/2N2NB1/PPQ1PPPP/R3KB1R b KQkq - 3 8'
   },
   {
     SCID: 'E12y',
-    desc: `"Queen's Indian: Botvinnik, 8.e3"`,
+    desc: '"Queen\'s Indian: Botvinnik, 8.e3"',
     fen: 'rn1qkb1r/pbpp1p2/1p2p2p/6pn/2PP4/2N1PNB1/PP3PPP/R2QKB1R b KQkq - 0 8'
   },
   {
     SCID: 'E13a',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7'
   },
   {
     SCID: 'E13b',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Qc2"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Qc2"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PPQ1PPPP/R3KB1R b KQkq - 3 7'
   },
   {
     SCID: 'E13c',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Qc2 g5"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Qc2 g5"',
     fen: 'rn1qk2r/pbpp1p2/1p2pn1p/6p1/1bPP3B/2N2N2/PPQ1PPPP/R3KB1R w KQkq g6 0 8'
   },
   {
     SCID: 'E13d',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Nd2"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Nd2"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N5/PP1NPPPP/R2QKB1R b KQkq - 3 7'
   },
   {
     SCID: 'E13e',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Nd2 Bxc3"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Nd2 Bxc3"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/2PP3B/2b5/PP1NPPPP/R2QKB1R w KQkq - 0 8'
   },
   {
     SCID: 'E13e',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Nd2 Bxc3 8.bxc3"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.Nd2 Bxc3 8.bxc3"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/2PP3B/2P5/P2NPPPP/R2QKB1R b KQkq - 0 8'
   },
   {
     SCID: 'E13f',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7'
   },
   {
     SCID: 'E13g',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 c5"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 c5"',
     fen: 'rn1qk2r/pb1p1pp1/1p2pn1p/2p5/1bPP3B/2N1PN2/PP3PPP/R2QKB1R w KQkq c6 0 8'
   },
   {
     SCID: 'E13h',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/2PP3B/2b1PN2/PP3PPP/R2QKB1R w KQkq - 0 8'
   },
   {
     SCID: 'E13h',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3"',
     fen: 'rn1qk2r/pbpp1pp1/1p2pn1p/8/2PP3B/2P1PN2/P4PPP/R2QKB1R b KQkq - 0 8'
   },
   {
     SCID: 'E13i',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6"',
     fen: 'rn1qk2r/pbp2pp1/1p1ppn1p/8/2PP3B/2P1PN2/P4PPP/R2QKB1R w KQkq - 0 9'
   },
   {
     SCID: 'E13j',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2"',
     fen: 'rn1qk2r/pbp2pp1/1p1ppn1p/8/2PP3B/2P1P3/P2N1PPP/R2QKB1R b KQkq - 1 9'
   },
   {
     SCID: 'E13k',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2 Nbd7"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2 Nbd7"',
     fen: 'r2qk2r/pbpn1pp1/1p1ppn1p/8/2PP3B/2P1P3/P2N1PPP/R2QKB1R w KQkq - 2 10'
   },
   {
     SCID: 'E13k',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2 Nbd7 10.f3"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2 Nbd7 10.f3"',
     fen: 'r2qk2r/pbpn1pp1/1p1ppn1p/8/2PP3B/2P1PP2/P2N2PP/R2QKB1R b KQkq - 0 10'
   },
   {
     SCID: 'E13l',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2 Nbd7 10.f3 Qe7"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 Bxc3+ 8.bxc3 d6 9.Nd2 Nbd7 10.f3 Qe7"',
     fen: 'r3k2r/pbpnqpp1/1p1ppn1p/8/2PP3B/2P1PP2/P2N2PP/R2QKB1R w KQkq - 1 11'
   },
   {
     SCID: 'E13m',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5"',
     fen: 'rn1qk2r/pbpp1p2/1p2pn1p/6p1/1bPP3B/2N1PN2/PP3PPP/R2QKB1R w KQkq g6 0 8'
   },
   {
     SCID: 'E13m',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5"',
     fen: 'rn1qk2r/pbpp1p2/1p2pn1p/6p1/1bPP4/2N1PNB1/PP3PPP/R2QKB1R b KQkq - 1 8'
   },
   {
     SCID: 'E13m',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4"',
     fen: 'rn1qk2r/pbpp1p2/1p2p2p/6p1/1bPPn3/2N1PNB1/PP3PPP/R2QKB1R w KQkq - 2 9'
   },
   {
     SCID: 'E13n',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2"',
     fen: 'rn1qk2r/pbpp1p2/1p2p2p/6p1/1bPPn3/2N1PNB1/PPQ2PPP/R3KB1R b KQkq - 3 9'
   },
   {
     SCID: 'E13o',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+"',
     fen: 'rn1qk2r/pbpp1p2/1p2p2p/6p1/2PPn3/2b1PNB1/PPQ2PPP/R3KB1R w KQkq - 0 10'
   },
   {
     SCID: 'E13o',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+"',
     fen: 'rn1qk2r/pbpp1p2/1p2p2p/6p1/2PPn3/2P1PNB1/P1Q2PPP/R3KB1R b KQkq - 0 10'
   },
   {
     SCID: 'E13p',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+ 10.bxc3 d6"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+ 10.bxc3 d6"',
     fen: 'rn1qk2r/pbp2p2/1p1pp2p/6p1/2PPn3/2P1PNB1/P1Q2PPP/R3KB1R w KQkq - 0 11'
   },
   {
     SCID: 'E13p',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+ 10.bxc3 d6 11.Bd3"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+ 10.bxc3 d6 11.Bd3"',
     fen: 'rn1qk2r/pbp2p2/1p1pp2p/6p1/2PPn3/2PBPNB1/P1Q2PPP/R3K2R b KQkq - 1 11'
   },
   {
     SCID: 'E13q',
-    desc: `"Queen's Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+ 10.bxc3 d6 11.Bd3 f5"`,
+    desc: '"Queen\'s Indian: 5.Bg5 h6 6.Bh4 Bb4 7.e3 g5 8.Bg3 Ne4 9.Qc2 Bxc3+ 10.bxc3 d6 11.Bd3 f5"',
     fen: 'rn1qk2r/pbp5/1p1pp2p/5pp1/2PPn3/2PBPNB1/P1Q2PPP/R3K2R w KQkq f6 0 12'
   },
   {
     SCID: 'E14a',
-    desc: `"Queen's Indian: 4.e3"`,
+    desc: '"Queen\'s Indian: 4.e3"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'E14a',
-    desc: `"Queen's Indian: 4.e3 Bb4+"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb4+"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E14b',
-    desc: `"Queen's Indian: 4.e3 Bb7"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E14c',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Nc3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Nc3"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 2 5'
   },
   {
     SCID: 'E14d',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Nc3 d5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Nc3 d5"',
     fen: 'rn1qkb1r/pbp2ppp/1p2pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq d6 0 6'
   },
   {
     SCID: 'E14e',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/3BPN2/PP3PPP/RNBQK2R b KQkq - 2 5'
   },
   {
     SCID: 'E14f',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/3BPN2/PP3PPP/RNBQK2R w KQkq - 3 6'
   },
   {
     SCID: 'E14g',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/3BPN2/PP1N1PPP/R1BQK2R b KQkq - 4 6'
   },
   {
     SCID: 'E14g',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 c5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 c5"',
     fen: 'rn1qk2r/pb1p1ppp/1p2pn2/2p5/1bPP4/3BPN2/PP1N1PPP/R1BQK2R w KQkq c6 0 7'
   },
   {
     SCID: 'E14h',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pn2/8/1bPP4/3BPN2/PP1N1PPP/R1BQK2R w KQ - 5 7'
   },
   {
     SCID: 'E14i',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O d5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O d5"',
     fen: 'rn1q1rk1/pbp2ppp/1p2pn2/3p4/1bPP4/3BPN2/PP1N1PPP/R1BQ1RK1 w - d6 0 8'
   },
   {
     SCID: 'E14i',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O d5 8.a3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O d5 8.a3"',
     fen: 'rn1q1rk1/pbp2ppp/1p2pn2/3p4/1bPP4/P2BPN2/1P1N1PPP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E14i',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O d5 8.a3 Be7"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Bb4+ 6.Nbd2 O-O 7.O-O d5 8.a3 Be7"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PP4/P2BPN2/1P1N1PPP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E14i',
-    desc: `"Queen's Indian: Dreev Variation"`,
+    desc: '"Queen\'s Indian: Dreev Variation"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/1PPP4/P2BPN2/3N1PPP/R1BQ1RK1 b - b3 0 9'
   },
   {
     SCID: 'E14j',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Be7"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Be7"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/3BPN2/PP3PPP/RNBQK2R w KQkq - 3 6'
   },
   {
     SCID: 'E14k',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Be7 6.O-O"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Be7 6.O-O"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/3BPN2/PP3PPP/RNBQ1RK1 b kq - 4 6'
   },
   {
     SCID: 'E14k',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Be7 6.O-O O-O"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Be7 6.O-O O-O"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/3BPN2/PP3PPP/RNBQ1RK1 w - - 5 7'
   },
   {
     SCID: 'E14l',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 Be7 6.O-O O-O 7.Nc3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 Be7 6.O-O O-O 7.Nc3"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 b - - 6 7'
   },
   {
     SCID: 'E14m',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 d5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 d5"',
     fen: 'rn1qkb1r/pbp2ppp/1p2pn2/3p4/2PP4/3BPN2/PP3PPP/RNBQK2R w KQkq d6 0 6'
   },
   {
     SCID: 'E14n',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O"',
     fen: 'rn1qkb1r/pbp2ppp/1p2pn2/3p4/2PP4/3BPN2/PP3PPP/RNBQ1RK1 b kq - 1 6'
   },
   {
     SCID: 'E14n',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6"',
     fen: 'rn1qk2r/pbp2ppp/1p1bpn2/3p4/2PP4/3BPN2/PP3PPP/RNBQ1RK1 w kq - 2 7'
   },
   {
     SCID: 'E14o',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6 7.b3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6 7.b3"',
     fen: 'rn1qk2r/pbp2ppp/1p1bpn2/3p4/2PP4/1P1BPN2/P4PPP/RNBQ1RK1 b kq - 0 7'
   },
   {
     SCID: 'E14p',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6 7.Nc3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 d5 6.O-O Bd6 7.Nc3"',
     fen: 'rn1qk2r/pbp2ppp/1p1bpn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 b kq - 3 7'
   },
   {
     SCID: 'E14q',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PP4/3BPN2/PP3PPP/RNBQK2R w KQkq c6 0 6'
   },
   {
     SCID: 'E14q',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.Nc3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.Nc3"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PP4/2NBPN2/PP3PPP/R1BQK2R b KQkq - 1 6'
   },
   {
     SCID: 'E14r',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PP4/3BPN2/PP3PPP/RNBQ1RK1 b kq - 1 6'
   },
   {
     SCID: 'E14s',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O cxd4"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O cxd4"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/8/2Pp4/3BPN2/PP3PPP/RNBQ1RK1 w kq - 0 7'
   },
   {
     SCID: 'E14s',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O cxd4 7.exd4"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O cxd4 7.exd4"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/8/2PP4/3B1N2/PP3PPP/RNBQ1RK1 b kq - 0 7'
   },
   {
     SCID: 'E14t',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7"',
     fen: 'rn1qk2r/pb1pbppp/1p2pn2/2p5/2PP4/3BPN2/PP3PPP/RNBQ1RK1 w kq - 2 7'
   },
   {
     SCID: 'E14t',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nbd2"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nbd2"',
     fen: 'rn1qk2r/pb1pbppp/1p2pn2/2p5/2PP4/3BPN2/PP1N1PPP/R1BQ1RK1 b kq - 3 7'
   },
   {
     SCID: 'E14u',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3"',
     fen: 'rn1qk2r/pb1pbppp/1p2pn2/2p5/2PP4/1P1BPN2/P4PPP/RNBQ1RK1 b kq - 0 7'
   },
   {
     SCID: 'E14u',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/2p5/2PP4/1P1BPN2/PB3PPP/RN1Q1RK1 b - - 2 8'
   },
   {
     SCID: 'E14v',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 d5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 d5"',
     fen: 'rn1q1rk1/pb2bppp/1p2pn2/2pp4/2PP4/1P1BPN2/PB3PPP/RN1Q1RK1 w - d6 0 9'
   },
   {
     SCID: 'E14w',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/8/2Pp4/1P1BPN2/PB3PPP/RN1Q1RK1 w - - 0 9'
   },
   {
     SCID: 'E14w',
-    desc: `"Queen's Indian: Averbakh Variation"`,
+    desc: '"Queen\'s Indian: Averbakh Variation"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/8/2PN4/1P1BP3/PB3PPP/RN1Q1RK1 b - - 0 9'
   },
   {
     SCID: 'E14w',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.exd4"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.exd4"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/8/2PP4/1P1B1N2/PB3PPP/RN1Q1RK1 b - - 0 9'
   },
   {
     SCID: 'E14w',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.exd4 d5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.b3 O-O 8.Bb2 cxd4 9.exd4 d5"',
     fen: 'rn1q1rk1/pb2bppp/1p2pn2/3p4/2PP4/1P1B1N2/PB3PPP/RN1Q1RK1 w - d6 0 10'
   },
   {
     SCID: 'E14x',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3"',
     fen: 'rn1qk2r/pb1pbppp/1p2pn2/2p5/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 b kq - 3 7'
   },
   {
     SCID: 'E14x',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 O-O"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 O-O"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/2p5/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 4 8'
   },
   {
     SCID: 'E14x',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4"',
     fen: 'rn1qk2r/pb1pbppp/1p2pn2/8/2Pp4/2NBPN2/PP3PPP/R1BQ1RK1 w kq - 0 8'
   },
   {
     SCID: 'E14y',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4 8.exd4"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4 8.exd4"',
     fen: 'rn1qk2r/pb1pbppp/1p2pn2/8/2PP4/2NB1N2/PP3PPP/R1BQ1RK1 b kq - 0 8'
   },
   {
     SCID: 'E14z',
-    desc: `"Queen's Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4 8.exd4 d5"`,
+    desc: '"Queen\'s Indian: 4.e3 Bb7 5.Bd3 c5 6.O-O Be7 7.Nc3 cxd4 8.exd4 d5"',
     fen: 'rn1qk2r/pb2bppp/1p2pn2/3p4/2PP4/2NB1N2/PP3PPP/R1BQ1RK1 w kq d6 0 9'
   },
   {
     SCID: 'E15a',
-    desc: `"Queen's Indian: 4.g3"`,
+    desc: '"Queen\'s Indian: 4.g3"',
     fen: 'rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'E15b',
-    desc: `"Queen's Indian: 4.g3 Bb4+"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb4+"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E15b',
-    desc: `"Queen's Indian: 4.g3 Bb4+"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb4+"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/5NP1/PP1BPP1P/RN1QKB1R b KQkq - 2 5'
   },
   {
     SCID: 'E15c',
-    desc: `"Queen's Indian: 4.g3 Bb4+ 5.Bd2 Bxd2+"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb4+ 5.Bd2 Bxd2+"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP1bPP1P/RN1QKB1R w KQkq - 0 6'
   },
   {
     SCID: 'E15c',
-    desc: `"Queen's Indian: 4.g3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ba6"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb4+ 5.Bd2 Bxd2+ 6.Qxd2 Ba6"',
     fen: 'rn1qk2r/p1pp1ppp/bp2pn2/8/2PP4/5NP1/PP1QPP1P/RN2KB1R w KQkq - 1 7'
   },
   {
     SCID: 'E15d',
-    desc: `"Queen's Indian: Nimzowitsch Variation (4.g3 Ba6)"`,
+    desc: '"Queen\'s Indian: Nimzowitsch Variation (4.g3 Ba6)"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E15d',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qb3"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qb3"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/1Q3NP1/PP2PP1P/RNB1KB1R b KQkq - 2 5'
   },
   {
     SCID: 'E15d',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qc2"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qc2"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/5NP1/PPQ1PP1P/RNB1KB1R b KQkq - 2 5'
   },
   {
     SCID: 'E15e',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Nbd2"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Nbd2"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/5NP1/PP1NPP1P/R1BQKB1R b KQkq - 2 5'
   },
   {
     SCID: 'E15e',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Nbd2 c5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Nbd2 c5"',
     fen: 'rn1qkb1r/p2p1ppp/bp2pn2/2p5/2PP4/5NP1/PP1NPP1P/R1BQKB1R w KQkq c6 0 6'
   },
   {
     SCID: 'E15f',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Nbd2 Bb7"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Nbd2 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1NPP1P/R1BQKB1R w KQkq - 3 6'
   },
   {
     SCID: 'E15f',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Nbd2 Bb7 6.Bg2"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Nbd2 Bb7 6.Bg2"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1NPPBP/R1BQK2R b KQkq - 4 6'
   },
   {
     SCID: 'E15f',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Nbd2 Bb7 6.Bg2 c5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Nbd2 Bb7 6.Bg2 c5"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PP4/5NP1/PP1NPPBP/R1BQK2R w KQkq c6 0 7'
   },
   {
     SCID: 'E15g',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Nbd2 Bb4"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Nbd2 Bb4"',
     fen: 'rn1qk2r/p1pp1ppp/bp2pn2/8/1bPP4/5NP1/PP1NPP1P/R1BQKB1R w KQkq - 3 6'
   },
   {
     SCID: 'E15h',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4"',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/Q1PP4/5NP1/PP2PP1P/RNB1KB1R b KQkq - 2 5'
   },
   {
     SCID: 'E15h',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 Be7"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 Be7"',
     fen: 'rn1qk2r/p1ppbppp/bp2pn2/8/Q1PP4/5NP1/PP2PP1P/RNB1KB1R w KQkq - 3 6'
   },
   {
     SCID: 'E15i',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 c6"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 c6"',
     fen: 'rn1qkb1r/p2p1ppp/bpp1pn2/8/Q1PP4/5NP1/PP2PP1P/RNB1KB1R w KQkq - 0 6'
   },
   {
     SCID: 'E15i',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 c6 6.Nc3 b5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 c6 6.Nc3 b5"',
     fen: 'rn1qkb1r/p2p1ppp/b1p1pn2/1p6/Q1PP4/2N2NP1/PP2PP1P/R1B1KB1R w KQkq - 0 7'
   },
   {
     SCID: 'E15j',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 c5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 c5"',
     fen: 'rn1qkb1r/p2p1ppp/bp2pn2/2p5/Q1PP4/5NP1/PP2PP1P/RNB1KB1R w KQkq c6 0 6'
   },
   {
     SCID: 'E15j',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 c5 6.Bg2 Bb7"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 c5 6.Bg2 Bb7"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/Q1PP4/5NP1/PP2PPBP/RNB1K2R w KQkq - 2 7'
   },
   {
     SCID: 'E15j',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 c5 6.Bg2 Bb7 7.dxc5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 c5 6.Bg2 Bb7 7.dxc5"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2P5/Q1P5/5NP1/PP2PPBP/RNB1K2R b KQkq - 0 7'
   },
   {
     SCID: 'E15k',
-    desc: `"Queen's Indian: Nimzowitsch, 5.Qa4 c5 6.Bg2 Bb7 7.O-O"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.Qa4 c5 6.Bg2 Bb7 7.O-O"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/Q1PP4/5NP1/PP2PPBP/RNB2RK1 b kq - 3 7'
   },
   {
     SCID: 'E15l',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 "`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 "',
     fen: 'rn1qkb1r/p1pp1ppp/bp2pn2/8/2PP4/1P3NP1/P3PP1P/RNBQKB1R b KQkq - 0 5'
   },
   {
     SCID: 'E15l',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 b5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 b5"',
     fen: 'rn1qkb1r/p1pp1ppp/b3pn2/1p6/2PP4/1P3NP1/P3PP1P/RNBQKB1R w KQkq - 0 6'
   },
   {
     SCID: 'E15l',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 b5 6.cxb5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 b5 6.cxb5"',
     fen: 'rn1qkb1r/p1pp1ppp/b3pn2/1P6/3P4/1P3NP1/P3PP1P/RNBQKB1R b KQkq - 0 6'
   },
   {
     SCID: 'E15m',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 d5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 d5"',
     fen: 'rn1qkb1r/p1p2ppp/bp2pn2/3p4/2PP4/1P3NP1/P3PP1P/RNBQKB1R w KQkq d6 0 6'
   },
   {
     SCID: 'E15m',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 d5 6.cxd5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 d5 6.cxd5"',
     fen: 'rn1qkb1r/p1p2ppp/bp2pn2/3P4/3P4/1P3NP1/P3PP1P/RNBQKB1R b KQkq - 0 6'
   },
   {
     SCID: 'E15m',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 d5 6.Bg2"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 d5 6.Bg2"',
     fen: 'rn1qkb1r/p1p2ppp/bp2pn2/3p4/2PP4/1P3NP1/P3PPBP/RNBQK2R b KQkq - 1 6'
   },
   {
     SCID: 'E15n',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb7"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/1P3NP1/P3PP1P/RNBQKB1R w KQkq - 1 6'
   },
   {
     SCID: 'E15n',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb7 6.Bg2"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb7 6.Bg2"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/1P3NP1/P3PPBP/RNBQK2R b KQkq - 2 6'
   },
   {
     SCID: 'E15n',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb7, 7...a5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb7, 7...a5"',
     fen: 'rn1qk2r/1bpp1ppp/1p2pn2/p7/1bPP4/1P3NP1/P2BPPBP/RN1QK2R w KQkq a6 0 8'
   },
   {
     SCID: 'E15n',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb7, 7...a5 8.O-O O-O"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb7, 7...a5 8.O-O O-O"',
     fen: 'rn1q1rk1/1bpp1ppp/1p2pn2/p7/1bPP4/1P3NP1/P2BPPBP/RN1Q1RK1 w - - 2 9'
   },
   {
     SCID: 'E15o',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+"',
     fen: 'rn1qk2r/p1pp1ppp/bp2pn2/8/1bPP4/1P3NP1/P3PP1P/RNBQKB1R w KQkq - 1 6'
   },
   {
     SCID: 'E15o',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7"',
     fen: 'rn1qk2r/p1ppbppp/bp2pn2/8/2PP4/1P3NP1/P2BPP1P/RN1QKB1R w KQkq - 3 7'
   },
   {
     SCID: 'E15o',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Nc3"',
     fen: 'rn1qk2r/p1ppbppp/bp2pn2/8/2PP4/1PN2NP1/P2BPP1P/R2QKB1R b KQkq - 4 7'
   },
   {
     SCID: 'E15p',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2"',
     fen: 'rn1qk2r/p1ppbppp/bp2pn2/8/2PP4/1P3NP1/P2BPPBP/RN1QK2R b KQkq - 4 7'
   },
   {
     SCID: 'E15p',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5"',
     fen: 'rn1qk2r/p1p1bppp/bp2pn2/3p4/2PP4/1P3NP1/P2BPPBP/RN1QK2R w KQkq d6 0 8'
   },
   {
     SCID: 'E15p',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 d5"',
     fen: 'rn1q1rk1/p1p1bppp/bp3n2/3p4/3P4/1P3NP1/P2BPPBP/RN1Q1RK1 w - - 2 10'
   },
   {
     SCID: 'E15q',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6"',
     fen: 'rn1qk2r/p2pbppp/bpp1pn2/8/2PP4/1P3NP1/P2BPPBP/RN1QK2R w KQkq - 0 8'
   },
   {
     SCID: 'E15q',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O"',
     fen: 'rn1qk2r/p2pbppp/bpp1pn2/8/2PP4/1P3NP1/P2BPPBP/RN1Q1RK1 b kq - 1 8'
   },
   {
     SCID: 'E15q',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O d5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+ 6.Bd2 Be7 7.Bg2 c6 8.O-O d5"',
     fen: 'rn1qk2r/p3bppp/bpp1pn2/3p4/2PP4/1P3NP1/P2BPPBP/RN1Q1RK1 w kq d6 0 9'
   },
   {
     SCID: 'E15r',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+, Main Line"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+, Main Line"',
     fen: 'rn1qk2r/p2pbppp/bpp1pn2/8/2PP4/1PB2NP1/P3PPBP/RN1QK2R b KQkq - 1 8'
   },
   {
     SCID: 'E15s',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+, Main Line, 9.Ne5"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+, Main Line, 9.Ne5"',
     fen: 'rn1qk2r/p3bppp/bpp1pn2/3pN3/2PP4/1PB3P1/P3PPBP/RN1QK2R b KQkq - 1 9'
   },
   {
     SCID: 'E15s',
-    desc: `"Queen's Indian: Nimzowitsch, 5.b3 Bb4+, Main Line, 9.Ne5 Nfd7"`,
+    desc: '"Queen\'s Indian: Nimzowitsch, 5.b3 Bb4+, Main Line, 9.Ne5 Nfd7"',
     fen: 'rn1qk2r/p2nbppp/bpp1p3/3pN3/2PP4/1PB3P1/P3PPBP/RN1QK2R w KQkq - 2 10'
   },
   {
     SCID: 'E15t',
-    desc: `"Queen's Indian: 4.g3 Bb7"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 5'
   },
   {
     SCID: 'E15t',
-    desc: `"Queen's Indian: 4.g3 Bb7"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb7"',
     fen: 'rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 2 5'
   },
   {
     SCID: 'E15t',
-    desc: `"Queen's Indian: 4.g3 Bb7 5.Bg2 Qc8"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb7 5.Bg2 Qc8"',
     fen: 'rnq1kb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 3 6'
   },
   {
     SCID: 'E15t',
-    desc: `"Queen's Indian: 4.g3 Bb7 5.Bg2 Qc8 6.O-O c5 7.d5"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb7 5.Bg2 Qc8 6.O-O c5 7.d5"',
     fen: 'rnq1kb1r/pb1p1ppp/1p2pn2/2pP4/2P5/5NP1/PP2PPBP/RNBQ1RK1 b kq - 0 7'
   },
   {
     SCID: 'E15u',
-    desc: `"Queen's Indian: 4.g3 Bb7 5.Bg2 c5"`,
+    desc: '"Queen\'s Indian: 4.g3 Bb7 5.Bg2 c5"',
     fen: 'rn1qkb1r/pb1p1ppp/1p2pn2/2p5/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq c6 0 6'
   },
   {
     SCID: 'E15u',
-    desc: `"Queen's Indian: Buerger Variation"`,
+    desc: '"Queen\'s Indian: Buerger Variation"',
     fen: 'rn1qkb1r/pb1p1ppp/1p3n2/2pp2N1/2P5/6P1/PP2PPBP/RNBQK2R b KQkq - 1 7'
   },
   {
     SCID: 'E15v',
-    desc: `"Queen's Indian: Rubinstein Variation"`,
+    desc: '"Queen\'s Indian: Rubinstein Variation"',
     fen: 'rn1qkb1r/pb1p1ppp/1p3n2/2pp4/2P4N/6P1/PP2PPBP/RNBQK2R b KQkq - 1 7'
   },
   {
     SCID: 'E16a',
-    desc: `"Queen's Indian: Capablanca Variation"`,
+    desc: '"Queen\'s Indian: Capablanca Variation"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 3 6'
   },
   {
     SCID: 'E16b',
-    desc: `"Queen's Indian: Capablanca, 6.Nbd2"`,
+    desc: '"Queen\'s Indian: Capablanca, 6.Nbd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP1NPPBP/R1BQK2R b KQkq - 4 6'
   },
   {
     SCID: 'E16c',
-    desc: `"Queen's Indian: Capablanca, 6.Nbd2 O-O"`,
+    desc: '"Queen\'s Indian: Capablanca, 6.Nbd2 O-O"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP1NPPBP/R1BQK2R w KQ - 5 7'
   },
   {
     SCID: 'E16d',
-    desc: `"Queen's Indian: Capablanca, 6.Nbd2 O-O 7.O-O d5"`,
+    desc: '"Queen\'s Indian: Capablanca, 6.Nbd2 O-O 7.O-O d5"',
     fen: 'rn1q1rk1/pbp2ppp/1p2pn2/3p4/1bPP4/5NP1/PP1NPPBP/R1BQ1RK1 w - d6 0 8'
   },
   {
     SCID: 'E16e',
-    desc: `"Queen's Indian: Capablanca, 6.Bd2"`,
+    desc: '"Queen\'s Indian: Capablanca, 6.Bd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP1BPPBP/RN1QK2R b KQkq - 4 6'
   },
   {
     SCID: 'E16e',
-    desc: `"Queen's Indian: Capablanca, 6.Bd2 c5"`,
+    desc: '"Queen\'s Indian: Capablanca, 6.Bd2 c5"',
     fen: 'rn1qk2r/pb1p1ppp/1p2pn2/2p5/1bPP4/5NP1/PP1BPPBP/RN1QK2R w KQkq c6 0 7'
   },
   {
     SCID: 'E16f',
-    desc: `"Queen's Indian: Capablanca, Yates Variation"`,
+    desc: '"Queen\'s Indian: Capablanca, Yates Variation"',
     fen: 'rn1qk2r/1bpp1ppp/1p2pn2/p7/1bPP4/5NP1/PP1BPPBP/RN1QK2R w KQkq a6 0 7'
   },
   {
     SCID: 'E16g',
-    desc: `"Queen's Indian: Capablanca, Yates, 7.O-O O-O"`,
+    desc: '"Queen\'s Indian: Capablanca, Yates, 7.O-O O-O"',
     fen: 'rn1q1rk1/1bpp1ppp/1p2pn2/p7/1bPP4/5NP1/PP1BPPBP/RN1Q1RK1 w - - 2 8'
   },
   {
     SCID: 'E16h',
-    desc: `"Queen's Indian: Capablanca, Nimzowitsch Variation"`,
+    desc: '"Queen\'s Indian: Capablanca, Nimzowitsch Variation"',
     fen: 'rn2k2r/pbppqppp/1p2pn2/8/1bPP4/5NP1/PP1BPPBP/RN1QK2R w KQkq - 5 7'
   },
   {
     SCID: 'E16i',
-    desc: `"Queen's Indian: Capablanca, Nimzowitsch, 7.O-O Bxd2 8.Qxd2"`,
+    desc: '"Queen\'s Indian: Capablanca, Nimzowitsch, 7.O-O Bxd2 8.Qxd2"',
     fen: 'rn2k2r/pbppqppp/1p2pn2/8/2PP4/5NP1/PP1QPPBP/RN3RK1 b kq - 0 8'
   },
   {
     SCID: 'E16j',
-    desc: `"Queen's Indian: Capablanca, Riumin Variation"`,
+    desc: '"Queen\'s Indian: Capablanca, Riumin Variation"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP1BPPBP/RN1QK2R w KQkq - 5 7'
   },
   {
     SCID: 'E16k',
-    desc: `"Queen's Indian: Capablanca, Riumin, 7.Nc3"`,
+    desc: '"Queen\'s Indian: Capablanca, Riumin, 7.Nc3"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP1BPPBP/R2QK2R b KQkq - 6 7'
   },
   {
     SCID: 'E16l',
-    desc: `"Queen's Indian: Capablanca, Riumin, 7.Nc3 O-O"`,
+    desc: '"Queen\'s Indian: Capablanca, Riumin, 7.Nc3 O-O"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP1BPPBP/R2QK2R w KQ - 7 8'
   },
   {
     SCID: 'E16m',
-    desc: `"Queen's Indian: Capablanca, Riumin, 7.Nc3 O-O 8.O-O"`,
+    desc: '"Queen\'s Indian: Capablanca, Riumin, 7.Nc3 O-O 8.O-O"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP1BPPBP/R2Q1RK1 b - - 8 8'
   },
   {
     SCID: 'E16n',
-    desc: `"Queen's Indian: Capablanca, Riumin, 7.Nc3 O-O 8.O-O d5"`,
+    desc: '"Queen\'s Indian: Capablanca, Riumin, 7.Nc3 O-O 8.O-O d5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PP4/2N2NP1/PP1BPPBP/R2Q1RK1 w - d6 0 9'
   },
   {
     SCID: 'E16o',
-    desc: `"Queen's Indian: Capablanca, 6...Bxd2+"`,
+    desc: '"Queen\'s Indian: Capablanca, 6...Bxd2+"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1bPPBP/RN1QK2R w KQkq - 0 7'
   },
   {
     SCID: 'E16o',
-    desc: `"Queen's Indian: Capablanca, 6...Bxd2+ 7.Nbxd2"`,
+    desc: '"Queen\'s Indian: Capablanca, 6...Bxd2+ 7.Nbxd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1NPPBP/R2QK2R b KQkq - 0 7'
   },
   {
     SCID: 'E16p',
-    desc: `"Queen's Indian: Capablanca, 6...Bxd2+ 7.Qxd2"`,
+    desc: '"Queen\'s Indian: Capablanca, 6...Bxd2+ 7.Qxd2"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1QPPBP/RN2K2R b KQkq - 0 7'
   },
   {
     SCID: 'E16q',
-    desc: `"Queen's Indian: Capablanca, 6...Bxd2+ 7.Qxd2 O-O"`,
+    desc: '"Queen\'s Indian: Capablanca, 6...Bxd2+ 7.Qxd2 O-O"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1QPPBP/RN2K2R w KQ - 1 8'
   },
   {
     SCID: 'E16q',
-    desc: `"Queen's Indian: Capablanca, 6...Bxd2+ 7.Qxd2 O-O 8.O-O"`,
+    desc: '"Queen\'s Indian: Capablanca, 6...Bxd2+ 7.Qxd2 O-O 8.O-O"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP1QPPBP/RN3RK1 b - - 2 8'
   },
   {
     SCID: 'E16r',
-    desc: `"Queen's Indian: Capablanca, 6...Bxd2+ 7.Qxd2 O-O 8.Nc3"`,
+    desc: '"Queen\'s Indian: Capablanca, 6...Bxd2+ 7.Qxd2 O-O 8.Nc3"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pn2/8/2PP4/2N2NP1/PP1QPPBP/R3K2R b KQ - 2 8'
   },
   {
     SCID: 'E17a',
-    desc: `"Queen's Indian: 5.Bg2 Be7"`,
+    desc: '"Queen\'s Indian: 5.Bg2 Be7"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 3 6'
   },
   {
     SCID: 'E17b',
-    desc: `"Queen's Indian: 6.Nc3"`,
+    desc: '"Queen\'s Indian: 6.Nc3"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R b KQkq - 4 6'
   },
   {
     SCID: 'E17b',
-    desc: `"Queen's Indian: 6.Nc3 d5"`,
+    desc: '"Queen\'s Indian: 6.Nc3 d5"',
     fen: 'rn1qk2r/pbp1bppp/1p2pn2/3p4/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQkq d6 0 7'
   },
   {
     SCID: 'E17c',
-    desc: `"Queen's Indian: 6.Nc3 O-O"`,
+    desc: '"Queen\'s Indian: 6.Nc3 O-O"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 5 7'
   },
   {
     SCID: 'E17d',
-    desc: `"Queen's Indian: 6.Nc3 O-O 7.Qc2"`,
+    desc: '"Queen\'s Indian: 6.Nc3 O-O 7.Qc2"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PPQ1PPBP/R1B1K2R b KQ - 6 7'
   },
   {
     SCID: 'E17e',
-    desc: `"Queen's Indian: 6.Nc3 O-O 7.Qc2 c5"`,
+    desc: '"Queen\'s Indian: 6.Nc3 O-O 7.Qc2 c5"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/2p5/2PP4/2N2NP1/PPQ1PPBP/R1B1K2R w KQ c6 0 8'
   },
   {
     SCID: 'E17f',
-    desc: `"Queen's Indian: 6.Nc3 O-O 7.Qc2 d5"`,
+    desc: '"Queen\'s Indian: 6.Nc3 O-O 7.Qc2 d5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PP4/2N2NP1/PPQ1PPBP/R1B1K2R w KQ d6 0 8'
   },
   {
     SCID: 'E17g',
-    desc: `"Queen's Indian: 6.Nc3 Ne4"`,
+    desc: '"Queen\'s Indian: 6.Nc3 Ne4"',
     fen: 'rn1qk2r/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 5 7'
   },
   {
     SCID: 'E17g',
-    desc: `"Queen's Indian: 6.Nc3 Ne4 7.Qc2"`,
+    desc: '"Queen\'s Indian: 6.Nc3 Ne4 7.Qc2"',
     fen: 'rn1qk2r/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PPQ1PPBP/R1B1K2R b KQkq - 6 7'
   },
   {
     SCID: 'E17h',
-    desc: `"Queen's Indian: Opovcensky Variation"`,
+    desc: '"Queen\'s Indian: Opovcensky Variation"',
     fen: 'rn1qk2r/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PP1BPPBP/R2QK2R b KQkq - 6 7'
   },
   {
     SCID: 'E17i',
-    desc: `"Queen's Indian: Opovcensky, 7...O-O"`,
+    desc: '"Queen\'s Indian: Opovcensky, 7...O-O"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PP1BPPBP/R2QK2R w KQ - 7 8'
   },
   {
     SCID: 'E17j',
-    desc: `"Queen's Indian: Opovcensky, 7...f5"`,
+    desc: '"Queen\'s Indian: Opovcensky, 7...f5"',
     fen: 'rn1qk2r/pbppb1pp/1p2p3/5p2/2PPn3/2N2NP1/PP1BPPBP/R2QK2R w KQkq f6 0 8'
   },
   {
     SCID: 'E17k',
-    desc: `"Queen's Indian: Opovcensky, 7...Bf6"`,
+    desc: '"Queen\'s Indian: Opovcensky, 7...Bf6"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pb2/8/2PPn3/2N2NP1/PP1BPPBP/R2QK2R w KQkq - 7 8'
   },
   {
     SCID: 'E17l',
-    desc: `"Queen's Indian: 6.O-O"`,
+    desc: '"Queen\'s Indian: 6.O-O"',
     fen: 'rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b kq - 4 6'
   },
   {
     SCID: 'E17m',
-    desc: `"Queen's Indian: 6.O-O d5"`,
+    desc: '"Queen\'s Indian: 6.O-O d5"',
     fen: 'rn1qk2r/pbp1bppp/1p2pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w kq d6 0 7'
   },
   {
     SCID: 'E17n',
-    desc: `"Queen's Indian: 6.O-O O-O"`,
+    desc: '"Queen\'s Indian: 6.O-O O-O"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 5 7'
   },
   {
     SCID: 'E17o',
-    desc: `"Queen's Indian: 6.O-O O-O 7.Qc2"`,
+    desc: '"Queen\'s Indian: 6.O-O O-O 7.Qc2"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/5NP1/PPQ1PPBP/RNB2RK1 b - - 6 7'
   },
   {
     SCID: 'E17p',
-    desc: `"Queen's Indian: 6.O-O O-O 7.Re1"`,
+    desc: '"Queen\'s Indian: 6.O-O O-O 7.Re1"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQR1K1 b - - 6 7'
   },
   {
     SCID: 'E17q',
-    desc: `"Queen's Indian: 6.O-O O-O 7.Re1 d5"`,
+    desc: '"Queen\'s Indian: 6.O-O O-O 7.Re1 d5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQR1K1 w - d6 0 8'
   },
   {
     SCID: 'E17r',
-    desc: `"Queen's Indian: Euwe Variation"`,
+    desc: '"Queen\'s Indian: Euwe Variation"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/1P3NP1/P3PPBP/RNBQ1RK1 b - - 0 7'
   },
   {
     SCID: 'E17s',
-    desc: `"Queen's Indian: Euwe, 7...c5"`,
+    desc: '"Queen\'s Indian: Euwe, 7...c5"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/2p5/2PP4/1P3NP1/P3PPBP/RNBQ1RK1 w - c6 0 8'
   },
   {
     SCID: 'E17t',
-    desc: `"Queen's Indian: Euwe, 7...d5"`,
+    desc: '"Queen\'s Indian: Euwe, 7...d5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PP4/1P3NP1/P3PPBP/RNBQ1RK1 w - d6 0 8'
   },
   {
     SCID: 'E17u',
-    desc: `"Queen's Indian: Pomar Variation"`,
+    desc: '"Queen\'s Indian: Pomar Variation"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/3P4/2P5/5NP1/PP2PPBP/RNBQ1RK1 b - - 0 7'
   },
   {
     SCID: 'E17u',
-    desc: `"Queen's Indian: Pomar, 7...exd5"`,
+    desc: '"Queen\'s Indian: Pomar, 7...exd5"',
     fen: 'rn1q1rk1/pbppbppp/1p3n2/3p4/2P5/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E17v',
-    desc: `"Queen's Indian: Pomar, Taimanov Variation"`,
+    desc: '"Queen\'s Indian: Pomar, Taimanov Variation"',
     fen: 'rn1q1rk1/pbppbppp/1p3n2/3p4/2PN4/6P1/PP2PPBP/RNBQ1RK1 b - - 1 8'
   },
   {
     SCID: 'E17w',
-    desc: `"Queen's Indian: Pomar, Polugaevsky Variation"`,
+    desc: '"Queen\'s Indian: Pomar, Polugaevsky Variation"',
     fen: 'rn1q1rk1/pbppbppp/1p3n2/3p4/2P4N/6P1/PP2PPBP/RNBQ1RK1 b - - 1 8'
   },
   {
     SCID: 'E17w',
-    desc: `"Queen's Indian: Pomar, Polugaevsky, 8...c6"`,
+    desc: '"Queen\'s Indian: Pomar, Polugaevsky, 8...c6"',
     fen: 'rn1q1rk1/pb1pbppp/1pp2n2/3p4/2P4N/6P1/PP2PPBP/RNBQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E17x',
-    desc: `"Queen's Indian: Pomar, Polugaevsky, 8...c6 9.cxd5 Nxd5"`,
+    desc: '"Queen\'s Indian: Pomar, Polugaevsky, 8...c6 9.cxd5 Nxd5"',
     fen: 'rn1q1rk1/pb1pbppp/1pp5/3n4/7N/6P1/PP2PPBP/RNBQ1RK1 w - - 0 10'
   },
   {
     SCID: 'E17y',
-    desc: `"Queen's Indian: Pomar, Polugaevsky, 8...c6 9.cxd5 Nxd5 10.Nf5 Nc7"`,
+    desc: '"Queen\'s Indian: Pomar, Polugaevsky, 8...c6 9.cxd5 Nxd5 10.Nf5 Nc7"',
     fen: 'rn1q1rk1/pbnpbppp/1pp5/5N2/8/6P1/PP2PPBP/RNBQ1RK1 w - - 2 11'
   },
   {
     SCID: 'E17z',
-    desc: `"Queen's Indian: Pomar, Polugaevsky, 8...c6 9.cxd5 Nxd5 10.Nf5 Nc7 11.e4"`,
+    desc: '"Queen\'s Indian: Pomar, Polugaevsky, 8...c6 9.cxd5 Nxd5 10.Nf5 Nc7 11.e4"',
     fen: 'rn1q1rk1/pbnpbppp/1pp5/5N2/4P3/6P1/PP3PBP/RNBQ1RK1 b - e3 0 11'
   },
   {
     SCID: 'E18a',
-    desc: `"Queen's Indian: 7.Nc3"`,
+    desc: '"Queen\'s Indian: 7.Nc3"',
     fen: 'rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 6 7'
   },
   {
     SCID: 'E18b',
-    desc: `"Queen's Indian: 7.Nc3 c5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 c5"',
     fen: 'rn1q1rk1/pb1pbppp/1p2pn2/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - c6 0 8'
   },
   {
     SCID: 'E18c',
-    desc: `"Queen's Indian: 7.Nc3 d6"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d6"',
     fen: 'rn1q1rk1/pbp1bppp/1p1ppn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E18d',
-    desc: `"Queen's Indian: 7.Nc3 Na6"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Na6"',
     fen: 'r2q1rk1/pbppbppp/np2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 7 8'
   },
   {
     SCID: 'E18e',
-    desc: `"Queen's Indian: 7.Nc3 d5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3p4/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - d6 0 8'
   },
   {
     SCID: 'E18e',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.cxd5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.cxd5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3P4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E18f',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.cxd5 exd5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.cxd5 exd5"',
     fen: 'rn1q1rk1/pbp1bppp/1p3n2/3p4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E18g',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.Ne5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.Ne5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2pn2/3pN3/2PP4/2N3P1/PP2PPBP/R1BQ1RK1 b - - 1 8'
   },
   {
     SCID: 'E18h',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.Ne5 c6"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.Ne5 c6"',
     fen: 'rn1q1rk1/pb2bppp/1pp1pn2/3pN3/2PP4/2N3P1/PP2PPBP/R1BQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E18i',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.Ne5 Nbd7"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.Ne5 Nbd7"',
     fen: 'r2q1rk1/pbpnbppp/1p2pn2/3pN3/2PP4/2N3P1/PP2PPBP/R1BQ1RK1 w - - 2 9'
   },
   {
     SCID: 'E18j',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.Ne5 Na6"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.Ne5 Na6"',
     fen: 'r2q1rk1/pbp1bppp/np2pn2/3pN3/2PP4/2N3P1/PP2PPBP/R1BQ1RK1 w - - 2 9'
   },
   {
     SCID: 'E18k',
-    desc: `"Queen's Indian: 7.Nc3 d5 8.Ne5 Na6 9.cxd5 exd5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 d5 8.Ne5 Na6 9.cxd5 exd5"',
     fen: 'r2q1rk1/pbp1bppp/np3n2/3pN3/3P4/2N3P1/PP2PPBP/R1BQ1RK1 w - - 0 10'
   },
   {
     SCID: 'E18l',
-    desc: `"Queen's Indian: 7.Nc3 Ne4"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 7 8'
   },
   {
     SCID: 'E18m',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PP1BPPBP/R2Q1RK1 b - - 8 8'
   },
   {
     SCID: 'E18n',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 d5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 d5"',
     fen: 'rn1q1rk1/pbp1bppp/1p2p3/3p4/2PPn3/2N2NP1/PP1BPPBP/R2Q1RK1 w - d6 0 9'
   },
   {
     SCID: 'E18n',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 d5 9.cxd5 exd5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 d5 9.cxd5 exd5"',
     fen: 'rn1q1rk1/pbp1bppp/1p6/3p4/3Pn3/2N2NP1/PP1BPPBP/R2Q1RK1 w - - 0 10'
   },
   {
     SCID: 'E18o',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 f5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 f5"',
     fen: 'rn1q1rk1/pbppb1pp/1p2p3/5p2/2PPn3/2N2NP1/PP1BPPBP/R2Q1RK1 w - f6 0 9'
   },
   {
     SCID: 'E18p',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 f5 9.d5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 f5 9.d5"',
     fen: 'rn1q1rk1/pbppb1pp/1p2p3/3P1p2/2P1n3/2N2NP1/PP1BPPBP/R2Q1RK1 b - - 0 9'
   },
   {
     SCID: 'E18p',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 f5 9.d5 Bf6"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 f5 9.d5 Bf6"',
     fen: 'rn1q1rk1/pbpp2pp/1p2pb2/3P1p2/2P1n3/2N2NP1/PP1BPPBP/R2Q1RK1 w - - 1 10'
   },
   {
     SCID: 'E18p',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 f5 9.d5 Bf6 10.Rc1"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 f5 9.d5 Bf6 10.Rc1"',
     fen: 'rn1q1rk1/pbpp2pp/1p2pb2/3P1p2/2P1n3/2N2NP1/PP1BPPBP/2RQ1RK1 b - - 2 10'
   },
   {
     SCID: 'E18q',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 Bf6"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 Bf6"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pb2/8/2PPn3/2N2NP1/PP1BPPBP/R2Q1RK1 w - - 9 9'
   },
   {
     SCID: 'E18r',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Bd2 Bf6 9.Rc1"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Bd2 Bf6 9.Rc1"',
     fen: 'rn1q1rk1/pbpp1ppp/1p2pb2/8/2PPn3/2N2NP1/PP1BPPBP/2RQ1RK1 b - - 10 9'
   },
   {
     SCID: 'E18s',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PPN3/5NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E18s',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.d5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.d5"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/3P4/2P1b3/5NP1/PP2PPBP/R1BQ1RK1 b - - 0 9'
   },
   {
     SCID: 'E18s',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Bf4"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Bf4"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/8/2PPbB2/5NP1/PP2PPBP/R2Q1RK1 b - - 1 9'
   },
   {
     SCID: 'E18s',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Nh4"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Nh4"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/8/2PPb2N/6P1/PP2PPBP/R1BQ1RK1 b - - 1 9'
   },
   {
     SCID: 'E18t',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/8/2PPb3/6P1/PP2PPBP/R1BQNRK1 b - - 1 9'
   },
   {
     SCID: 'E18u',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/8/2PP4/6P1/PP2PPNP/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E18u',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5"',
     fen: 'rn1q1rk1/p1p1bppp/1p2p3/3p4/2PP4/6P1/PP2PPNP/R1BQ1RK1 w - d6 0 11'
   },
   {
     SCID: 'E18v',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4"',
     fen: 'rn1q1rk1/p1p1bppp/1p2p3/3p4/Q1PP4/6P1/PP2PPNP/R1B2RK1 b - - 1 11'
   },
   {
     SCID: 'E18w',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Qd7"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 Qd7"',
     fen: 'rn3rk1/p1pqbppp/1p2p3/3p4/Q1PP4/6P1/PP2PPNP/R1B2RK1 w - - 2 12'
   },
   {
     SCID: 'E18x',
-    desc: `"Queen's Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 dxc4"`,
+    desc: '"Queen\'s Indian: 7.Nc3 Ne4 8.Nxe4 Bxe4 9.Ne1 Bxg2 10.Nxg2 d5 11.Qa4 dxc4"',
     fen: 'rn1q1rk1/p1p1bppp/1p2p3/8/Q1pP4/6P1/PP2PPNP/R1B2RK1 w - - 0 12'
   },
   {
     SCID: 'E18y',
-    desc: `"Queen's Indian: Old Main Line, 8.Qc2"`,
+    desc: '"Queen\'s Indian: Old Main Line, 8.Qc2"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PPn3/2N2NP1/PPQ1PPBP/R1B2RK1 b - - 8 8'
   },
   {
     SCID: 'E18y',
-    desc: `"Queen's Indian: Old Main Line, 8.Qc2 Nxc3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 8.Qc2 Nxc3"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2n2NP1/PPQ1PPBP/R1B2RK1 w - - 0 9'
   },
   {
     SCID: 'E18z',
-    desc: `"Queen's Indian: Old Main Line, 8.Qc2 Nxc3 9.bxc3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 8.Qc2 Nxc3 9.bxc3"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2P2NP1/P1Q1PPBP/R1B2RK1 b - - 0 9'
   },
   {
     SCID: 'E19a',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3"',
     fen: 'rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2Q2NP1/PP2PPBP/R1B2RK1 b - - 0 9'
   },
   {
     SCID: 'E19b',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 d6"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 d6"',
     fen: 'rn1q1rk1/pbp1bppp/1p1pp3/8/2PP4/2Q2NP1/PP2PPBP/R1B2RK1 w - - 0 10'
   },
   {
     SCID: 'E19c',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 d6 10.b3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 d6 10.b3"',
     fen: 'rn1q1rk1/pbp1bppp/1p1pp3/8/2PP4/1PQ2NP1/P3PPBP/R1B2RK1 b - - 0 10'
   },
   {
     SCID: 'E19d',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 Be4"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 Be4"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/8/2PPb3/2Q2NP1/PP2PPBP/R1B2RK1 w - - 1 10'
   },
   {
     SCID: 'E19e',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 Be4 10.Ne1"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 Be4 10.Ne1"',
     fen: 'rn1q1rk1/p1ppbppp/1p2p3/8/2PPb3/2Q3P1/PP2PPBP/R1B1NRK1 b - - 2 10'
   },
   {
     SCID: 'E19f',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 f5"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 f5"',
     fen: 'rn1q1rk1/pbppb1pp/1p2p3/5p2/2PP4/2Q2NP1/PP2PPBP/R1B2RK1 w - f6 0 10'
   },
   {
     SCID: 'E19g',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 f5 10.Rd1"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 f5 10.Rd1"',
     fen: 'rn1q1rk1/pbppb1pp/1p2p3/5p2/2PP4/2Q2NP1/PP2PPBP/R1BR2K1 b - - 1 10'
   },
   {
     SCID: 'E19h',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 f5 10.b3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 f5 10.b3"',
     fen: 'rn1q1rk1/pbppb1pp/1p2p3/5p2/2PP4/1PQ2NP1/P3PPBP/R1B2RK1 b - - 0 10'
   },
   {
     SCID: 'E19i',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 f5 10.b3 Bf6 11.Bb2 d6"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 f5 10.b3 Bf6 11.Bb2 d6"',
     fen: 'rn1q1rk1/pbp3pp/1p1ppb2/5p2/2PP4/1PQ2NP1/PB2PPBP/R4RK1 w - - 0 12'
   },
   {
     SCID: 'E19j',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5"',
     fen: 'rn1q1rk1/pb1pbppp/1p2p3/2p5/2PP4/2Q2NP1/PP2PPBP/R1B2RK1 w - c6 0 10'
   },
   {
     SCID: 'E19k',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.b3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.b3"',
     fen: 'rn1q1rk1/pb1pbppp/1p2p3/2p5/2PP4/1PQ2NP1/P3PPBP/R1B2RK1 b - - 0 10'
   },
   {
     SCID: 'E19l',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.Rd1"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.Rd1"',
     fen: 'rn1q1rk1/pb1pbppp/1p2p3/2p5/2PP4/2Q2NP1/PP2PPBP/R1BR2K1 b - - 1 10'
   },
   {
     SCID: 'E19m',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6"',
     fen: 'rn1q1rk1/pb2bppp/1p1pp3/2p5/2PP4/2Q2NP1/PP2PPBP/R1BR2K1 w - - 0 11'
   },
   {
     SCID: 'E19n',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3"',
     fen: 'rn1q1rk1/pb2bppp/1p1pp3/2p5/2PP4/1PQ2NP1/P3PPBP/R1BR2K1 b - - 0 11'
   },
   {
     SCID: 'E19o',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6"',
     fen: 'rn1q1rk1/pb3ppp/1p1ppb2/2p5/2PP4/1PQ2NP1/P3PPBP/R1BR2K1 w - - 1 12'
   },
   {
     SCID: 'E19o',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6"',
     fen: 'rn1q1rk1/pb3ppp/1p1ppb2/2p5/2PP4/1PQ2NP1/PB2PPBP/R2R2K1 b - - 2 12'
   },
   {
     SCID: 'E19p',
-    desc: `"Queen's Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6 12.Bb2 Qe7"`,
+    desc: '"Queen\'s Indian: Old Main Line, 9.Qxc3 c5 10.Rd1 d6 11.b3 Bf6 12.Bb2 Qe7"',
     fen: 'rn3rk1/pb2qppp/1p1ppb2/2p5/2PP4/1PQ2NP1/PB2PPBP/R2R2K1 w - - 3 13'
   },
   {
@@ -46212,42 +46212,42 @@ const scid =
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Qc2"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Qc2"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N2N2/PPQ1PPPP/R1B1KB1R b KQkq - 1 5'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Qc2 Bb7"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Qc2 Bb7"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/2N2N2/PPQ1PPPP/R1B1KB1R w KQkq - 2 6'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Qb3"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Qb3"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/1QN2N2/PP2PPPP/R1B1KB1R b KQkq - 1 5'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Qb3 a5"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Qb3 a5"',
     fen: 'rnbqk2r/2pp1ppp/1p2pn2/p7/1bPP4/1QN2N2/PP2PPPP/R1B1KB1R w KQkq a6 0 6'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Qb3 c5"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Qb3 c5"',
     fen: 'rnbqk2r/p2p1ppp/1p2pn2/2p5/1bPP4/1QN2N2/PP2PPPP/R1B1KB1R w KQkq c6 0 6'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Bg5"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Bg5"',
     fen: 'rnbqk2r/p1pp1ppp/1p2pn2/6B1/1bPP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5'
   },
   {
     SCID: 'E21',
-    desc: `"Nimzo-Indian: Nimzo-Queen's Hybrid, 5.Bg5 Bb7"`,
+    desc: '"Nimzo-Indian: Nimzo-Queen\'s Hybrid, 5.Bg5 Bb7"',
     fen: 'rn1qk2r/pbpp1ppp/1p2pn2/6B1/1bPP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 6'
   },
   {
@@ -46442,7 +46442,7 @@ const scid =
   },
   {
     SCID: 'E26',
-    desc: `"Nimzo-Indian: Saemisch, O'Kelly Variation"`,
+    desc: '"Nimzo-Indian: Saemisch, O\'Kelly Variation"',
     fen: 'rnbqk2r/p2p1ppp/1p2pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR w KQkq - 0 7'
   },
   {
@@ -48087,3715 +48087,3715 @@ const scid =
   },
   {
     SCID: 'E60a',
-    desc: `"King's Indian"`,
+    desc: '"King\'s Indian"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3'
   },
   {
     SCID: 'E60a',
-    desc: `"King's Indian: Mengarini Attack"`,
+    desc: '"King\'s Indian: Mengarini Attack"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PPQ1PPPP/RNB1KBNR b KQkq - 1 3'
   },
   {
     SCID: 'E60b',
-    desc: `"King's Indian: 3.Bg5"`,
+    desc: '"King\'s Indian: 3.Bg5"',
     fen: 'rnbqkb1r/pppppp1p/5np1/6B1/2PP4/8/PP2PPPP/RN1QKBNR b KQkq - 1 3'
   },
   {
     SCID: 'E60c',
-    desc: `"King's Indian: 3.d5"`,
+    desc: '"King\'s Indian: 3.d5"',
     fen: 'rnbqkb1r/pppppp1p/5np1/3P4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'E60c',
-    desc: `"King's Indian: 3.d5, Danube/Adorjan Gambit"`,
+    desc: '"King\'s Indian: 3.d5, Danube/Adorjan Gambit"',
     fen: 'rnbqkb1r/p1pppp1p/5np1/1p1P4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4'
   },
   {
     SCID: 'E60d',
-    desc: `"King's Indian: 3.f3"`,
+    desc: '"King\'s Indian: 3.f3"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/2PP4/5P2/PP2P1PP/RNBQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'E60e',
-    desc: `"King's Indian: 3.g3"`,
+    desc: '"King\'s Indian: 3.g3"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3'
   },
   {
     SCID: 'E60e',
-    desc: `"King's Indian: 3.g3"`,
+    desc: '"King\'s Indian: 3.g3"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq - 1 4'
   },
   {
     SCID: 'E60e',
-    desc: `"King's Indian: 3.g3"`,
+    desc: '"King\'s Indian: 3.g3"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 2 4'
   },
   {
     SCID: 'E60e',
-    desc: `"King's Indian: 3.g3"`,
+    desc: '"King\'s Indian: 3.g3"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/6P1/PP2PPBP/RNBQK1NR w KQ - 3 5'
   },
   {
     SCID: 'E60f',
-    desc: `"King's Indian: 3.Nf3"`,
+    desc: '"King\'s Indian: 3.Nf3"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3'
   },
   {
     SCID: 'E60f',
-    desc: `"King's Indian: 3.Nf3 d6"`,
+    desc: '"King\'s Indian: 3.Nf3 d6"',
     fen: 'rnbqkb1r/ppp1pp1p/3p1np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4'
   },
   {
     SCID: 'E60g',
-    desc: `"King's Indian: 3.Nf3 Bg7"`,
+    desc: '"King\'s Indian: 3.Nf3 Bg7"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4'
   },
   {
     SCID: 'E60h',
-    desc: `"King's Indian: b3 System"`,
+    desc: '"King\'s Indian: b3 System"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/1P3N2/P3PPPP/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'E60h',
-    desc: `"King's Indian: b3 System"`,
+    desc: '"King\'s Indian: b3 System"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/1P3N2/PB2PPPP/RN1QKB1R b KQ - 2 5'
   },
   {
     SCID: 'E60h',
-    desc: `"King's Indian: b3 System"`,
+    desc: '"King\'s Indian: b3 System"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/1P3N2/PB2PPPP/RN1QKB1R b KQkq - 1 5'
   },
   {
     SCID: 'E60h',
-    desc: `"King's Indian: b3 System"`,
+    desc: '"King\'s Indian: b3 System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/1P3N2/PB2PPPP/RN1QKB1R w KQ - 2 6'
   },
   {
     SCID: 'E60h',
-    desc: `"King's Indian: b3 System"`,
+    desc: '"King\'s Indian: b3 System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/1P2PN2/PB3PPP/RN1QKB1R b KQ - 0 6'
   },
   {
     SCID: 'E60i',
-    desc: `"King's Indian: b3+g3 System"`,
+    desc: '"King\'s Indian: b3+g3 System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/1P3NP1/PB2PP1P/RN1QKB1R b KQ - 0 6'
   },
   {
     SCID: 'E60i',
-    desc: `"King's Indian: b3+g3 System"`,
+    desc: '"King\'s Indian: b3+g3 System"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/1P3NP1/PB2PPBP/RN1Q1RK1 b - - 3 8'
   },
   {
     SCID: 'E60j',
-    desc: `"King's Indian: Fianchetto"`,
+    desc: '"King\'s Indian: Fianchetto"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4'
   },
   {
     SCID: 'E60j',
-    desc: `"King's Indian: Fianchetto"`,
+    desc: '"King\'s Indian: Fianchetto"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQ - 1 5'
   },
   {
     SCID: 'E60k',
-    desc: `"King's Indian: Fianchetto without Nc3"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/5NP1/PP2PPBP/RNBQK2R b KQ - 2 5'
   },
   {
     SCID: 'E60k',
-    desc: `"King's Indian: Fianchetto without Nc3"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQ - 0 6'
   },
   {
     SCID: 'E60k',
-    desc: `"King's Indian: Fianchetto without Nc3"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 1 6'
   },
   {
     SCID: 'E60l',
-    desc: `"King's Indian: Fianchetto, Yugoslav without Nc3"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav without Nc3"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - c6 0 7'
   },
   {
     SCID: 'E60l',
-    desc: `"King's Indian: Fianchetto, Yugoslav without Nc3, 7.dxc5"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav without Nc3, 7.dxc5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2P5/2P5/5NP1/PP2PPBP/RNBQ1RK1 b - - 0 7'
   },
   {
     SCID: 'E60m',
-    desc: `"King's Indian: Fianchetto without Nc3, 6...c6"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3, 6...c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7'
   },
   {
     SCID: 'E60n',
-    desc: `"King's Indian: Fianchetto without Nc3, 6...Nc6"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3, 6...Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 2 7'
   },
   {
     SCID: 'E60o',
-    desc: `"King's Indian: Fianchetto without Nc3, 6...Nbd7"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3, 6...Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 2 7'
   },
   {
     SCID: 'E60p',
-    desc: `"King's Indian: Fianchetto without Nc3, 6...Nbd7 7.Qc2"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3, 6...Nbd7 7.Qc2"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PP4/5NP1/PPQ1PPBP/RNB2RK1 b - - 3 7'
   },
   {
     SCID: 'E60q',
-    desc: `"King's Indian: Fianchetto without Nc3, 6...Nbd7 7.Qc2 e5"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3, 6...Nbd7 7.Qc2 e5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/5NP1/PPQ1PPBP/RNB2RK1 w - e6 0 8'
   },
   {
     SCID: 'E60r',
-    desc: `"King's Indian: Fianchetto without Nc3, 6...Nbd7 7.Qc2 e5 8.Rd1 Re8"`,
+    desc: '"King\'s Indian: Fianchetto without Nc3, 6...Nbd7 7.Qc2 e5 8.Rd1 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PP4/5NP1/PPQ1PPBP/RNBR2K1 w - - 2 9'
   },
   {
     SCID: 'E61a',
-    desc: `"King's Indian: 3.Nc3"`,
+    desc: '"King\'s Indian: 3.Nc3"',
     fen: 'rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3'
   },
   {
     SCID: 'E61a',
-    desc: `"King's Indian: 3.Nc3 c5"`,
+    desc: '"King\'s Indian: 3.Nc3 c5"',
     fen: 'rnbqkb1r/pp1ppp1p/5np1/2p5/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq c6 0 4'
   },
   {
     SCID: 'E61a',
-    desc: `"King's Indian: 3.Nc3 c6"`,
+    desc: '"King\'s Indian: 3.Nc3 c6"',
     fen: 'rnbqkb1r/pp1ppp1p/2p2np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4'
   },
   {
     SCID: 'E61a',
-    desc: `"King's Indian: 3.Nc3 d6"`,
+    desc: '"King\'s Indian: 3.Nc3 d6"',
     fen: 'rnbqkb1r/ppp1pp1p/3p1np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4'
   },
   {
     SCID: 'E61b',
-    desc: `"King's Indian: 3.Nc3 Bg7"`,
+    desc: '"King\'s Indian: 3.Nc3 Bg7"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4'
   },
   {
     SCID: 'E61b',
-    desc: `"King's Indian: 4.Bf4"`,
+    desc: '"King\'s Indian: 4.Bf4"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4'
   },
   {
     SCID: 'E61c',
-    desc: `"King's Indian: 4.Bg5"`,
+    desc: '"King\'s Indian: 4.Bg5"',
     fen: 'rnbqk2r/ppppppbp/5np1/6B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4'
   },
   {
     SCID: 'E61d',
-    desc: `"King's Indian: 4.Bg5 O-O"`,
+    desc: '"King\'s Indian: 4.Bg5 O-O"',
     fen: 'rnbq1rk1/ppppppbp/5np1/6B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQ - 4 5'
   },
   {
     SCID: 'E61e',
-    desc: `"King's Indian: 4.Bg5 O-O 5.e3 d6"`,
+    desc: '"King\'s Indian: 4.Bg5 O-O 5.e3 d6"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQ - 0 6'
   },
   {
     SCID: 'E61f',
-    desc: `"King's Indian: 4.g3"`,
+    desc: '"King\'s Indian: 4.g3"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/2N3P1/PP2PP1P/R1BQKBNR b KQkq - 0 4'
   },
   {
     SCID: 'E61f',
-    desc: `"King's Indian: 4.g3 d6"`,
+    desc: '"King\'s Indian: 4.g3 d6"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N3P1/PP2PP1P/R1BQKBNR w KQkq - 0 5'
   },
   {
     SCID: 'E61f',
-    desc: `"King's Indian: 4.g3 d6 5.Bg2"`,
+    desc: '"King\'s Indian: 4.g3 d6 5.Bg2"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N3P1/PP2PPBP/R1BQK1NR b KQkq - 1 5'
   },
   {
     SCID: 'E61g',
-    desc: `"King's Indian: 4.g3 O-O"`,
+    desc: '"King\'s Indian: 4.g3 O-O"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/2N3P1/PP2PP1P/R1BQKBNR w KQ - 1 5'
   },
   {
     SCID: 'E61g',
-    desc: `"King's Indian: 4.g3 O-O 5.Bg2"`,
+    desc: '"King\'s Indian: 4.g3 O-O 5.Bg2"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/2N3P1/PP2PPBP/R1BQK1NR b KQ - 2 5'
   },
   {
     SCID: 'E61g',
-    desc: `"King's Indian: 4.g3 O-O 5.Bg2 d6"`,
+    desc: '"King\'s Indian: 4.g3 O-O 5.Bg2 d6"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQ - 0 6'
   },
   {
     SCID: 'E61h',
-    desc: `"King's Indian: Fianchetto, Flohr Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Flohr Variation"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N1P1P1/PP3PBP/R1BQK1NR b KQ - 0 6'
   },
   {
     SCID: 'E61i',
-    desc: `"King's Indian: 4.Nf3"`,
+    desc: '"King\'s Indian: 4.Nf3"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4'
   },
   {
     SCID: 'E61i',
-    desc: `"King's Indian: 4.Nf3 d6"`,
+    desc: '"King\'s Indian: 4.Nf3 d6"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5'
   },
   {
     SCID: 'E61i',
-    desc: `"King's Indian: 4.Nf3 d6 5.e3"`,
+    desc: '"King\'s Indian: 4.Nf3 d6 5.e3"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5'
   },
   {
     SCID: 'E61j',
-    desc: `"King's Indian: Smyslov System"`,
+    desc: '"King\'s Indian: Smyslov System"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5'
   },
   {
     SCID: 'E61j',
-    desc: `"King's Indian: Smyslov System"`,
+    desc: '"King\'s Indian: Smyslov System"',
     fen: 'rnbqk2r/ppp1ppb1/3p1npp/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6'
   },
   {
     SCID: 'E61k',
-    desc: `"King's Indian: 4.Nf3 O-O"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQ - 4 5'
   },
   {
     SCID: 'E61l',
-    desc: `"King's Indian: 4.Nf3 O-O 5.g3"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.g3"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/2N2NP1/PP2PP1P/R1BQKB1R b KQ - 0 5'
   },
   {
     SCID: 'E61m',
-    desc: `"King's Indian: 4.Nf3 O-O 5.e3"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.e3"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQ - 0 5'
   },
   {
     SCID: 'E61m',
-    desc: `"King's Indian: 4.Nf3 O-O 5.e3 d6"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.e3 d6"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQ - 0 6'
   },
   {
     SCID: 'E61n',
-    desc: `"King's Indian: 4.Nf3 O-O 5.e3 d6 6.Be2"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.e3 d6 6.Be2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N1PN2/PP2BPPP/R1BQK2R b KQ - 1 6'
   },
   {
     SCID: 'E61o',
-    desc: `"King's Indian: 4.Nf3 O-O 5.e3 d6 6.Be2 c5"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.e3 d6 6.Be2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N1PN2/PP2BPPP/R1BQK2R w KQ c6 0 7'
   },
   {
     SCID: 'E61o',
-    desc: `"King's Indian: 4.Nf3 O-O 5.e3 d6 6.Be2 c5"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.e3 d6 6.Be2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N1PN2/PP2BPPP/R1BQ1RK1 b - - 1 7'
   },
   {
     SCID: 'E61p',
-    desc: `"King's Indian: 4.Nf3 O-O 5.Bf4"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.Bf4"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PP1B2/2N2N2/PP2PPPP/R2QKB1R b KQ - 5 5'
   },
   {
     SCID: 'E61q',
-    desc: `"King's Indian: 4.Nf3 O-O 5.Bf4 d6"`,
+    desc: '"King\'s Indian: 4.Nf3 O-O 5.Bf4 d6"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP1B2/2N2N2/PP2PPPP/R2QKB1R w KQ - 0 6'
   },
   {
     SCID: 'E61q',
-    desc: `"King's Indian: 4.Nf3 d6 5.Bf4 d6 6.h3"`,
+    desc: '"King\'s Indian: 4.Nf3 d6 5.Bf4 d6 6.h3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP1B2/2N2N1P/PP2PPP1/R2QKB1R b KQ - 0 6'
   },
   {
     SCID: 'E61r',
-    desc: `"King's Indian: 4.Nf3 d6 5.Bf4 d6 6.e3"`,
+    desc: '"King\'s Indian: 4.Nf3 d6 5.Bf4 d6 6.e3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP1B2/2N1PN2/PP3PPP/R2QKB1R b KQ - 0 6'
   },
   {
     SCID: 'E61s',
-    desc: `"King's Indian: Smyslov System"`,
+    desc: '"King\'s Indian: Smyslov System"',
     fen: 'rnbq1rk1/ppppppbp/5np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQ - 5 5'
   },
   {
     SCID: 'E61t',
-    desc: `"King's Indian: Smyslov System, 5...c5"`,
+    desc: '"King\'s Indian: Smyslov System, 5...c5"',
     fen: 'rnbq1rk1/pp1pppbp/5np1/2p3B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQ c6 0 6'
   },
   {
     SCID: 'E61t',
-    desc: `"King's Indian: Smyslov System, 5...c5 6.e3"`,
+    desc: '"King\'s Indian: Smyslov System, 5...c5 6.e3"',
     fen: 'rnbq1rk1/pp1pppbp/5np1/2p3B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQ - 0 6'
   },
   {
     SCID: 'E61u',
-    desc: `"King's Indian: Smyslov System, 5...d6"`,
+    desc: '"King\'s Indian: Smyslov System, 5...d6"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQ - 0 6'
   },
   {
     SCID: 'E61v',
-    desc: `"King's Indian: Smyslov System, 6.e3"`,
+    desc: '"King\'s Indian: Smyslov System, 6.e3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQ - 0 6'
   },
   {
     SCID: 'E61w',
-    desc: `"King's Indian: Smyslov System, 6.e3 c6"`,
+    desc: '"King\'s Indian: Smyslov System, 6.e3 c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/6B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 7'
   },
   {
     SCID: 'E61x',
-    desc: `"King's Indian: Smyslov System, 6.e3 c6"`,
+    desc: '"King\'s Indian: Smyslov System, 6.e3 c6"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ c6 0 7'
   },
   {
     SCID: 'E61y',
-    desc: `"King's Indian: Smyslov System, 5...O-O 6.e3 Nbd7"`,
+    desc: '"King\'s Indian: Smyslov System, 5...O-O 6.e3 Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 1 7'
   },
   {
     SCID: 'E61y',
-    desc: `"King's Indian: Smyslov System, 5...O-O 6.e3 Nbd7 7.Be2"`,
+    desc: '"King\'s Indian: Smyslov System, 5...O-O 6.e3 Nbd7 7.Be2"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PP4/2N1PN2/PP2BPPP/R2QK2R b KQ - 2 7'
   },
   {
     SCID: 'E61z',
-    desc: `"King's Indian: Smyslov System, 5...O-O 6.e3 Nbd7 7.Be2 c6"`,
+    desc: '"King\'s Indian: Smyslov System, 5...O-O 6.e3 Nbd7 7.Be2 c6"',
     fen: 'r1bq1rk1/pp1nppbp/2pp1np1/6B1/2PP4/2N1PN2/PP2BPPP/R2QK2R w KQ - 0 8'
   },
   {
     SCID: 'E61z',
-    desc: `"King's Indian: Smyslov System, 5...O-O 6.e3 Nbd7 7.Be2 c6 8.O-O"`,
+    desc: '"King\'s Indian: Smyslov System, 5...O-O 6.e3 Nbd7 7.Be2 c6 8.O-O"',
     fen: 'r1bq1rk1/pp1nppbp/2pp1np1/6B1/2PP4/2N1PN2/PP2BPPP/R2Q1RK1 b - - 1 8'
   },
   {
     SCID: 'E62a',
-    desc: `"King's Indian: Fianchetto Variation"`,
+    desc: '"King\'s Indian: Fianchetto Variation"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 5'
   },
   {
     SCID: 'E62a',
-    desc: `"King's Indian: Fianchetto Variation"`,
+    desc: '"King\'s Indian: Fianchetto Variation"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N2NP1/PP2PP1P/R1BQKB1R w KQ - 1 6'
   },
   {
     SCID: 'E62b',
-    desc: `"King's Indian: Fianchetto Variation"`,
+    desc: '"King\'s Indian: Fianchetto Variation"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R b KQ - 2 6'
   },
   {
     SCID: 'E62c',
-    desc: `"King's Indian: Fianchetto, 6...c6"`,
+    desc: '"King\'s Indian: Fianchetto, 6...c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 0 7'
   },
   {
     SCID: 'E62d',
-    desc: `"King's Indian: Fianchetto, 6...c6 7.O-O"`,
+    desc: '"King\'s Indian: Fianchetto, 6...c6 7.O-O"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7'
   },
   {
     SCID: 'E62e',
-    desc: `"King's Indian: Fianchetto, 6...c6 7.O-O a6"`,
+    desc: '"King\'s Indian: Fianchetto, 6...c6 7.O-O a6"',
     fen: 'rnbq1rk1/1p2ppbp/p1pp1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E62f',
-    desc: `"King's Indian: Fianchetto, Larsen System"`,
+    desc: '"King\'s Indian: Fianchetto, Larsen System"',
     fen: 'rn1q1rk1/pp2ppbp/2pp1np1/5b2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E62g',
-    desc: `"King's Indian: Fianchetto, Larsen System, 8.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Larsen System, 8.b3"',
     fen: 'rn1q1rk1/pp2ppbp/2pp1np1/5b2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E62h',
-    desc: `"King's Indian: Fianchetto, Kavalek/Bronstein Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Kavalek/Bronstein Variation"',
     fen: 'rnb2rk1/pp2ppbp/2pp1np1/q7/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E62i',
-    desc: `"King's Indian: Fianchetto, Kavalek/Bronstein, 8.h3"`,
+    desc: '"King\'s Indian: Fianchetto, Kavalek/Bronstein, 8.h3"',
     fen: 'rnb2rk1/pp2ppbp/2pp1np1/q7/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E62j',
-    desc: `"King's Indian: Fianchetto, Kavalek/Bronstein, 8.e4"`,
+    desc: '"King\'s Indian: Fianchetto, Kavalek/Bronstein, 8.e4"',
     fen: 'rnb2rk1/pp2ppbp/2pp1np1/q7/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 b - e3 0 8'
   },
   {
     SCID: 'E62k',
-    desc: `"King's Indian: Fianchetto, Kavalek/Bronstein, 8.e4 Bg4"`,
+    desc: '"King\'s Indian: Fianchetto, Kavalek/Bronstein, 8.e4 Bg4"',
     fen: 'rn3rk1/pp2ppbp/2pp1np1/q7/2PPP1b1/2N2NP1/PP3PBP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E62l',
-    desc: `"King's Indian: Fianchetto, 6...Nc6"`,
+    desc: '"King\'s Indian: Fianchetto, 6...Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 3 7'
   },
   {
     SCID: 'E62m',
-    desc: `"King's Indian: Fianchetto, 6...Nc6 7.d5"`,
+    desc: '"King\'s Indian: Fianchetto, 6...Nc6 7.d5"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/3P4/2P5/2N2NP1/PP2PPBP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E62n',
-    desc: `"King's Indian: Fianchetto, 6...Nc6 7.O-O"`,
+    desc: '"King\'s Indian: Fianchetto, 6...Nc6 7.O-O"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 4 7'
   },
   {
     SCID: 'E62o',
-    desc: `"King's Indian: Fianchetto, 6...Nc6 7.O-O Rb8"`,
+    desc: '"King\'s Indian: Fianchetto, 6...Nc6 7.O-O Rb8"',
     fen: '1rbq1rk1/ppp1ppbp/2np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 8'
   },
   {
     SCID: 'E62p',
-    desc: `"King's Indian: Fianchetto, Spassky Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Spassky Variation"',
     fen: 'r2q1rk1/ppp1ppbp/2np1np1/5b2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 8'
   },
   {
     SCID: 'E62q',
-    desc: `"King's Indian: Fianchetto, Spassky, 8.d5"`,
+    desc: '"King\'s Indian: Fianchetto, Spassky, 8.d5"',
     fen: 'r2q1rk1/ppp1ppbp/2np1np1/3P1b2/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E62r',
-    desc: `"King's Indian: Fianchetto, Simagin Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Simagin Variation"',
     fen: 'r2q1rk1/ppp1ppbp/2np1np1/8/2PP2b1/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 8'
   },
   {
     SCID: 'E62s',
-    desc: `"King's Indian: Fianchetto, Simagin, 8.d5"`,
+    desc: '"King\'s Indian: Fianchetto, Simagin, 8.d5"',
     fen: 'r2q1rk1/ppp1ppbp/2np1np1/3P4/2P3b1/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E62t',
-    desc: `"King's Indian: Fianchetto, Uhlmann/Szabo Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Uhlmann/Szabo Variation"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - e6 0 8'
   },
   {
     SCID: 'E62u',
-    desc: `"King's Indian: Fianchetto, Uhlmann/Szabo Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Uhlmann/Szabo Variation"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E62v',
-    desc: `"King's Indian: Fianchetto, Uhlmann/Szabo, 9.e4"`,
+    desc: '"King\'s Indian: Fianchetto, Uhlmann/Szabo, 9.e4"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2NP1/PP3PBP/R1BQ1RK1 b - e3 0 9'
   },
   {
     SCID: 'E63a',
-    desc: `"King's Indian: Fianchetto, Panno Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Panno Variation"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E63b',
-    desc: `"King's Indian: Fianchetto, Panno, 8.Re1"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.Re1"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQR1K1 b - - 1 8'
   },
   {
     SCID: 'E63c',
-    desc: `"King's Indian: Fianchetto, Panno, 8.e4"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.e4"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 b - e3 0 8'
   },
   {
     SCID: 'E63d',
-    desc: `"King's Indian: Fianchetto, Panno, 8.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.b3"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E63e',
-    desc: `"King's Indian: Fianchetto, Panno, 8.b3 Rb8"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.b3 Rb8"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E63f',
-    desc: `"King's Indian: Fianchetto, Panno, 8.b3 Rb8 9.Bb2"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.b3 Rb8 9.Bb2"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PP4/1PN2NP1/PB2PPBP/R2Q1RK1 b - - 2 9'
   },
   {
     SCID: 'E63g',
-    desc: `"King's Indian: Fianchetto, Panno, 8.b3 Rb8 9.Nd5"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.b3 Rb8 9.Nd5"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/3N4/2PP4/1P3NP1/P3PPBP/R1BQ1RK1 b - - 2 9'
   },
   {
     SCID: 'E63h',
-    desc: `"King's Indian: Fianchetto, Panno, 8.h3"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.h3"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E63i',
-    desc: `"King's Indian: Fianchetto, Panno, 8.h3 Rb8"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.h3 Rb8"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E63j',
-    desc: `"King's Indian: Fianchetto, Panno, 8.h3 Rb8 9.Be3"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.h3 Rb8 9.Be3"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N1BNPP/PP2PPB1/R2Q1RK1 b - - 2 9'
   },
   {
     SCID: 'E63k',
-    desc: `"King's Indian: Fianchetto, Panno, 8.h3 Rb8 9.e4"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.h3 Rb8 9.e4"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 b - e3 0 9'
   },
   {
     SCID: 'E63l',
-    desc: `"King's Indian: Fianchetto, Panno, 8.d5"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.d5"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/3P4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E63m',
-    desc: `"King's Indian: Fianchetto, Panno, 8.d5 Na5"`,
+    desc: '"King\'s Indian: Fianchetto, Panno, 8.d5 Na5"',
     fen: 'r1bq1rk1/1pp1ppbp/p2p1np1/n2P4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E64a',
-    desc: `"King's Indian: Fianchetto, Yugoslav System"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav System"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ c6 0 7'
   },
   {
     SCID: 'E64b',
-    desc: `"King's Indian: Fianchetto, Yugoslav, Early Exchange"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, Early Exchange"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2P5/2P5/2N2NP1/PP2PPBP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E64c',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.d5"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E64d',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.d5 e6"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQK2R w KQ - 0 8'
   },
   {
     SCID: 'E64e',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.d5 Na6"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.d5 Na6"',
     fen: 'r1bq1rk1/pp2ppbp/n2p1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQK2R w KQ - 1 8'
   },
   {
     SCID: 'E65a',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.O-O"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.O-O"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7'
   },
   {
     SCID: 'E65b',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.O-O cxd4"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.O-O cxd4"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/8/2Pp4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E65c',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.O-O Nbd7"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.O-O Nbd7"',
     fen: 'r1bq1rk1/pp1nppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E65d',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.O-O Nc6"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.O-O Nc6"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E65e',
-    desc: `"King's Indian: Fianchetto, Yugoslav, 7.O-O Nc6 8.h3"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, 7.O-O Nc6 8.h3"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E65f',
-    desc: `"King's Indian: Fianchetto, Yugoslav, Exchange"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, Exchange"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2P5/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E65g',
-    desc: `"King's Indian: Fianchetto, Yugoslav, Exchange, 9.Be3"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, Exchange, 9.Be3"',
     fen: 'r1bq1rk1/pp2ppbp/2n2np1/2p5/2P5/2N1BNP1/PP2PPBP/R2Q1RK1 b - - 1 9'
   },
   {
     SCID: 'E65h',
-    desc: `"King's Indian: Fianchetto, Yugoslav, Exchange, 9.Bf4"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav, Exchange, 9.Bf4"',
     fen: 'r1bq1rk1/pp2ppbp/2n2np1/2p5/2P2B2/2N2NP1/PP2PPBP/R2Q1RK1 b - - 1 9'
   },
   {
     SCID: 'E66a',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E66b',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno"',
     fen: 'r1bq1rk1/pp2ppbp/3p1np1/n1pP4/2P5/2N3P1/PP1NPPBP/R1BQ1RK1 b - - 2 9'
   },
   {
     SCID: 'E66c',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno"',
     fen: 'r1bq1rk1/pp2ppbp/3p1np1/n1pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E66d',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...e5"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...e5"',
     fen: 'r1bq1rk1/pp3pbp/3p1np1/n1pPp3/2P5/2N3P1/PP1NPPBP/R1BQ1RK1 w - e6 0 10'
   },
   {
     SCID: 'E66e',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...a6"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...a6"',
     fen: 'r1bq1rk1/1p2ppbp/p2p1np1/n1pP4/2P5/2N3P1/PP1NPPBP/R1BQ1RK1 w - - 0 10'
   },
   {
     SCID: 'E66f',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Rb1"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Rb1"',
     fen: 'r1bq1rk1/1p2ppbp/p2p1np1/n1pP4/2P5/2N3P1/PP1NPPBP/1RBQ1RK1 b - - 1 10'
   },
   {
     SCID: 'E66g',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Rb1 Rb8"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Rb1 Rb8"',
     fen: '1rbq1rk1/1p2ppbp/p2p1np1/n1pP4/2P5/2N3P1/PP1NPPBP/1RBQ1RK1 w - - 2 11'
   },
   {
     SCID: 'E66h',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Qc2"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Qc2"',
     fen: 'r1bq1rk1/1p2ppbp/p2p1np1/n1pP4/2P5/2N3P1/PPQNPPBP/R1B2RK1 b - - 1 10'
   },
   {
     SCID: 'E66i',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Qc2 Rb8"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Qc2 Rb8"',
     fen: '1rbq1rk1/1p2ppbp/p2p1np1/n1pP4/2P5/2N3P1/PPQNPPBP/R1B2RK1 w - - 2 11'
   },
   {
     SCID: 'E66j',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Qc2 Rb8 11.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, 9...a6 10.Qc2 Rb8 11.b3"',
     fen: '1rbq1rk1/1p2ppbp/p2p1np1/n1pP4/2P5/1PN3P1/P1QNPPBP/R1B2RK1 b - - 0 11'
   },
   {
     SCID: 'E66k',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, Main Line"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, Main Line"',
     fen: '1rbq1rk1/4ppbp/p2p1np1/nppP4/2P5/1PN3P1/P1QNPPBP/R1B2RK1 w - b6 0 12'
   },
   {
     SCID: 'E66l',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, Main Line, 12.Bb2"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, Main Line, 12.Bb2"',
     fen: '1rbq1rk1/4ppbp/p2p1np1/nppP4/2P5/1PN3P1/PBQNPPBP/R4RK1 b - - 1 12'
   },
   {
     SCID: 'E66m',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, Main Line, 12.Bb2 e5"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, Main Line, 12.Bb2 e5"',
     fen: '1rbq1rk1/5pbp/p2p1np1/nppPp3/2P5/1PN3P1/PBQNPPBP/R4RK1 w - e6 0 13'
   },
   {
     SCID: 'E66n',
-    desc: `"King's Indian: Fianchetto, Yugoslav Panno, Main Line, 12.Bb2 bxc4"`,
+    desc: '"King\'s Indian: Fianchetto, Yugoslav Panno, Main Line, 12.Bb2 bxc4"',
     fen: '1rbq1rk1/4ppbp/p2p1np1/n1pP4/2p5/1PN3P1/PBQNPPBP/R4RK1 w - - 0 13'
   },
   {
     SCID: 'E67a',
-    desc: `"King's Indian: Fianchetto with 6...Nd7"`,
+    desc: '"King\'s Indian: Fianchetto with 6...Nd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 3 7'
   },
   {
     SCID: 'E67b',
-    desc: `"King's Indian: Fianchetto with 6...Nd7 7.O-O"`,
+    desc: '"King\'s Indian: Fianchetto with 6...Nd7 7.O-O"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 4 7'
   },
   {
     SCID: 'E67c',
-    desc: `"King's Indian: Fianchetto with 6...Nd7 7.O-O c6"`,
+    desc: '"King\'s Indian: Fianchetto with 6...Nd7 7.O-O c6"',
     fen: 'r1bq1rk1/pp1nppbp/2pp1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E67d',
-    desc: `"King's Indian: Fianchetto, Classical Variation"`,
+    desc: '"King\'s Indian: Fianchetto, Classical Variation"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - e6 0 8'
   },
   {
     SCID: 'E67e',
-    desc: `"King's Indian: Fianchetto, Classical, 8.d5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.d5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E67f',
-    desc: `"King's Indian: Fianchetto, Classical, 8.dxe5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.dxe5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4P3/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E67g',
-    desc: `"King's Indian: Fianchetto, Classical, 8.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.b3"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E67h',
-    desc: `"King's Indian: Fianchetto, Classical, 8.Qc2"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.Qc2"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NP1/PPQ1PPBP/R1B2RK1 b - - 1 8'
   },
   {
     SCID: 'E67i',
-    desc: `"King's Indian: Fianchetto, Classical, 8.Qc2 c6"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.Qc2 c6"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PP4/2N2NP1/PPQ1PPBP/R1B2RK1 w - - 0 9'
   },
   {
     SCID: 'E67j',
-    desc: `"King's Indian: Fianchetto, Classical, 8.h3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.h3"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E67k',
-    desc: `"King's Indian: Fianchetto, Classical, 8.h3 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.h3 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E67l',
-    desc: `"King's Indian: Fianchetto, Classical, 8.h3 c6"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.h3 c6"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PP4/2N2NPP/PP2PPB1/R1BQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E68a',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 b - e3 0 8'
   },
   {
     SCID: 'E68b',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E68c',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 exd4"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/8/2PpP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E68d',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Nc5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Nc5"',
     fen: 'r1bq1rk1/ppp2pbp/3p1np1/2n5/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E68e',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/8/2PNP3/2N3P1/PP3PBP/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E68f',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8 10.h3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8 10.h3"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/8/2PNP3/2N3PP/PP3PB1/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E68g',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8 10.h3 Nc5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8 10.h3 Nc5"',
     fen: 'r1bqr1k1/ppp2pbp/3p1np1/2n5/2PNP3/2N3PP/PP3PB1/R1BQ1RK1 w - - 1 11'
   },
   {
     SCID: 'E68h',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8 10.h3 Nc5 11.Re1 a5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 exd4 9.Nxd4 Re8 10.h3 Nc5 11.Re1 a5"',
     fen: 'r1bqr1k1/1pp2pbp/3p1np1/p1n5/2PNP3/2N3PP/PP3PB1/R1BQR1K1 w - a6 0 12'
   },
   {
     SCID: 'E68i',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 a6"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 a6"',
     fen: 'r1bq1rk1/1ppn1pbp/p2p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E68j',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 c6"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 c6"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 9'
   },
   {
     SCID: 'E68k',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 c6 9.Rb1"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 c6 9.Rb1"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NP1/PP3PBP/1RBQ1RK1 b - - 1 9'
   },
   {
     SCID: 'E68l',
-    desc: `"King's Indian: Fianchetto, Classical, 8.e4 c6 9.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 8.e4 c6 9.b3"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/1PN2NP1/P4PBP/R1BQ1RK1 b - - 0 9'
   },
   {
     SCID: 'E69a',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 b - - 0 9'
   },
   {
     SCID: 'E69b',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qe7"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qe7"',
     fen: 'r1b2rk1/pp1nqpbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E69c',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 a6"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 a6"',
     fen: 'r1bq1rk1/1p1n1pbp/p1pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 0 10'
   },
   {
     SCID: 'E69d',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 a5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 a5"',
     fen: 'r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - a6 0 10'
   },
   {
     SCID: 'E69e',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 exd4"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/8/2PpP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 0 10'
   },
   {
     SCID: 'E69f',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 exd4 10.Nxd4 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 exd4 10.Nxd4 Re8"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/8/2PNP3/2N3PP/PP3PB1/R1BQ1RK1 w - - 1 11'
   },
   {
     SCID: 'E69g',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qa5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qa5"',
     fen: 'r1b2rk1/pp1n1pbp/2pp1np1/q3p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E69h',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qa5 10.Re1"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qa5 10.Re1"',
     fen: 'r1b2rk1/pp1n1pbp/2pp1np1/q3p3/2PPP3/2N2NPP/PP3PB1/R1BQR1K1 b - - 2 10'
   },
   {
     SCID: 'E69h',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qa5 10.Re1 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qa5 10.Re1 exd4"',
     fen: 'r1b2rk1/pp1n1pbp/2pp1np1/q7/2PpP3/2N2NPP/PP3PB1/R1BQR1K1 w - - 0 11'
   },
   {
     SCID: 'E69h',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qa5 10.Re1 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qa5 10.Re1 exd4"',
     fen: 'r1b2rk1/pp1n1pbp/2pp1np1/q7/2PNP3/2N3PP/PP3PB1/R1BQR1K1 b - - 0 11'
   },
   {
     SCID: 'E69i',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6"',
     fen: 'r1b2rk1/pp1n1pbp/1qpp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E69i',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.d5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.d5"',
     fen: 'r1b2rk1/pp1n1pbp/1qpp1np1/3Pp3/2P1P3/2N2NPP/PP3PB1/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E69j',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.c5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.c5"',
     fen: 'r1b2rk1/pp1n1pbp/1qpp1np1/2P1p3/3PP3/2N2NPP/PP3PB1/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E69k',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1"',
     fen: 'r1b2rk1/pp1n1pbp/1qpp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQR1K1 b - - 2 10'
   },
   {
     SCID: 'E69l',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 Re8"',
     fen: 'r1b1r1k1/pp1n1pbp/1qpp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQR1K1 w - - 3 11'
   },
   {
     SCID: 'E69m',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 exd4"',
     fen: 'r1b2rk1/pp1n1pbp/1qpp1np1/8/2PpP3/2N2NPP/PP3PB1/R1BQR1K1 w - - 0 11'
   },
   {
     SCID: 'E69m',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 exd4"',
     fen: 'r1b2rk1/pp1n1pbp/1qpp1np1/8/2PNP3/2N3PP/PP3PB1/R1BQR1K1 b - - 0 11'
   },
   {
     SCID: 'E69n',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 exd4 11.Nxd4 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Qb6 10.Re1 exd4 11.Nxd4 Re8"',
     fen: 'r1b1r1k1/pp1n1pbp/1qpp1np1/8/2PNP3/2N3PP/PP3PB1/R1BQR1K1 w - - 1 12'
   },
   {
     SCID: 'E69o',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E69p',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.b3"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/4p3/2PPP3/1PN2NPP/P4PB1/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E69q',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Be3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Be3"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N1BNPP/PP3PB1/R2Q1RK1 b - - 2 10'
   },
   {
     SCID: 'E69r',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Be3 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Be3 exd4"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/8/2PpP3/2N1BNPP/PP3PB1/R2Q1RK1 w - - 0 11'
   },
   {
     SCID: 'E69r',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Be3 exd4 11.Nxd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Be3 exd4 11.Nxd4"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/8/2PNP3/2N1B1PP/PP3PB1/R2Q1RK1 b - - 0 11'
   },
   {
     SCID: 'E69s',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQR1K1 b - - 2 10'
   },
   {
     SCID: 'E69t',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 Qc7"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 Qc7"',
     fen: 'r1b1r1k1/ppqn1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQR1K1 w - - 3 11'
   },
   {
     SCID: 'E69u',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 a5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 a5"',
     fen: 'r1bqr1k1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2NPP/PP3PB1/R1BQR1K1 w - a6 0 11'
   },
   {
     SCID: 'E69u',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 a5 11.Be3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 a5 11.Be3"',
     fen: 'r1bqr1k1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N1BNPP/PP3PB1/R2QR1K1 b - - 1 11'
   },
   {
     SCID: 'E69v',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/8/2PpP3/2N2NPP/PP3PB1/R1BQR1K1 w - - 0 11'
   },
   {
     SCID: 'E69v',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/8/2PNP3/2N3PP/PP3PB1/R1BQR1K1 b - - 0 11'
   },
   {
     SCID: 'E69w',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...a5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...a5"',
     fen: 'r1bqr1k1/1p1n1pbp/2pp1np1/p7/2PNP3/2N3PP/PP3PB1/R1BQR1K1 w - a6 0 12'
   },
   {
     SCID: 'E69x',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...Nc5"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...Nc5"',
     fen: 'r1bqr1k1/pp3pbp/2pp1np1/2n5/2PNP3/2N3PP/PP3PB1/R1BQR1K1 w - - 1 12'
   },
   {
     SCID: 'E69y',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...Nc5 12.Rb1"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...Nc5 12.Rb1"',
     fen: 'r1bqr1k1/pp3pbp/2pp1np1/2n5/2PNP3/2N3PP/PP3PB1/1RBQR1K1 b - - 2 12'
   },
   {
     SCID: 'E69z',
-    desc: `"King's Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...Nc5 12.b3"`,
+    desc: '"King\'s Indian: Fianchetto, Classical, 9.h3 Re8 10.Re1 exd4, 11...Nc5 12.b3"',
     fen: 'r1bqr1k1/pp3pbp/2pp1np1/2n5/2PNP3/1PN3PP/P4PB1/R1BQR1K1 b - - 0 12'
   },
   {
     SCID: 'E70a',
-    desc: `"King's Indian: 4.e4"`,
+    desc: '"King\'s Indian: 4.e4"',
     fen: 'rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 4'
   },
   {
     SCID: 'E70b',
-    desc: `"King's Indian: 4.e4 O-O"`,
+    desc: '"King\'s Indian: 4.e4 O-O"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQ - 1 5'
   },
   {
     SCID: 'E70c',
-    desc: `"King's Indian: 4.e4 O-O 5.e5"`,
+    desc: '"King\'s Indian: 4.e4 O-O 5.e5"',
     fen: 'rnbq1rk1/ppppppbp/5np1/4P3/2PP4/2N5/PP3PPP/R1BQKBNR b KQ - 0 5'
   },
   {
     SCID: 'E70d',
-    desc: `"King's Indian: 4.e4 O-O 5.Nf3"`,
+    desc: '"King\'s Indian: 4.e4 O-O 5.Nf3"',
     fen: 'rnbq1rk1/ppppppbp/5np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQ - 2 5'
   },
   {
     SCID: 'E70e',
-    desc: `"King's Indian: 4.e4 d6"`,
+    desc: '"King\'s Indian: 4.e4 d6"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5'
   },
   {
     SCID: 'E70f',
-    desc: `"King's Indian: Kramer"`,
+    desc: '"King\'s Indian: Kramer"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R b KQkq - 1 5'
   },
   {
     SCID: 'E70g',
-    desc: `"King's Indian: Kramer, 5...O-O"`,
+    desc: '"King\'s Indian: Kramer, 5...O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R w KQ - 2 6'
   },
   {
     SCID: 'E70h',
-    desc: `"King's Indian: Kramer, 5...O-O 6.Ng3"`,
+    desc: '"King\'s Indian: Kramer, 5...O-O 6.Ng3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N3N1/PP3PPP/R1BQKB1R b KQ - 3 6'
   },
   {
     SCID: 'E70i',
-    desc: `"King's Indian: Kramer, 5...O-O 6.Ng3 e5"`,
+    desc: '"King\'s Indian: Kramer, 5...O-O 6.Ng3 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3N1/PP3PPP/R1BQKB1R w KQ e6 0 7'
   },
   {
     SCID: 'E70i',
-    desc: `"King's Indian: Kramer, 5...O-O 6.Ng3 e5 7.d5"`,
+    desc: '"King\'s Indian: Kramer, 5...O-O 6.Ng3 e5 7.d5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N3N1/PP3PPP/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E70j',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2NB4/PP3PPP/R1BQK1NR b KQkq - 1 5'
   },
   {
     SCID: 'E70k',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 e5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 e5"',
     fen: 'rnbqk2r/ppp2pbp/3p1np1/4p3/2PPP3/2NB4/PP3PPP/R1BQK1NR w KQkq e6 0 6'
   },
   {
     SCID: 'E70l',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2NB4/PP3PPP/R1BQK1NR w KQ - 2 6'
   },
   {
     SCID: 'E70m',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2NB4/PP2NPPP/R1BQK2R b KQ - 3 6'
   },
   {
     SCID: 'E70n',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2NB4/PP2NPPP/R1BQK2R w KQ - 4 7'
   },
   {
     SCID: 'E70n',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2NB4/PP2NPPP/R1BQ1RK1 b - - 5 7'
   },
   {
     SCID: 'E70n',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O e5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 Nc6 7.O-O e5"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2NB4/PP2NPPP/R1BQ1RK1 w - e6 0 8'
   },
   {
     SCID: 'E70o',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2NB4/PP2NPPP/R1BQK2R w KQ c6 0 7'
   },
   {
     SCID: 'E70p',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2NB4/PP2NPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E70p',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2NB4/PP2NPPP/R1BQK2R w KQ - 0 8'
   },
   {
     SCID: 'E70p',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6 8.O-O"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 c5 7.d5 e6 8.O-O"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2NB4/PP2NPPP/R1BQ1RK1 b - - 1 8'
   },
   {
     SCID: 'E70q',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 e5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2NB4/PP2NPPP/R1BQK2R w KQ e6 0 7'
   },
   {
     SCID: 'E70r',
-    desc: `"King's Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 e5 7.d5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.Bd3 O-O 6.Nge2 e5 7.d5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2NB4/PP2NPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E70s',
-    desc: `"King's Indian: Accelerated Averbakh System"`,
+    desc: '"King\'s Indian: Accelerated Averbakh System"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR b KQkq - 1 5'
   },
   {
     SCID: 'E70t',
-    desc: `"King's Indian: Accelerated Averbakh, 5...h6"`,
+    desc: '"King\'s Indian: Accelerated Averbakh, 5...h6"',
     fen: 'rnbqk2r/ppp1ppb1/3p1npp/6B1/2PPP3/2N5/PP3PPP/R2QKBNR w KQkq - 0 6'
   },
   {
     SCID: 'E70u',
-    desc: `"King's Indian: Accelerated Averbakh, 5...O-O"`,
+    desc: '"King\'s Indian: Accelerated Averbakh, 5...O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR w KQ - 2 6'
   },
   {
     SCID: 'E70v',
-    desc: `"King's Indian: Accelerated Averbakh, 5...O-O 6.Qd2"`,
+    desc: '"King\'s Indian: Accelerated Averbakh, 5...O-O 6.Qd2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP1Q1PPP/R3KBNR b KQ - 3 6'
   },
   {
     SCID: 'E71a',
-    desc: `"King's Indian: Makagonov System"`,
+    desc: '"King\'s Indian: Makagonov System"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR b KQkq - 0 5'
   },
   {
     SCID: 'E71b',
-    desc: `"King's Indian: Makagonov, 5...c5"`,
+    desc: '"King\'s Indian: Makagonov, 5...c5"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2p5/2PPP3/2N4P/PP3PP1/R1BQKBNR w KQkq c6 0 6'
   },
   {
     SCID: 'E71c',
-    desc: `"King's Indian: Makagonov, 5...Nbd7"`,
+    desc: '"King\'s Indian: Makagonov, 5...Nbd7"',
     fen: 'r1bqk2r/pppnppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR w KQkq - 1 6'
   },
   {
     SCID: 'E71d',
-    desc: `"King's Indian: Makagonov, 5...O-O"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR w KQ - 1 6'
   },
   {
     SCID: 'E71e',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Be3"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Be3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1B2P/PP3PP1/R2QKBNR b KQ - 2 6'
   },
   {
     SCID: 'E71f',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Be3 e5"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Be3 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1B2P/PP3PP1/R2QKBNR w KQ e6 0 7'
   },
   {
     SCID: 'E71g',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N4P/PP3PP1/R2QKBNR b KQ - 2 6'
   },
   {
     SCID: 'E71h',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 c6"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/6B1/2PPP3/2N4P/PP3PP1/R2QKBNR w KQ - 0 7'
   },
   {
     SCID: 'E71i',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 h6"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 h6"',
     fen: 'rnbq1rk1/ppp1ppb1/3p1npp/6B1/2PPP3/2N4P/PP3PP1/R2QKBNR w KQ - 0 7'
   },
   {
     SCID: 'E71j',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 Nbd7"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PPP3/2N4P/PP3PP1/R2QKBNR w KQ - 3 7'
   },
   {
     SCID: 'E71k',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 Na6"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 Na6"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP3/2N4P/PP3PP1/R2QKBNR w KQ - 3 7'
   },
   {
     SCID: 'E71l',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 Na6 7.Bd3"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 Na6 7.Bd3"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP3/2NB3P/PP3PP1/R2QK1NR b KQ - 4 7'
   },
   {
     SCID: 'E71l',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 Na6 7.Bd3 e5"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 Na6 7.Bd3 e5"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/4p1B1/2PPP3/2NB3P/PP3PP1/R2QK1NR w KQ e6 0 8'
   },
   {
     SCID: 'E71m',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 c5"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N4P/PP3PP1/R2QKBNR w KQ c6 0 7'
   },
   {
     SCID: 'E71m',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 c5 7.d5"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N4P/PP3PP1/R2QKBNR b KQ - 0 7'
   },
   {
     SCID: 'E71n',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 c5 7.d5 b5"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 c5 7.d5 b5"',
     fen: 'rnbq1rk1/p3ppbp/3p1np1/1ppP2B1/2P1P3/2N4P/PP3PP1/R2QKBNR w KQ b6 0 8'
   },
   {
     SCID: 'E71o',
-    desc: `"King's Indian: Makagonov, 5...O-O 6.Bg5 c5 7.d5 e6"`,
+    desc: '"King\'s Indian: Makagonov, 5...O-O 6.Bg5 c5 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N4P/PP3PP1/R2QKBNR w KQ - 0 8'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3P1P/R1BQKBNR b KQkq - 0 5'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3 O-O"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3 O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3P1P/R1BQKBNR w KQ - 1 6'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3 O-O 6.Bg2"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3 O-O 6.Bg2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3PBP/R1BQK1NR b KQ - 2 6'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3 O-O 6.Bg2 Nbd7"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3 O-O 6.Bg2 Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N3P1/PP3PBP/R1BQK1NR w KQ - 3 7'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3 O-O 6.Bg2 Nc6"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3 O-O 6.Bg2 Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N3P1/PP3PBP/R1BQK1NR w KQ - 3 7'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3 O-O 6.Bg2 c5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3 O-O 6.Bg2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N3P1/PP3PBP/R1BQK1NR w KQ c6 0 7'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: 4.e4 d6 5.g3 O-O 6.Bg2 e5"`,
+    desc: '"King\'s Indian: 4.e4 d6 5.g3 O-O 6.Bg2 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP3PBP/R1BQK1NR w KQ e6 0 7'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: Pomar System"`,
+    desc: '"King\'s Indian: Pomar System"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP2NPBP/R1BQK2R b KQ - 1 7'
   },
   {
     SCID: 'E72',
-    desc: `"King's Indian: Pomar System"`,
+    desc: '"King\'s Indian: Pomar System"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N3P1/PP2NPBP/R1BQK2R w KQ - 2 8'
   },
   {
     SCID: 'E73a',
-    desc: `"King's Indian: 5.Be2"`,
+    desc: '"King\'s Indian: 5.Be2"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR b KQkq - 1 5'
   },
   {
     SCID: 'E73b',
-    desc: `"King's Indian: 5.Be2 c5"`,
+    desc: '"King\'s Indian: 5.Be2 c5"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2p5/2PPP3/2N5/PP2BPPP/R1BQK1NR w KQkq c6 0 6'
   },
   {
     SCID: 'E73c',
-    desc: `"King's Indian: 5.Be2 e5"`,
+    desc: '"King\'s Indian: 5.Be2 e5"',
     fen: 'rnbqk2r/ppp2pbp/3p1np1/4p3/2PPP3/2N5/PP2BPPP/R1BQK1NR w KQkq e6 0 6'
   },
   {
     SCID: 'E73d',
-    desc: `"King's Indian: 5.Be2 e5 6.d5"`,
+    desc: '"King\'s Indian: 5.Be2 e5 6.d5"',
     fen: 'rnbqk2r/ppp2pbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQK1NR b KQkq - 0 6'
   },
   {
     SCID: 'E73e',
-    desc: `"King's Indian: 5.Be2 Nbd7"`,
+    desc: '"King\'s Indian: 5.Be2 Nbd7"',
     fen: 'r1bqk2r/pppnppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR w KQkq - 2 6'
   },
   {
     SCID: 'E73f',
-    desc: `"King's Indian: 5.Be2 O-O"`,
+    desc: '"King\'s Indian: 5.Be2 O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR w KQ - 2 6'
   },
   {
     SCID: 'E73g',
-    desc: `"King's Indian: 5.Be2 O-O 6.g4"`,
+    desc: '"King\'s Indian: 5.Be2 O-O 6.g4"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP1P1/2N5/PP2BP1P/R1BQK1NR b KQ g3 0 6'
   },
   {
     SCID: 'E73h',
-    desc: `"King's Indian: Semi-Averbakh System"`,
+    desc: '"King\'s Indian: Semi-Averbakh System"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1B3/PP2BPPP/R2QK1NR b KQ - 3 6'
   },
   {
     SCID: 'E73i',
-    desc: `"King's Indian: Averbakh"`,
+    desc: '"King\'s Indian: Averbakh"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR b KQ - 3 6'
   },
   {
     SCID: 'E73j',
-    desc: `"King's Indian: Averbakh, 6...c6"`,
+    desc: '"King\'s Indian: Averbakh, 6...c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR w KQ - 0 7'
   },
   {
     SCID: 'E73k',
-    desc: `"King's Indian: Averbakh, 6...c6 7.Qd2"`,
+    desc: '"King\'s Indian: Averbakh, 6...c6 7.Qd2"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/6B1/2PPP3/2N5/PP1QBPPP/R3K1NR b KQ - 1 7'
   },
   {
     SCID: 'E73l',
-    desc: `"King's Indian: Averbakh, 6...c6 7.Qd2 Nbd7"`,
+    desc: '"King\'s Indian: Averbakh, 6...c6 7.Qd2 Nbd7"',
     fen: 'r1bq1rk1/pp1nppbp/2pp1np1/6B1/2PPP3/2N5/PP1QBPPP/R3K1NR w KQ - 2 8'
   },
   {
     SCID: 'E73m',
-    desc: `"King's Indian: Averbakh, 6...Nbd7"`,
+    desc: '"King\'s Indian: Averbakh, 6...Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR w KQ - 4 7'
   },
   {
     SCID: 'E73n',
-    desc: `"King's Indian: Averbakh, 6...Nbd7 7.Qd2"`,
+    desc: '"King\'s Indian: Averbakh, 6...Nbd7 7.Qd2"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PPP3/2N5/PP1QBPPP/R3K1NR b KQ - 5 7'
   },
   {
     SCID: 'E73o',
-    desc: `"King's Indian: Averbakh, 6...Nbd7 7.Qd2 e5"`,
+    desc: '"King\'s Indian: Averbakh, 6...Nbd7 7.Qd2 e5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p1B1/2PPP3/2N5/PP1QBPPP/R3K1NR w KQ e6 0 8'
   },
   {
     SCID: 'E73o',
-    desc: `"King's Indian: Averbakh, 6...Nbd7 7.Qd2 e5 8.d5"`,
+    desc: '"King\'s Indian: Averbakh, 6...Nbd7 7.Qd2 e5 8.d5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp1B1/2P1P3/2N5/PP1QBPPP/R3K1NR b KQ - 0 8'
   },
   {
     SCID: 'E73o',
-    desc: `"King's Indian: Averbakh, 6...Nbd7 7.Qd2 e5 8.d5 Nc5"`,
+    desc: '"King\'s Indian: Averbakh, 6...Nbd7 7.Qd2 e5 8.d5 Nc5"',
     fen: 'r1bq1rk1/ppp2pbp/3p1np1/2nPp1B1/2P1P3/2N5/PP1QBPPP/R3K1NR w KQ - 1 9'
   },
   {
     SCID: 'E73p',
-    desc: `"King's Indian: Averbakh, 6...Na6"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR w KQ - 4 7'
   },
   {
     SCID: 'E73q',
-    desc: `"King's Indian: Averbakh, 6...Na6 7.h4"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6 7.h4"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP2P/2N5/PP2BPP1/R2QK1NR b KQ h3 0 7'
   },
   {
     SCID: 'E73r',
-    desc: `"King's Indian: Averbakh, 6...Na6 7.Qd2"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6 7.Qd2"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP3/2N5/PP1QBPPP/R3K1NR b KQ - 5 7'
   },
   {
     SCID: 'E73s',
-    desc: `"King's Indian: Averbakh, 6...Na6 7.Qd2 e5"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6 7.Qd2 e5"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/4p1B1/2PPP3/2N5/PP1QBPPP/R3K1NR w KQ e6 0 8'
   },
   {
     SCID: 'E73s',
-    desc: `"King's Indian: Averbakh, 6...Na6 7.Qd2 e5 8.d5"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6 7.Qd2 e5 8.d5"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/3Pp1B1/2P1P3/2N5/PP1QBPPP/R3K1NR b KQ - 0 8'
   },
   {
     SCID: 'E73t',
-    desc: `"King's Indian: Averbakh, 6...Na6 7.Qd2 e5 8.d5 c6"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6 7.Qd2 e5 8.d5 c6"',
     fen: 'r1bq1rk1/pp3pbp/n1pp1np1/3Pp1B1/2P1P3/2N5/PP1QBPPP/R3K1NR w KQ - 0 9'
   },
   {
     SCID: 'E73u',
-    desc: `"King's Indian: Averbakh, 6...Na6 7.Qd2 e5 8.d5 Qe8"`,
+    desc: '"King\'s Indian: Averbakh, 6...Na6 7.Qd2 e5 8.d5 Qe8"',
     fen: 'r1b1qrk1/ppp2pbp/n2p1np1/3Pp1B1/2P1P3/2N5/PP1QBPPP/R3K1NR w KQ - 1 9'
   },
   {
     SCID: 'E73v',
-    desc: `"King's Indian: Averbakh, 6...h6"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6"',
     fen: 'rnbq1rk1/ppp1ppb1/3p1npp/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR w KQ - 0 7'
   },
   {
     SCID: 'E73w',
-    desc: `"King's Indian: Averbakh, 6...h6 7.Be3"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6 7.Be3"',
     fen: 'rnbq1rk1/ppp1ppb1/3p1npp/8/2PPP3/2N1B3/PP2BPPP/R2QK1NR b KQ - 1 7'
   },
   {
     SCID: 'E73x',
-    desc: `"King's Indian: Averbakh, 6...h6 7.Be3 c5"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6 7.Be3 c5"',
     fen: 'rnbq1rk1/pp2ppb1/3p1npp/2p5/2PPP3/2N1B3/PP2BPPP/R2QK1NR w KQ c6 0 8'
   },
   {
     SCID: 'E73y',
-    desc: `"King's Indian: Averbakh, 6...h6 7.Be3 e5"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6 7.Be3 e5"',
     fen: 'rnbq1rk1/ppp2pb1/3p1npp/4p3/2PPP3/2N1B3/PP2BPPP/R2QK1NR w KQ e6 0 8'
   },
   {
     SCID: 'E73y',
-    desc: `"King's Indian: Averbakh, 6...h6 7.Be3 e5 8.d5"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6 7.Be3 e5 8.d5"',
     fen: 'rnbq1rk1/ppp2pb1/3p1npp/3Pp3/2P1P3/2N1B3/PP2BPPP/R2QK1NR b KQ - 0 8'
   },
   {
     SCID: 'E73y',
-    desc: `"King's Indian: Averbakh, 6...h6 7.Be3 e5 8.d5 c6"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6 7.Be3 e5 8.d5 c6"',
     fen: 'rnbq1rk1/pp3pb1/2pp1npp/3Pp3/2P1P3/2N1B3/PP2BPPP/R2QK1NR w KQ - 0 9'
   },
   {
     SCID: 'E73z',
-    desc: `"King's Indian: Averbakh, 6...h6 7.Be3 e5 8.d5 Nbd7"`,
+    desc: '"King\'s Indian: Averbakh, 6...h6 7.Be3 e5 8.d5 Nbd7"',
     fen: 'r1bq1rk1/pppn1pb1/3p1npp/3Pp3/2P1P3/2N1B3/PP2BPPP/R2QK1NR w KQ - 1 9'
   },
   {
     SCID: 'E74a',
-    desc: `"King's Indian: Averbakh, 6...c5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N5/PP2BPPP/R2QK1NR w KQ c6 0 7'
   },
   {
     SCID: 'E74b',
-    desc: `"King's Indian: Averbakh, 6...c5 7.dxc5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.dxc5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2P3B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - 0 7'
   },
   {
     SCID: 'E74b',
-    desc: `"King's Indian: Averbakh, 6...c5 7.dxc5 Qa5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.dxc5 Qa5"',
     fen: 'rnb2rk1/pp2ppbp/3p1np1/q1P3B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 1 8'
   },
   {
     SCID: 'E74c',
-    desc: `"King's Indian: Averbakh, 6...c5 7.dxc5 Qa5 8.Bd2 Qxc5 9.Nf3 Bg4"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.dxc5 Qa5 8.Bd2 Qxc5 9.Nf3 Bg4"',
     fen: 'rn3rk1/pp2ppbp/3p1np1/2q5/2P1P1b1/2N2N2/PP1BBPPP/R2QK2R w KQ - 2 10'
   },
   {
     SCID: 'E74d',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - 0 7'
   },
   {
     SCID: 'E74e',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 Qa5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 Qa5"',
     fen: 'rnb2rk1/pp2ppbp/3p1np1/q1pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 1 8'
   },
   {
     SCID: 'E74f',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 b5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 b5"',
     fen: 'rnbq1rk1/p3ppbp/3p1np1/1ppP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ b6 0 8'
   },
   {
     SCID: 'E74f',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 b5 8.cxb5 a6 9.a4"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 b5 8.cxb5 a6 9.a4"',
     fen: 'rnbq1rk1/4ppbp/p2p1np1/1PpP2B1/P3P3/2N5/1P2BPPP/R2QK1NR b KQ a3 0 9'
   },
   {
     SCID: 'E74g',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 a6"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 a6"',
     fen: 'rnbq1rk1/1p2ppbp/p2p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 0 8'
   },
   {
     SCID: 'E74g',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 a6 8.Qd2"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 a6 8.Qd2"',
     fen: 'rnbq1rk1/1p2ppbp/p2p1np1/2pP2B1/2P1P3/2N5/PP1QBPPP/R3K1NR b KQ - 1 8'
   },
   {
     SCID: 'E74h',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 a6 8.a4"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 a6 8.a4"',
     fen: 'rnbq1rk1/1p2ppbp/p2p1np1/2pP2B1/P1P1P3/2N5/1P2BPPP/R2QK1NR b KQ a3 0 8'
   },
   {
     SCID: 'E74i',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 a6 8.a4 Qa5"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 a6 8.a4 Qa5"',
     fen: 'rnb2rk1/1p2ppbp/p2p1np1/q1pP2B1/P1P1P3/2N5/1P2BPPP/R2QK1NR w KQ - 1 9'
   },
   {
     SCID: 'E74j',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6"',
     fen: 'rnbq1rk1/pp2ppb1/3p1npp/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 0 8'
   },
   {
     SCID: 'E74j',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6 8.Bh4"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6 8.Bh4"',
     fen: 'rnbq1rk1/pp2ppb1/3p1npp/2pP4/2P1P2B/2N5/PP2BPPP/R2QK1NR b KQ - 1 8'
   },
   {
     SCID: 'E74k',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6 8.Be3"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6 8.Be3"',
     fen: 'rnbq1rk1/pp2ppb1/3p1npp/2pP4/2P1P3/2N1B3/PP2BPPP/R2QK1NR b KQ - 1 8'
   },
   {
     SCID: 'E74l',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6 8.Be3 e6"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6 8.Be3 e6"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1P3/2N1B3/PP2BPPP/R2QK1NR w KQ - 0 9'
   },
   {
     SCID: 'E74m',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6 8.Be3 e6 9.Qd2"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6 8.Be3 e6 9.Qd2"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1P3/2N1B3/PP1QBPPP/R3K1NR b KQ - 1 9'
   },
   {
     SCID: 'E74n',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6 8.Bf4"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6 8.Bf4"',
     fen: 'rnbq1rk1/pp2ppb1/3p1npp/2pP4/2P1PB2/2N5/PP2BPPP/R2QK1NR b KQ - 1 8'
   },
   {
     SCID: 'E74o',
-    desc: `"King's Indian: Averbakh, 6...c5 7.d5 h6 8.Bf4 e6"`,
+    desc: '"King\'s Indian: Averbakh, 6...c5 7.d5 h6 8.Bf4 e6"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1PB2/2N5/PP2BPPP/R2QK1NR w KQ - 0 9'
   },
   {
     SCID: 'E75a',
-    desc: `"King's Indian: Averbakh, 7.d5 e6"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 0 8'
   },
   {
     SCID: 'E75b',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N2N2/PP2BPPP/R2QK2R b KQ - 1 8'
   },
   {
     SCID: 'E75b',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 exd5"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pp2B1/2P1P3/2N2N2/PP2BPPP/R2QK2R w KQ - 0 9'
   },
   {
     SCID: 'E75b',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 exd5 9.exd5"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 exd5 9.exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pP2B1/2P5/2N2N2/PP2BPPP/R2QK2R b KQ - 0 9'
   },
   {
     SCID: 'E75c',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 h6"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 h6"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP2B1/2P1P3/2N2N2/PP2BPPP/R2QK2R w KQ - 0 9'
   },
   {
     SCID: 'E75c',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bd2"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bd2"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1P3/2N2N2/PP1BBPPP/R2QK2R b KQ - 1 9'
   },
   {
     SCID: 'E75c',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Be3"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Be3"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1P3/2N1BN2/PP2BPPP/R2QK2R b KQ - 1 9'
   },
   {
     SCID: 'E75c',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bf4"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bf4"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1PB2/2N2N2/PP2BPPP/R2QK2R b KQ - 1 9'
   },
   {
     SCID: 'E75d',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bh4"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bh4"',
     fen: 'rnbq1rk1/pp3pb1/3ppnpp/2pP4/2P1P2B/2N2N2/PP2BPPP/R2QK2R b KQ - 1 9'
   },
   {
     SCID: 'E75e',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bh4 exd5 10.cxd5"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Nf3 h6 9.Bh4 exd5 10.cxd5"',
     fen: 'rnbq1rk1/pp3pb1/3p1npp/2pP4/4P2B/2N2N2/PP2BPPP/R2QK2R b KQ - 0 10'
   },
   {
     SCID: 'E75f',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP1QBPPP/R3K1NR b KQ - 1 8'
   },
   {
     SCID: 'E75g',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2 exd5"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2 exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pp2B1/2P1P3/2N5/PP1QBPPP/R3K1NR w KQ - 0 9'
   },
   {
     SCID: 'E75g',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pP2B1/2P5/2N5/PP1QBPPP/R3K1NR b KQ - 0 9'
   },
   {
     SCID: 'E75h',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 a6"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 a6"',
     fen: 'rnbq1rk1/1p3pbp/p2p1np1/2pP2B1/2P5/2N5/PP1QBPPP/R3K1NR w KQ - 0 10'
   },
   {
     SCID: 'E75i',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 Re8"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 Re8"',
     fen: 'rnbqr1k1/pp3pbp/3p1np1/2pP2B1/2P5/2N5/PP1QBPPP/R3K1NR w KQ - 1 10'
   },
   {
     SCID: 'E75i',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 Re8 10.Nf3"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 Re8 10.Nf3"',
     fen: 'rnbqr1k1/pp3pbp/3p1np1/2pP2B1/2P5/2N2N2/PP1QBPPP/R3K2R b KQ - 2 10'
   },
   {
     SCID: 'E75j',
-    desc: `"King's Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 Re8 10.Nf3 Bg4"`,
+    desc: '"King\'s Indian: Averbakh, 7.d5 e6 8.Qd2 exd5 9.exd5 Re8 10.Nf3 Bg4"',
     fen: 'rn1qr1k1/pp3pbp/3p1np1/2pP2B1/2P3b1/2N2N2/PP1QBPPP/R3K2R w KQ - 3 11'
   },
   {
     SCID: 'E76a',
-    desc: `"King's Indian: Four Pawns Attack"`,
+    desc: '"King\'s Indian: Four Pawns Attack"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR b KQkq f3 0 5'
   },
   {
     SCID: 'E76b',
-    desc: `"King's Indian: Four Pawns Attack, 5...c5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 5...c5"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2p5/2PPPP2/2N5/PP4PP/R1BQKBNR w KQkq c6 0 6'
   },
   {
     SCID: 'E76b',
-    desc: `"King's Indian: Four Pawns Attack, Exchange"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Exchange"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2P5/2P1PP2/2N5/PP4PP/R1BQKBNR b KQkq - 0 6'
   },
   {
     SCID: 'E76c',
-    desc: `"King's Indian: Four Pawns Attack, 5...c5 6.d5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 5...c5 6.d5"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2pP4/2P1PP2/2N5/PP4PP/R1BQKBNR b KQkq - 0 6'
   },
   {
     SCID: 'E76d',
-    desc: `"King's Indian: Four Pawns Attack, 5...O-O"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 5...O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR w KQ - 1 6'
   },
   {
     SCID: 'E76e',
-    desc: `"King's Indian: Four Pawns Attack, 5...O-O 6.Nf3"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 5...O-O 6.Nf3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R b KQ - 2 6'
   },
   {
     SCID: 'E76e',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 Bg4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 Bg4"',
     fen: 'rn1q1rk1/ppp1ppbp/3p1np1/8/2PPPPb1/2N2N2/PP4PP/R1BQKB1R w KQ - 3 7'
   },
   {
     SCID: 'E76f',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 Na6"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 Na6"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R w KQ - 3 7'
   },
   {
     SCID: 'E76g',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 Na6 7.e5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 Na6 7.e5"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/4P3/2PP1P2/2N2N2/PP4PP/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E76h',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 Na6 7.Be2"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 Na6 7.Be2"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPPP2/2N2N2/PP2B1PP/R1BQK2R b KQ - 4 7'
   },
   {
     SCID: 'E76i',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 Na6 7.Bd3"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 Na6 7.Bd3"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPPP2/2NB1N2/PP4PP/R1BQK2R b KQ - 4 7'
   },
   {
     SCID: 'E76j',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 Na6 7.Bd3 e5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 Na6 7.Bd3 e5"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/4p3/2PPPP2/2NB1N2/PP4PP/R1BQK2R w KQ e6 0 8'
   },
   {
     SCID: 'E76k',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP4PP/R1BQKB1R w KQ c6 0 7'
   },
   {
     SCID: 'E76l',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.dxc5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.dxc5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2P5/2P1PP2/2N2N2/PP4PP/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E76m',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.dxc5 Qa5 8.Bd3 Qxc5 9.Qe2 Nc6"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.dxc5 Qa5 8.Bd3 Qxc5 9.Qe2 Nc6"',
     fen: 'r1b2rk1/pp2ppbp/2np1np1/2q5/2P1PP2/2NB1N2/PP2Q1PP/R1B1K2R w KQ - 2 10'
   },
   {
     SCID: 'E76n',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E76o',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 a6"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 a6"',
     fen: 'rnbq1rk1/1p2ppbp/p2p1np1/2pP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R w KQ - 0 8'
   },
   {
     SCID: 'E76p',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 b5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 b5"',
     fen: 'rnbq1rk1/p3ppbp/3p1np1/1ppP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R w KQ b6 0 8'
   },
   {
     SCID: 'E76q',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 b5 8.cxb5 a6 9.a4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 b5 8.cxb5 a6 9.a4"',
     fen: 'rnbq1rk1/4ppbp/p2p1np1/1PpP4/P3PP2/2N2N2/1P4PP/R1BQKB1R b KQ a3 0 9'
   },
   {
     SCID: 'E76r',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 e6"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R w KQ - 0 8'
   },
   {
     SCID: 'E76r',
-    desc: `"King's Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 e6 8.dxe6"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Nf3 c5 7.d5 e6 8.dxe6"',
     fen: 'rnbq1rk1/pp3pbp/3pPnp1/2p5/2P1PP2/2N2N2/PP4PP/R1BQKB1R b KQ - 0 8'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, 6.Be2"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Be2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP2B1PP/R1BQK1NR b KQ - 2 6'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, 6.Be2 c5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Be2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N5/PP2B1PP/R1BQK1NR w KQ c6 0 7'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, 6.Be2 c5 7.d5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Be2 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1PP2/2N5/PP2B1PP/R1BQK1NR b KQ - 0 7'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, Six Pawns line"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Six Pawns line"',
     fen: 'r1bq1rk1/pp4bp/2nppnp1/2p5/2P1PPPP/2N5/PP2B3/R1BQK1NR b KQ h3 0 10'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, 6.Be2 c5 7.d5 e6 8.Nf3"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Be2 c5 7.d5 e6 8.Nf3"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1PP2/2N2N2/PP2B1PP/R1BQK2R b KQ - 1 8'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, 6.Be2 c5 7.d5 e6 8.Nf3 exd5 9.exd5"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 6.Be2 c5 7.d5 e6 8.Nf3 exd5 9.exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pP4/2P2P2/2N2N2/PP2B1PP/R1BQK2R b KQ - 0 9'
   },
   {
     SCID: 'E77',
-    desc: `"King's Indian: Four Pawns Attack, Florentine Gambit"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Florentine Gambit"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2ppP3/2P2P2/2N2N2/PP2B1PP/R1BQK2R b KQ - 0 9'
   },
   {
     SCID: 'E78',
-    desc: `"King's Indian: Four Pawns Attack, 7.Nf3"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 7.Nf3"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP2B1PP/R1BQK2R b KQ - 1 7'
   },
   {
     SCID: 'E78',
-    desc: `"King's Indian: Four Pawns Attack, 7.Nf3 Bg4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 7.Nf3 Bg4"',
     fen: 'rn1q1rk1/pp2ppbp/3p1np1/2p5/2PPPPb1/2N2N2/PP2B1PP/R1BQK2R w KQ - 2 8'
   },
   {
     SCID: 'E78',
-    desc: `"King's Indian: Four Pawns Attack, 7.Nf3 cxd4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 7.Nf3 cxd4"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/8/2PpPP2/2N2N2/PP2B1PP/R1BQK2R w KQ - 0 8'
   },
   {
     SCID: 'E78',
-    desc: `"King's Indian: Four Pawns Attack, 7.Nf3 cxd4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, 7.Nf3 cxd4"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/8/2PNPP2/2N5/PP2B1PP/R1BQK2R b KQ - 0 8'
   },
   {
     SCID: 'E79a',
-    desc: `"King's Indian: Four Pawns Attack, Main Line"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2QK2R b KQ - 2 9'
   },
   {
     SCID: 'E79b',
-    desc: `"King's Indian: Four Pawns Attack, Main Line, 9...Nxd4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line, 9...Nxd4"',
     fen: 'r1bq1rk1/pp2ppbp/3p1np1/8/2PnPP2/2N1B3/PP2B1PP/R2QK2R w KQ - 0 10'
   },
   {
     SCID: 'E79c',
-    desc: `"King's Indian: Four Pawns Attack, Main Line, 9...Ng4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line, 9...Ng4"',
     fen: 'r1bq1rk1/pp2ppbp/2np2p1/8/2PNPPn1/2N1B3/PP2B1PP/R2QK2R w KQ - 3 10'
   },
   {
     SCID: 'E79d',
-    desc: `"King's Indian: Four Pawns Attack, Main Line, 9...Bg4"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line, 9...Bg4"',
     fen: 'r2q1rk1/pp2ppbp/2np1np1/8/2PNPPb1/2N1B3/PP2B1PP/R2QK2R w KQ - 3 10'
   },
   {
     SCID: 'E79e',
-    desc: `"King's Indian: Four Pawns Attack, Main Line, 9...Bd7"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line, 9...Bd7"',
     fen: 'r2q1rk1/pp1bppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2QK2R w KQ - 3 10'
   },
   {
     SCID: 'E79e',
-    desc: `"King's Indian: Four Pawns Attack, Main Line, 9...Bd7 10.Qd2"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line, 9...Bd7 10.Qd2"',
     fen: 'r2q1rk1/pp1bppbp/2np1np1/8/2PNPP2/2N1B3/PP1QB1PP/R3K2R b KQ - 4 10'
   },
   {
     SCID: 'E79f',
-    desc: `"King's Indian: Four Pawns Attack, Main Line, 9...Bd7 10.O-O"`,
+    desc: '"King\'s Indian: Four Pawns Attack, Main Line, 9...Bd7 10.O-O"',
     fen: 'r2q1rk1/pp1bppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2Q1RK1 b - - 4 10'
   },
   {
     SCID: 'E80a',
-    desc: `"King's Indian: Saemisch Variation"`,
+    desc: '"King\'s Indian: Saemisch Variation"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR b KQkq - 0 5'
   },
   {
     SCID: 'E80b',
-    desc: `"King's Indian: Saemisch, 5...Na6"`,
+    desc: '"King\'s Indian: Saemisch, 5...Na6"',
     fen: 'r1bqk2r/ppp1ppbp/n2p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq - 1 6'
   },
   {
     SCID: 'E80c',
-    desc: `"King's Indian: Saemisch, 5...Nc6"`,
+    desc: '"King\'s Indian: Saemisch, 5...Nc6"',
     fen: 'r1bqk2r/ppp1ppbp/2np1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq - 1 6'
   },
   {
     SCID: 'E80d',
-    desc: `"King's Indian: Saemisch, 5...Nbd7"`,
+    desc: '"King\'s Indian: Saemisch, 5...Nbd7"',
     fen: 'r1bqk2r/pppnppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq - 1 6'
   },
   {
     SCID: 'E80e',
-    desc: `"King's Indian: Saemisch, 5...e5"`,
+    desc: '"King\'s Indian: Saemisch, 5...e5"',
     fen: 'rnbqk2r/ppp2pbp/3p1np1/4p3/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq e6 0 6'
   },
   {
     SCID: 'E80f',
-    desc: `"King's Indian: Saemisch, 5...e5 6.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, 5...e5 6.Nge2"',
     fen: 'rnbqk2r/ppp2pbp/3p1np1/4p3/2PPP3/2N2P2/PP2N1PP/R1BQKB1R b KQkq - 1 6'
   },
   {
     SCID: 'E80g',
-    desc: `"King's Indian: Saemisch, 5...e5 6.d5"`,
+    desc: '"King\'s Indian: Saemisch, 5...e5 6.d5"',
     fen: 'rnbqk2r/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2P2/PP4PP/R1BQKBNR b KQkq - 0 6'
   },
   {
     SCID: 'E80h',
-    desc: `"King's Indian: Saemisch, 5...c5"`,
+    desc: '"King\'s Indian: Saemisch, 5...c5"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2p5/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq c6 0 6'
   },
   {
     SCID: 'E80i',
-    desc: `"King's Indian: Saemisch, 5...c5 Queenswap"`,
+    desc: '"King\'s Indian: Saemisch, 5...c5 Queenswap"',
     fen: 'rnbk3r/pp2ppbp/5np1/2p5/2P1P3/2N2P2/PP4PP/R1B1KBNR w KQ - 0 8'
   },
   {
     SCID: 'E80j',
-    desc: `"King's Indian: Saemisch, 5...a6"`,
+    desc: '"King\'s Indian: Saemisch, 5...a6"',
     fen: 'rnbqk2r/1pp1ppbp/p2p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq - 0 6'
   },
   {
     SCID: 'E80k',
-    desc: `"King's Indian: Saemisch, 5...a6 6.Be3"`,
+    desc: '"King\'s Indian: Saemisch, 5...a6 6.Be3"',
     fen: 'rnbqk2r/1pp1ppbp/p2p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR b KQkq - 1 6'
   },
   {
     SCID: 'E80l',
-    desc: `"King's Indian: Saemisch, 5...c6"`,
+    desc: '"King\'s Indian: Saemisch, 5...c6"',
     fen: 'rnbqk2r/pp2ppbp/2pp1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQkq - 0 6'
   },
   {
     SCID: 'E80m',
-    desc: `"King's Indian: Saemisch, 5...c6 6.Be3"`,
+    desc: '"King\'s Indian: Saemisch, 5...c6 6.Be3"',
     fen: 'rnbqk2r/pp2ppbp/2pp1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR b KQkq - 1 6'
   },
   {
     SCID: 'E80n',
-    desc: `"King's Indian: Saemisch, 5...c6 6.Be3 a6"`,
+    desc: '"King\'s Indian: Saemisch, 5...c6 6.Be3 a6"',
     fen: 'rnbqk2r/1p2ppbp/p1pp1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQkq - 0 7'
   },
   {
     SCID: 'E80o',
-    desc: `"King's Indian: Saemisch, 5...c6 6.Be3 a6 7.a4"`,
+    desc: '"King\'s Indian: Saemisch, 5...c6 6.Be3 a6 7.a4"',
     fen: 'rnbqk2r/1p2ppbp/p1pp1np1/8/P1PPP3/2N1BP2/1P4PP/R2QKBNR b KQkq a3 0 7'
   },
   {
     SCID: 'E80p',
-    desc: `"King's Indian: Saemisch, 5...c6 6.Be3 a6 7.Bd3"`,
+    desc: '"King\'s Indian: Saemisch, 5...c6 6.Be3 a6 7.Bd3"',
     fen: 'rnbqk2r/1p2ppbp/p1pp1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR b KQkq - 1 7'
   },
   {
     SCID: 'E81a',
-    desc: `"King's Indian: Saemisch, 5...O-O"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQ - 1 6'
   },
   {
     SCID: 'E81b',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Nge2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP2N1PP/R1BQKB1R b KQ - 2 6'
   },
   {
     SCID: 'E81c',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Nge2 e5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Nge2 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2P2/PP2N1PP/R1BQKB1R w KQ e6 0 7'
   },
   {
     SCID: 'E81d',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Nge2 c5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Nge2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N2P2/PP2N1PP/R1BQKB1R w KQ c6 0 7'
   },
   {
     SCID: 'E81d',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Nge2 c5 7.d5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Nge2 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2P2/PP2N1PP/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E81e',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2P2/PP4PP/R2QKBNR b KQ - 2 6'
   },
   {
     SCID: 'E81f',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 Nc6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/6B1/2PPP3/2N2P2/PP4PP/R2QKBNR w KQ - 3 7'
   },
   {
     SCID: 'E81g',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 a6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 a6"',
     fen: 'rnbq1rk1/1pp1ppbp/p2p1np1/6B1/2PPP3/2N2P2/PP4PP/R2QKBNR w KQ - 0 7'
   },
   {
     SCID: 'E81h',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 c5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N2P2/PP4PP/R2QKBNR w KQ c6 0 7'
   },
   {
     SCID: 'E81h',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N2P2/PP4PP/R2QKBNR b KQ - 0 7'
   },
   {
     SCID: 'E81h',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 a6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 a6"',
     fen: 'rnbq1rk1/1p2ppbp/p2p1np1/2pP2B1/2P1P3/2N2P2/PP4PP/R2QKBNR w KQ - 0 8'
   },
   {
     SCID: 'E81h',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 h6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 h6"',
     fen: 'rnbq1rk1/pp2ppb1/3p1npp/2pP2B1/2P1P3/2N2P2/PP4PP/R2QKBNR w KQ - 0 8'
   },
   {
     SCID: 'E81i',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 e6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N2P2/PP4PP/R2QKBNR w KQ - 0 8'
   },
   {
     SCID: 'E81i',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 e6 8.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Bg5 c5 7.d5 e6 8.Qd2"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N2P2/PP1Q2PP/R3KBNR b KQ - 1 8'
   },
   {
     SCID: 'E81j',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR b KQ - 2 6'
   },
   {
     SCID: 'E81k',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 a6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 a6"',
     fen: 'rnbq1rk1/1pp1ppbp/p2p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 7'
   },
   {
     SCID: 'E81k',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 a6 7.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 a6 7.Qd2"',
     fen: 'rnbq1rk1/1pp1ppbp/p2p1np1/8/2PPP3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 1 7'
   },
   {
     SCID: 'E81l',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 7'
   },
   {
     SCID: 'E81l',
-    desc: `"King's Indian: Saemisch, Byrne Variation"`,
+    desc: '"King\'s Indian: Saemisch, Byrne Variation"',
     fen: 'rnbq1rk1/1p2ppbp/p1pp1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR w KQ - 0 8'
   },
   {
     SCID: 'E81m',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ c6 0 7'
   },
   {
     SCID: 'E81m',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5 7.d5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N1BP2/PP4PP/R2QKBNR b KQ - 0 7'
   },
   {
     SCID: 'E81n',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5 7.dxc5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5 7.dxc5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2P5/2P1P3/2N1BP2/PP4PP/R2QKBNR b KQ - 0 7'
   },
   {
     SCID: 'E81n',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5 Queenswap"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5 Queenswap"',
     fen: 'rnbQ1rk1/pp2ppbp/5np1/2p5/2P1P3/2N1BP2/PP4PP/R3KBNR b KQ - 0 8'
   },
   {
     SCID: 'E81o',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5 7.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5 7.Nge2"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 1 7'
   },
   {
     SCID: 'E81o',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5 7.Nge2 Nc6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5 7.Nge2 Nc6"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2p5/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 2 8'
   },
   {
     SCID: 'E81p',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 c5 7.Nge2 Nc6 8.d5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 c5 7.Nge2 Nc6 8.d5"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P1P3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 0 8'
   },
   {
     SCID: 'E81q',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 Nbd7"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 3 7'
   },
   {
     SCID: 'E81r',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 4 7'
   },
   {
     SCID: 'E81s',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5"',
     fen: 'r1bq1rk1/pp1nppbp/3p1np1/2p5/2PPP3/2N1BP2/PP1Q2PP/R3KBNR w KQ c6 0 8'
   },
   {
     SCID: 'E81s',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5 8.d5"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5 8.d5"',
     fen: 'r1bq1rk1/pp1nppbp/3p1np1/2pP4/2P1P3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 0 8'
   },
   {
     SCID: 'E81t',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5 8.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5 8.Nge2"',
     fen: 'r1bq1rk1/pp1nppbp/3p1np1/2p5/2PPP3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 1 8'
   },
   {
     SCID: 'E81t',
-    desc: `"King's Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5 8.Nge2 a6"`,
+    desc: '"King\'s Indian: Saemisch, 5...O-O 6.Be3 Nbd7 7.Qd2 c5 8.Nge2 a6"',
     fen: 'r1bq1rk1/1p1nppbp/p2p1np1/2p5/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 0 9'
   },
   {
     SCID: 'E82a',
-    desc: `"King's Indian: Saemisch, Fianchetto"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto"',
     fen: 'rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 7'
   },
   {
     SCID: 'E82b',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Qd2"',
     fen: 'rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 1 7'
   },
   {
     SCID: 'E82c',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Qd2 c5 8.d5"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Qd2 c5 8.d5"',
     fen: 'rnbq1rk1/p3ppbp/1p1p1np1/2pP4/2P1P3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 0 8'
   },
   {
     SCID: 'E82d',
-    desc: `"King's Indian: Saemisch, Fianchetto, Bronstein Variation"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, Bronstein Variation"',
     fen: 'rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR b KQ - 1 7'
   },
   {
     SCID: 'E82e',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 Nfd7"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 Nfd7"',
     fen: 'rnbq1rk1/p1pnppbp/1p1p2p1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR w KQ - 2 8'
   },
   {
     SCID: 'E82f',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 Bb7"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 Bb7"',
     fen: 'rn1q1rk1/pbp1ppbp/1p1p1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR w KQ - 2 8'
   },
   {
     SCID: 'E82g',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 Bb7 8.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 Bb7 8.Nge2"',
     fen: 'rn1q1rk1/pbp1ppbp/1p1p1np1/8/2PPP3/2NBBP2/PP2N1PP/R2QK2R b KQ - 3 8'
   },
   {
     SCID: 'E82g',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 Bb7 8.Nge2 c5"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 Bb7 8.Nge2 c5"',
     fen: 'rn1q1rk1/pb2ppbp/1p1p1np1/2p5/2PPP3/2NBBP2/PP2N1PP/R2QK2R w KQ c6 0 9'
   },
   {
     SCID: 'E82g',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 Bb7 8.Nge2 c5 9.d5 e6"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 Bb7 8.Nge2 c5 9.d5 e6"',
     fen: 'rn1q1rk1/pb3pbp/1p1ppnp1/2pP4/2P1P3/2NBBP2/PP2N1PP/R2QK2R w KQ - 0 10'
   },
   {
     SCID: 'E82h',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 a6"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 a6"',
     fen: 'rnbq1rk1/2p1ppbp/pp1p1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR w KQ - 0 8'
   },
   {
     SCID: 'E82i',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2"',
     fen: 'rnbq1rk1/2p1ppbp/pp1p1np1/8/2PPP3/2NBBP2/PP2N1PP/R2QK2R b KQ - 1 8'
   },
   {
     SCID: 'E82i',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2 c5"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2 c5"',
     fen: 'rnbq1rk1/4ppbp/pp1p1np1/2p5/2PPP3/2NBBP2/PP2N1PP/R2QK2R w KQ c6 0 9'
   },
   {
     SCID: 'E82j',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2 c5 9.d5"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2 c5 9.d5"',
     fen: 'rnbq1rk1/4ppbp/pp1p1np1/2pP4/2P1P3/2NBBP2/PP2N1PP/R2QK2R b KQ - 0 9'
   },
   {
     SCID: 'E82k',
-    desc: `"King's Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2 c5 9.e5"`,
+    desc: '"King\'s Indian: Saemisch, Fianchetto, 7.Bd3 a6 8.Nge2 c5 9.e5"',
     fen: 'rnbq1rk1/4ppbp/pp1p1np1/2p1P3/2PP4/2NBBP2/PP2N1PP/R2QK2R b KQ - 0 9'
   },
   {
     SCID: 'E83a',
-    desc: `"King's Indian: Saemisch, 6...Nc6"`,
+    desc: '"King\'s Indian: Saemisch, 6...Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 3 7'
   },
   {
     SCID: 'E83b',
-    desc: `"King's Indian: Saemisch, 6...Nc6 7.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, 6...Nc6 7.Qd2"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 4 7'
   },
   {
     SCID: 'E83c',
-    desc: `"King's Indian: Saemisch, 6...Nc6 7.Qd2 a6"`,
+    desc: '"King\'s Indian: Saemisch, 6...Nc6 7.Qd2 a6"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1Q2PP/R3KBNR w KQ - 0 8'
   },
   {
     SCID: 'E83c',
-    desc: `"King's Indian: Saemisch, 6...Nc6 7.Qd2 a6 8.O-O-O"`,
+    desc: '"King\'s Indian: Saemisch, 6...Nc6 7.Qd2 a6 8.O-O-O"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1Q2PP/2KR1BNR b - - 1 8'
   },
   {
     SCID: 'E83d',
-    desc: `"King's Indian: Saemisch, 6...Nc6 7.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, 6...Nc6 7.Nge2"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 4 7'
   },
   {
     SCID: 'E83e',
-    desc: `"King's Indian: Saemisch, Ruban Variation"`,
+    desc: '"King\'s Indian: Saemisch, Ruban Variation"',
     fen: '1rbq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 5 8'
   },
   {
     SCID: 'E83e',
-    desc: `"King's Indian: Saemisch, Ruban, 8.Qd2 Re8"`,
+    desc: '"King\'s Indian: Saemisch, Ruban, 8.Qd2 Re8"',
     fen: '1rbqr1k1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 7 9'
   },
   {
     SCID: 'E83f',
-    desc: `"King's Indian: Saemisch, Panno"`,
+    desc: '"King\'s Indian: Saemisch, Panno"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 8'
   },
   {
     SCID: 'E83g',
-    desc: `"King's Indian: Saemisch, Panno, 8.a3"`,
+    desc: '"King\'s Indian: Saemisch, Panno, 8.a3"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/P1N1BP2/1P2N1PP/R2QKB1R b KQ - 0 8'
   },
   {
     SCID: 'E83h',
-    desc: `"King's Indian: Saemisch, Panno, 8.Nc1"`,
+    desc: '"King\'s Indian: Saemisch, Panno, 8.Nc1"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP4PP/R1NQKB1R b KQ - 1 8'
   },
   {
     SCID: 'E83i',
-    desc: `"King's Indian: Saemisch, Panno, 8.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Panno, 8.Qd2"',
     fen: 'r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 1 8'
   },
   {
     SCID: 'E83j',
-    desc: `"King's Indian: Saemisch, Panno, 8.Qd2 Re8"`,
+    desc: '"King\'s Indian: Saemisch, Panno, 8.Qd2 Re8"',
     fen: 'r1bqr1k1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 2 9'
   },
   {
     SCID: 'E84a',
-    desc: `"King's Indian: Saemisch, Panno Main Line"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 2 9'
   },
   {
     SCID: 'E84b',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.a3"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.a3"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/P1N1BP2/1P1QN1PP/R3KB1R b KQ - 0 9'
   },
   {
     SCID: 'E84c',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.O-O-O"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.O-O-O"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/2KR1B1R b - - 3 9'
   },
   {
     SCID: 'E84d',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.g4"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.g4"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP1P1/2N1BP2/PP1QN2P/R3KB1R b KQ g3 0 9'
   },
   {
     SCID: 'E84e',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Rb1"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Rb1"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/1R2KB1R b K - 3 9'
   },
   {
     SCID: 'E84f',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Bh6"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Bh6"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1npB/8/2PPP3/2N2P2/PP1QN1PP/R3KB1R b KQ - 3 9'
   },
   {
     SCID: 'E84g',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Nc1"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Nc1"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1Q2PP/R1N1KB1R b KQ - 3 9'
   },
   {
     SCID: 'E84g',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Nc1 e5"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Nc1 e5"',
     fen: '1rbq1rk1/1pp2pbp/p1np1np1/4p3/2PPP3/2N1BP2/PP1Q2PP/R1N1KB1R w KQ e6 0 10'
   },
   {
     SCID: 'E84h',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Nc1 e5 10.Nb3"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Nc1 e5 10.Nb3"',
     fen: '1rbq1rk1/1pp2pbp/p1np1np1/4p3/2PPP3/1NN1BP2/PP1Q2PP/R3KB1R b KQ - 1 10'
   },
   {
     SCID: 'E84i',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Nc1 e5 10.d5"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Nc1 e5 10.d5"',
     fen: '1rbq1rk1/1pp2pbp/p1np1np1/3Pp3/2P1P3/2N1BP2/PP1Q2PP/R1N1KB1R b KQ - 0 10'
   },
   {
     SCID: 'E84j',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.Nc1 e5 10.d5 Nd4 11.Nb3"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.Nc1 e5 10.d5 Nd4 11.Nb3"',
     fen: '1rbq1rk1/1pp2pbp/p2p1np1/3Pp3/2PnP3/1NN1BP2/PP1Q2PP/R3KB1R b KQ - 2 11'
   },
   {
     SCID: 'E84k',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.h4"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.h4"',
     fen: '1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP2P/2N1BP2/PP1QN1P1/R3KB1R b KQ h3 0 9'
   },
   {
     SCID: 'E84l',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.h4 b5"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.h4 b5"',
     fen: '1rbq1rk1/2p1ppbp/p1np1np1/1p6/2PPP2P/2N1BP2/PP1QN1P1/R3KB1R w KQ b6 0 10'
   },
   {
     SCID: 'E84m',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.h4 h5"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.h4 h5"',
     fen: '1rbq1rk1/1pp1ppb1/p1np1np1/7p/2PPP2P/2N1BP2/PP1QN1P1/R3KB1R w KQ h6 0 10'
   },
   {
     SCID: 'E84n',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.h4 h5 10.O-O-O"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.h4 h5 10.O-O-O"',
     fen: '1rbq1rk1/1pp1ppb1/p1np1np1/7p/2PPP2P/2N1BP2/PP1QN1P1/2KR1B1R b - - 1 10'
   },
   {
     SCID: 'E84o',
-    desc: `"King's Indian: Saemisch, Panno Main Line, 9.h4 h5 10.O-O-O b5 11.Bh6"`,
+    desc: '"King\'s Indian: Saemisch, Panno Main Line, 9.h4 h5 10.O-O-O b5 11.Bh6"',
     fen: '1rbq1rk1/2p1ppb1/p1np1npB/1p5p/2PPP2P/2N2P2/PP1QN1P1/2KR1B1R b - - 1 11'
   },
   {
     SCID: 'E85a',
-    desc: `"King's Indian: Saemisch, Orthodox Variation"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Variation"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ e6 0 7'
   },
   {
     SCID: 'E85b',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.dxe5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.dxe5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N1BP2/PP4PP/R2QKBNR b KQ - 0 7'
   },
   {
     SCID: 'E85c',
-    desc: `"King's Indian: Saemisch, Orthodox, Queenswap"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Queenswap"',
     fen: 'rnbQ1rk1/ppp2pbp/5np1/4p3/2P1P3/2N1BP2/PP4PP/R3KBNR b KQ - 0 8'
   },
   {
     SCID: 'E85d',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 1 7'
   },
   {
     SCID: 'E85e',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 exd4"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 exd4"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/8/2PpP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 8'
   },
   {
     SCID: 'E85f',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 Nbd7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 Nbd7"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 2 8'
   },
   {
     SCID: 'E85g',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 Nc6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 Nc6"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 2 8'
   },
   {
     SCID: 'E85h',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 Nc6 8.d5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 Nc6 8.d5"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 0 8'
   },
   {
     SCID: 'E85i',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 Nc6 8.d5 Ne7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 Nc6 8.d5 Ne7"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 1 9'
   },
   {
     SCID: 'E85j',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 Nc6 8.d5 Ne7 9.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 Nc6 8.d5 Ne7 9.Qd2"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 2 9'
   },
   {
     SCID: 'E86a',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 8'
   },
   {
     SCID: 'E86b',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.d5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.d5"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 0 8'
   },
   {
     SCID: 'E86c',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qb3"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qb3"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/1QN1BP2/PP2N1PP/R3KB1R b KQ - 1 8'
   },
   {
     SCID: 'E86d',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 1 8'
   },
   {
     SCID: 'E86e',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 2 9'
   },
   {
     SCID: 'E86f',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.d5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.d5"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 0 9'
   },
   {
     SCID: 'E86g',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.O-O-O"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.O-O-O"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N1BP2/PP1QN1PP/2KR1B1R b - - 3 9'
   },
   {
     SCID: 'E86h',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.O-O-O a6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.O-O-O a6"',
     fen: 'r1bq1rk1/1p1n1pbp/p1pp1np1/4p3/2PPP3/2N1BP2/PP1QN1PP/2KR1B1R w - - 0 10'
   },
   {
     SCID: 'E86i',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.O-O-O a6 10.Kb1"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.Nge2 c6 8.Qd2 Nbd7 9.O-O-O a6 10.Kb1"',
     fen: 'r1bq1rk1/1p1n1pbp/p1pp1np1/4p3/2PPP3/2N1BP2/PP1QN1PP/1K1R1B1R b - - 1 10'
   },
   {
     SCID: 'E87a',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR b KQ - 0 7'
   },
   {
     SCID: 'E87b',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 a5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 a5"',
     fen: 'rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR w KQ a6 0 8'
   },
   {
     SCID: 'E87c',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 c5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 c5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pPp3/2P1P3/2N1BP2/PP4PP/R2QKBNR w KQ c6 0 8'
   },
   {
     SCID: 'E87d',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nbd7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nbd7"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR w KQ - 1 8'
   },
   {
     SCID: 'E87e',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5"',
     fen: 'rnbq1rk1/ppp2pbp/3p2p1/3Pp2n/2P1P3/2N1BP2/PP4PP/R2QKBNR w KQ - 1 8'
   },
   {
     SCID: 'E87f',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2"',
     fen: 'rnbq1rk1/ppp2pbp/3p2p1/3Pp2n/2P1P3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 2 8'
   },
   {
     SCID: 'E87g',
-    desc: `"King's Indian: Saemisch, Orthodox, Bronstein Variation"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Bronstein Variation"',
     fen: 'rnb2rk1/ppp2pbp/3p2p1/3Pp2n/2P1P2q/2N1BP2/PP1Q2PP/R3KBNR w KQ - 3 9'
   },
   {
     SCID: 'E87h',
-    desc: `"King's Indian: Saemisch, Orthodox, Bronstein, 9.g3"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Bronstein, 9.g3"',
     fen: 'rnb2rk1/ppp2pbp/3p2p1/3Pp2n/2P1P2q/2N1BPP1/PP1Q3P/R3KBNR b KQ - 0 9'
   },
   {
     SCID: 'E87i',
-    desc: `"King's Indian: Saemisch, Orthodox, Bronstein, 9.Bf2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Bronstein, 9.Bf2"',
     fen: 'rnb2rk1/ppp2pbp/3p2p1/3Pp2n/2P1P2q/2N2P2/PP1Q1BPP/R3KBNR b KQ - 4 9'
   },
   {
     SCID: 'E87j',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5"',
     fen: 'rnbq1rk1/ppp3bp/3p2p1/3Ppp1n/2P1P3/2N1BP2/PP1Q2PP/R3KBNR w KQ f6 0 9'
   },
   {
     SCID: 'E87k',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O"',
     fen: 'rnbq1rk1/ppp3bp/3p2p1/3Ppp1n/2P1P3/2N1BP2/PP1Q2PP/2KR1BNR b - - 1 9'
   },
   {
     SCID: 'E87l',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O f4"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O f4"',
     fen: 'rnbq1rk1/ppp3bp/3p2p1/3Pp2n/2P1Pp2/2N1BP2/PP1Q2PP/2KR1BNR w - - 0 10'
   },
   {
     SCID: 'E87m',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O Nd7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O Nd7"',
     fen: 'r1bq1rk1/pppn2bp/3p2p1/3Ppp1n/2P1P3/2N1BP2/PP1Q2PP/2KR1BNR w - - 2 10'
   },
   {
     SCID: 'E87n',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O Nd7 10.Bd3"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 Nh5 8.Qd2 f5 9.O-O-O Nd7 10.Bd3"',
     fen: 'r1bq1rk1/pppn2bp/3p2p1/3Ppp1n/2P1P3/2NBBP2/PP1Q2PP/2KR2NR b - - 3 10'
   },
   {
     SCID: 'E88a',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 c6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 c6"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 8'
   },
   {
     SCID: 'E88b',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP1Q2PP/R3KBNR b KQ - 1 8'
   },
   {
     SCID: 'E88c',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2 cxd5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2 cxd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/3pp3/2P1P3/2N1BP2/PP1Q2PP/R3KBNR w KQ - 0 9'
   },
   {
     SCID: 'E88d',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2 cxd5 9.cxd5 a6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2 cxd5 9.cxd5 a6"',
     fen: 'rnbq1rk1/1p3pbp/p2p1np1/3Pp3/4P3/2N1BP2/PP1Q2PP/R3KBNR w KQ - 0 10'
   },
   {
     SCID: 'E88e',
-    desc: `"King's Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2 cxd5 9.cxd5 a6 10.Bd3"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, 7.d5 c6 8.Qd2 cxd5 9.cxd5 a6 10.Bd3"',
     fen: 'rnbq1rk1/1p3pbp/p2p1np1/3Pp3/4P3/2NBBP2/PP1Q2PP/R3K1NR b KQ - 1 10'
   },
   {
     SCID: 'E88f',
-    desc: `"King's Indian: Saemisch, Orthodox, Polugayevsky"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Polugayevsky"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2NBBP2/PP4PP/R2QK1NR b KQ - 1 8'
   },
   {
     SCID: 'E88g',
-    desc: `"King's Indian: Saemisch, Orthodox, Polugayevsky, 8...b5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Polugayevsky, 8...b5"',
     fen: 'rnbq1rk1/p4pbp/2pp1np1/1p1Pp3/2P1P3/2NBBP2/PP4PP/R2QK1NR w KQ b6 0 9'
   },
   {
     SCID: 'E88h',
-    desc: `"King's Indian: Saemisch, Orthodox, Polugayevsky, 8...cxd5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Polugayevsky, 8...cxd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/3pp3/2P1P3/2NBBP2/PP4PP/R2QK1NR w KQ - 0 9'
   },
   {
     SCID: 'E88i',
-    desc: `"King's Indian: Saemisch, Orthodox, Polugayevsky, 8...cxd5 9.cxd5 Nh5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox, Polugayevsky, 8...cxd5 9.cxd5 Nh5"',
     fen: 'rnbq1rk1/pp3pbp/3p2p1/3Pp2n/4P3/2NBBP2/PP4PP/R2QK1NR w KQ - 1 10'
   },
   {
     SCID: 'E89a',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/3pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 9'
   },
   {
     SCID: 'E89b',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 9...a6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 9...a6"',
     fen: 'rnbq1rk1/1p3pbp/p2p1np1/3Pp3/4P3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 10'
   },
   {
     SCID: 'E89c',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 9...Bd7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 9...Bd7"',
     fen: 'rn1q1rk1/pp1b1pbp/3p1np1/3Pp3/4P3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 1 10'
   },
   {
     SCID: 'E89d',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 9...Nbd7"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 9...Nbd7"',
     fen: 'r1bq1rk1/pp1n1pbp/3p1np1/3Pp3/4P3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 1 10'
   },
   {
     SCID: 'E89e',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 10.Qd2"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 10.Qd2"',
     fen: 'r1bq1rk1/pp1n1pbp/3p1np1/3Pp3/4P3/2N1BP2/PP1QN1PP/R3KB1R b KQ - 2 10'
   },
   {
     SCID: 'E89f',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6"',
     fen: 'r1bq1rk1/1p1n1pbp/p2p1np1/3Pp3/4P3/2N1BP2/PP1QN1PP/R3KB1R w KQ - 0 11'
   },
   {
     SCID: 'E89g',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6 11.g4"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6 11.g4"',
     fen: 'r1bq1rk1/1p1n1pbp/p2p1np1/3Pp3/4P1P1/2N1BP2/PP1QN2P/R3KB1R b KQ g3 0 11'
   },
   {
     SCID: 'E89h',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6 11.g4 h5"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6 11.g4 h5"',
     fen: 'r1bq1rk1/1p1n1pb1/p2p1np1/3Pp2p/4P1P1/2N1BP2/PP1QN2P/R3KB1R w KQ h6 0 12'
   },
   {
     SCID: 'E89i',
-    desc: `"King's Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6 11.g4 h5 12.h3"`,
+    desc: '"King\'s Indian: Saemisch, Orthodox Main Line, 10.Qd2 a6 11.g4 h5 12.h3"',
     fen: 'r1bq1rk1/1p1n1pb1/p2p1np1/3Pp2p/4P1P1/2N1BP1P/PP1QN3/R3KB1R b KQ - 0 12'
   },
   {
     SCID: 'E90a',
-    desc: `"King's Indian: 5.Nf3"`,
+    desc: '"King\'s Indian: 5.Nf3"',
     fen: 'rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5'
   },
   {
     SCID: 'E90a',
-    desc: `"King's Indian: 5.Nf3 Nbd7"`,
+    desc: '"King\'s Indian: 5.Nf3 Nbd7"',
     fen: 'r1bqk2r/pppnppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 6'
   },
   {
     SCID: 'E90a',
-    desc: `"King's Indian: 5.Nf3 Nbd7 6.Be2"`,
+    desc: '"King\'s Indian: 5.Nf3 Nbd7 6.Be2"',
     fen: 'r1bqk2r/pppnppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQkq - 3 6'
   },
   {
     SCID: 'E90a',
-    desc: `"King's Indian: 5.Nf3 Nbd7 6.Be2 e5"`,
+    desc: '"King\'s Indian: 5.Nf3 Nbd7 6.Be2 e5"',
     fen: 'r1bqk2r/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQkq e6 0 7'
   },
   {
     SCID: 'E90b',
-    desc: `"King's Indian: 5.Nf3 Bg4"`,
+    desc: '"King\'s Indian: 5.Nf3 Bg4"',
     fen: 'rn1qk2r/ppp1ppbp/3p1np1/8/2PPP1b1/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 6'
   },
   {
     SCID: 'E90c',
-    desc: `"King's Indian: 5.Nf3 c5"`,
+    desc: '"King\'s Indian: 5.Nf3 c5"',
     fen: 'rnbqk2r/pp2ppbp/3p1np1/2p5/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQkq c6 0 6'
   },
   {
     SCID: 'E90d',
-    desc: `"King's Indian: 5.Nf3 c5 6.d5 O-O"`,
+    desc: '"King\'s Indian: 5.Nf3 c5 6.d5 O-O"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2N2/PP3PPP/R1BQKB1R w KQ - 1 7'
   },
   {
     SCID: 'E90e',
-    desc: `"King's Indian: 5.Nf3 O-O"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6'
   },
   {
     SCID: 'E90f',
-    desc: `"King's Indian: 5.Nf3 O-O 6.Bd3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.Bd3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2NB1N2/PP3PPP/R1BQK2R b KQ - 3 6'
   },
   {
     SCID: 'E90g',
-    desc: `"King's Indian: Zinnowitz Variation"`,
+    desc: '"King\'s Indian: Zinnowitz Variation"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2N2/PP3PPP/R2QKB1R b KQ - 3 6'
   },
   {
     SCID: 'E90g',
-    desc: `"King's Indian: Zinnowitz, 6...h6"`,
+    desc: '"King\'s Indian: Zinnowitz, 6...h6"',
     fen: 'rnbq1rk1/ppp1ppb1/3p1npp/6B1/2PPP3/2N2N2/PP3PPP/R2QKB1R w KQ - 0 7'
   },
   {
     SCID: 'E90h',
-    desc: `"King's Indian: Larsen Variation"`,
+    desc: '"King\'s Indian: Larsen Variation"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BN2/PP3PPP/R2QKB1R b KQ - 3 6'
   },
   {
     SCID: 'E90h',
-    desc: `"King's Indian: Larsen, 6...c5"`,
+    desc: '"King\'s Indian: Larsen, 6...c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N1BN2/PP3PPP/R2QKB1R w KQ c6 0 7'
   },
   {
     SCID: 'E90i',
-    desc: `"King's Indian: Larsen, 6...e5"`,
+    desc: '"King\'s Indian: Larsen, 6...e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BN2/PP3PPP/R2QKB1R w KQ e6 0 7'
   },
   {
     SCID: 'E90j',
-    desc: `"King's Indian: Larsen, 6...e5, Queenswap"`,
+    desc: '"King\'s Indian: Larsen, 6...e5, Queenswap"',
     fen: 'rnbQ1rk1/ppp2pbp/5np1/4p3/2P1P3/2N1BN2/PP3PPP/R3KB1R b KQ - 0 8'
   },
   {
     SCID: 'E90k',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N1P/PP3PP1/R1BQKB1R b KQ - 0 6'
   },
   {
     SCID: 'E90l',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 Nbd7"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 1 7'
   },
   {
     SCID: 'E90l',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 Nbd7 7.Bg5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 Nbd7 7.Bg5"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PPP3/2N2N1P/PP3PP1/R2QKB1R b KQ - 2 7'
   },
   {
     SCID: 'E90m',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 Na6"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 Na6"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 1 7'
   },
   {
     SCID: 'E90m',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 Na6 7.Bg5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 Na6 7.Bg5"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP3/2N2N1P/PP3PP1/R2QKB1R b KQ - 2 7'
   },
   {
     SCID: 'E90n',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N1P/PP3PP1/R1BQKB1R w KQ e6 0 7'
   },
   {
     SCID: 'E90n',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.Be3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.Be3"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BN1P/PP3PP1/R2QKB1R b KQ - 1 7'
   },
   {
     SCID: 'E90o',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 Queenswap"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 Queenswap"',
     fen: 'rnbQ1rk1/ppp2pbp/5np1/4p3/2P1P3/2N2N1P/PP3PP1/R1B1KB1R b KQ - 0 8'
   },
   {
     SCID: 'E90p',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N1P/PP3PP1/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E90q',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 a5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 a5"',
     fen: 'rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N1P/PP3PP1/R1BQKB1R w KQ a6 0 8'
   },
   {
     SCID: 'E90r',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Nbd7"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Nbd7"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 1 8'
   },
   {
     SCID: 'E90r',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Nbd7 8.Be3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Nbd7 8.Be3"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N1BN1P/PP3PP1/R2QKB1R b KQ - 2 8'
   },
   {
     SCID: 'E90r',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Nbd7 8.Bg5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Nbd7 8.Bg5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp1B1/2P1P3/2N2N1P/PP3PP1/R2QKB1R b KQ - 2 8'
   },
   {
     SCID: 'E90s',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Na6"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Na6"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/3Pp3/2P1P3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 1 8'
   },
   {
     SCID: 'E90s',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Na6 8.Be3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Na6 8.Be3"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/3Pp3/2P1P3/2N1BN1P/PP3PP1/R2QKB1R b KQ - 2 8'
   },
   {
     SCID: 'E90s',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Na6 8.Bg5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 e5 7.d5 Na6 8.Bg5"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/3Pp1B1/2P1P3/2N2N1P/PP3PP1/R2QKB1R b KQ - 2 8'
   },
   {
     SCID: 'E90t',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N2N1P/PP3PP1/R1BQKB1R w KQ c6 0 7'
   },
   {
     SCID: 'E90t',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.Be3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.Be3"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N1BN1P/PP3PP1/R2QKB1R b KQ - 1 7'
   },
   {
     SCID: 'E90u',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2N1P/PP3PP1/R1BQKB1R b KQ - 0 7'
   },
   {
     SCID: 'E90v',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2N2N1P/PP3PP1/R1BQKB1R w KQ - 0 8'
   },
   {
     SCID: 'E90v',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2NB1N1P/PP3PP1/R1BQK2R b KQ - 1 8'
   },
   {
     SCID: 'E90w',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 Na6"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 Na6"',
     fen: 'r1bq1rk1/pp3pbp/n2ppnp1/2pP4/2P1P3/2NB1N1P/PP3PP1/R1BQK2R w KQ - 2 9'
   },
   {
     SCID: 'E90w',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 Na6 9.O-O"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 Na6 9.O-O"',
     fen: 'r1bq1rk1/pp3pbp/n2ppnp1/2pP4/2P1P3/2NB1N1P/PP3PP1/R1BQ1RK1 b - - 3 9'
   },
   {
     SCID: 'E90w',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 Na6 9.O-O Nc7"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 Na6 9.O-O Nc7"',
     fen: 'r1bq1rk1/ppn2pbp/3ppnp1/2pP4/2P1P3/2NB1N1P/PP3PP1/R1BQ1RK1 w - - 4 10'
   },
   {
     SCID: 'E90x',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 exd5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pp4/2P1P3/2NB1N1P/PP3PP1/R1BQK2R w KQ - 0 9'
   },
   {
     SCID: 'E90x',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 exd5 9.exd5"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 exd5 9.exd5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pP4/2P5/2NB1N1P/PP3PP1/R1BQK2R b KQ - 0 9'
   },
   {
     SCID: 'E90y',
-    desc: `"King's Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 exd5 9.exd5 Re8"`,
+    desc: '"King\'s Indian: 5.Nf3 O-O 6.h3 c5 7.d5 e6 8.Bd3 exd5 9.exd5 Re8"',
     fen: 'rnbqr1k1/pp3pbp/3p1np1/2pP4/2P5/2NB1N1P/PP3PP1/R1BQK2R w KQ - 1 10'
   },
   {
     SCID: 'E91a',
-    desc: `"King's Indian: 6.Be2"`,
+    desc: '"King\'s Indian: 6.Be2"',
     fen: 'rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6'
   },
   {
     SCID: 'E91b',
-    desc: `"King's Indian: 6.Be2 a5"`,
+    desc: '"King\'s Indian: 6.Be2 a5"',
     fen: 'rnbq1rk1/1pp1ppbp/3p1np1/p7/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ a6 0 7'
   },
   {
     SCID: 'E91c',
-    desc: `"King's Indian: 6.Be2 a6"`,
+    desc: '"King\'s Indian: 6.Be2 a6"',
     fen: 'rnbq1rk1/1pp1ppbp/p2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7'
   },
   {
     SCID: 'E91d',
-    desc: `"King's Indian: 6.Be2 c6"`,
+    desc: '"King\'s Indian: 6.Be2 c6"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 7'
   },
   {
     SCID: 'E91e',
-    desc: `"King's Indian: 6.Be2 c6 7.O-O"`,
+    desc: '"King\'s Indian: 6.Be2 c6 7.O-O"',
     fen: 'rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7'
   },
   {
     SCID: 'E91f',
-    desc: `"King's Indian: 6.Be2 c5"`,
+    desc: '"King\'s Indian: 6.Be2 c5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ c6 0 7'
   },
   {
     SCID: 'E91g',
-    desc: `"King's Indian: 6.Be2 c5 7.d5"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.d5"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E91h',
-    desc: `"King's Indian: 6.Be2 c5 7.d5 e6"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.d5 e6"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 8'
   },
   {
     SCID: 'E91h',
-    desc: `"King's Indian: 6.Be2 c5 7.d5 e6 8.O-O"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.d5 e6 8.O-O"',
     fen: 'rnbq1rk1/pp3pbp/3ppnp1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 8'
   },
   {
     SCID: 'E91i',
-    desc: `"King's Indian: 6.Be2 c5 7.d5 e6 8.O-O Re8"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.d5 e6 8.O-O Re8"',
     fen: 'rnbqr1k1/pp3pbp/3ppnp1/2pP4/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 9'
   },
   {
     SCID: 'E91i',
-    desc: `"King's Indian: 6.Be2 c5 7.d5 e6 8.O-O Re8 9.Nd2"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.d5 e6 8.O-O Re8 9.Nd2"',
     fen: 'rnbqr1k1/pp3pbp/3ppnp1/2pP4/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 b - - 3 9'
   },
   {
     SCID: 'E91j',
-    desc: `"King's Indian: 6.Be2 c5 7.O-O"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.O-O"',
     fen: 'rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7'
   },
   {
     SCID: 'E91k',
-    desc: `"King's Indian: 6.Be2 c5 7.O-O Nc6"`,
+    desc: '"King\'s Indian: 6.Be2 c5 7.O-O Nc6"',
     fen: 'r1bq1rk1/pp2ppbp/2np1np1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E91l',
-    desc: `"King's Indian: Kazakh Variation"`,
+    desc: '"King\'s Indian: Kazakh Variation"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 4 7'
   },
   {
     SCID: 'E91l',
-    desc: `"King's Indian: Kazakh Variation, 7.Bg5"`,
+    desc: '"King\'s Indian: Kazakh Variation, 7.Bg5"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/6B1/2PPP3/2N2N2/PP2BPPP/R2QK2R b KQ - 5 7'
   },
   {
     SCID: 'E91m',
-    desc: `"King's Indian: Kazakh Variation, 7.O-O"`,
+    desc: '"King\'s Indian: Kazakh Variation, 7.O-O"',
     fen: 'r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 5 7'
   },
   {
     SCID: 'E91m',
-    desc: `"King's Indian: Kazakh Variation, 7.O-O c5"`,
+    desc: '"King\'s Indian: Kazakh Variation, 7.O-O c5"',
     fen: 'r1bq1rk1/pp2ppbp/n2p1np1/2p5/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - c6 0 8'
   },
   {
     SCID: 'E91n',
-    desc: `"King's Indian: Kazakh Variation, 7.O-O c6"`,
+    desc: '"King\'s Indian: Kazakh Variation, 7.O-O c6"',
     fen: 'r1bq1rk1/pp2ppbp/n1pp1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E91o',
-    desc: `"King's Indian: 6.Be2 Nc6"`,
+    desc: '"King\'s Indian: 6.Be2 Nc6"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 4 7'
   },
   {
     SCID: 'E91p',
-    desc: `"King's Indian: 6.Be2 Nc6 7.d5"`,
+    desc: '"King\'s Indian: 6.Be2 Nc6 7.d5"',
     fen: 'r1bq1rk1/ppp1ppbp/2np1np1/3P4/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E91q',
-    desc: `"King's Indian: 6.Be2 Nbd7"`,
+    desc: '"King\'s Indian: 6.Be2 Nbd7"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 4 7'
   },
   {
     SCID: 'E91q',
-    desc: `"King's Indian: 6.Be2 Nbd7 7.Bg5"`,
+    desc: '"King\'s Indian: 6.Be2 Nbd7 7.Bg5"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/6B1/2PPP3/2N2N2/PP2BPPP/R2QK2R b KQ - 5 7'
   },
   {
     SCID: 'E91r',
-    desc: `"King's Indian: 6.Be2 Nbd7 7.e5"`,
+    desc: '"King\'s Indian: 6.Be2 Nbd7 7.e5"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/4P3/2PP4/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E91s',
-    desc: `"King's Indian: 6.Be2 Nbd7 7.O-O"`,
+    desc: '"King\'s Indian: 6.Be2 Nbd7 7.O-O"',
     fen: 'r1bq1rk1/pppnppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 5 7'
   },
   {
     SCID: 'E91t',
-    desc: `"King's Indian: 6.Be2 Nbd7 7.O-O c6"`,
+    desc: '"King\'s Indian: 6.Be2 Nbd7 7.O-O c6"',
     fen: 'r1bq1rk1/pp1nppbp/2pp1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E91u',
-    desc: `"King's Indian: 6.Be2 Bg4"`,
+    desc: '"King\'s Indian: 6.Be2 Bg4"',
     fen: 'rn1q1rk1/ppp1ppbp/3p1np1/8/2PPP1b1/2N2N2/PP2BPPP/R1BQK2R w KQ - 4 7'
   },
   {
     SCID: 'E91v',
-    desc: `"King's Indian: 6.Be2 Bg4 7.Be3"`,
+    desc: '"King\'s Indian: 6.Be2 Bg4 7.Be3"',
     fen: 'rn1q1rk1/ppp1ppbp/3p1np1/8/2PPP1b1/2N1BN2/PP2BPPP/R2QK2R b KQ - 5 7'
   },
   {
     SCID: 'E91w',
-    desc: `"King's Indian: 6.Be2 Bg4 7.Be3 Nfd7"`,
+    desc: '"King\'s Indian: 6.Be2 Bg4 7.Be3 Nfd7"',
     fen: 'rn1q1rk1/pppnppbp/3p2p1/8/2PPP1b1/2N1BN2/PP2BPPP/R2QK2R w KQ - 6 8'
   },
   {
     SCID: 'E91x',
-    desc: `"King's Indian: 6.Be2 Bg4 7.Be3 Nfd7 8.Rc1"`,
+    desc: '"King\'s Indian: 6.Be2 Bg4 7.Be3 Nfd7 8.Rc1"',
     fen: 'rn1q1rk1/pppnppbp/3p2p1/8/2PPP1b1/2N1BN2/PP2BPPP/2RQK2R b K - 7 8'
   },
   {
     SCID: 'E91y',
-    desc: `"King's Indian: 6.Be2 Bg4 7.Be3 Nfd7 8.Ng1"`,
+    desc: '"King\'s Indian: 6.Be2 Bg4 7.Be3 Nfd7 8.Ng1"',
     fen: 'rn1q1rk1/pppnppbp/3p2p1/8/2PPP1b1/2N1B3/PP2BPPP/R2QK1NR b KQ - 7 8'
   },
   {
     SCID: 'E92a',
-    desc: `"King's Indian: 6.Be2 e5"`,
+    desc: '"King\'s Indian: 6.Be2 e5"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ e6 0 7'
   },
   {
     SCID: 'E92b',
-    desc: `"King's Indian: 6.Be2 e5 Queenswap"`,
+    desc: '"King\'s Indian: 6.Be2 e5 Queenswap"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E92b',
-    desc: `"King's Indian: 6.Be2 e5 Queenswap"`,
+    desc: '"King\'s Indian: 6.Be2 e5 Queenswap"',
     fen: 'rnbq1rk1/ppp2pbp/5np1/4p3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 0 8'
   },
   {
     SCID: 'E92c',
-    desc: `"King's Indian: 6.Be2 e5 Queenswap, 9.Bg5"`,
+    desc: '"King\'s Indian: 6.Be2 e5 Queenswap, 9.Bg5"',
     fen: 'rnbr2k1/ppp2pbp/5np1/4p1B1/2P1P3/2N2N2/PP2BPPP/R3K2R b KQ - 1 9'
   },
   {
     SCID: 'E92d',
-    desc: `"King's Indian: 6.Be2 e5 Queenswap, 9.Bg5 c6"`,
+    desc: '"King\'s Indian: 6.Be2 e5 Queenswap, 9.Bg5 c6"',
     fen: 'rnbr2k1/pp3pbp/2p2np1/4p1B1/2P1P3/2N2N2/PP2BPPP/R3K2R w KQ - 0 10'
   },
   {
     SCID: 'E92e',
-    desc: `"King's Indian: 6.Be2 e5 Queenswap, 9.Bg5 Re8"`,
+    desc: '"King\'s Indian: 6.Be2 e5 Queenswap, 9.Bg5 Re8"',
     fen: 'rnb1r1k1/ppp2pbp/5np1/4p1B1/2P1P3/2N2N2/PP2BPPP/R3K2R w KQ - 2 10'
   },
   {
     SCID: 'E92f',
-    desc: `"King's Indian: 6.Be2 e5 Queenswap, 9.Bg5 Re8 10.Nd5"`,
+    desc: '"King\'s Indian: 6.Be2 e5 Queenswap, 9.Bg5 Re8 10.Nd5"',
     fen: 'rnb1r1k1/ppp2pbp/5np1/3Np1B1/2P1P3/5N2/PP2BPPP/R3K2R b KQ - 3 10'
   },
   {
     SCID: 'E92g',
-    desc: `"King's Indian: Gligoric-Taimanov System"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov System"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2QK2R b KQ - 1 7'
   },
   {
     SCID: 'E92h',
-    desc: `"King's Indian: Gligoric-Taimanov, 7...c6"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, 7...c6"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2QK2R w KQ - 0 8'
   },
   {
     SCID: 'E92i',
-    desc: `"King's Indian: Gligoric-Taimanov, 7...exd4"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, 7...exd4"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/8/2PpP3/2N1BN2/PP2BPPP/R2QK2R w KQ - 0 8'
   },
   {
     SCID: 'E92j',
-    desc: `"King's Indian: Gligoric-Taimanov, 7...Qe7"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, 7...Qe7"',
     fen: 'rnb2rk1/ppp1qpbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2QK2R w KQ - 2 8'
   },
   {
     SCID: 'E92k',
-    desc: `"King's Indian: Gligoric-Taimanov, 7...Ng4"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, 7...Ng4"',
     fen: 'rnbq1rk1/ppp2pbp/3p2p1/4p3/2PPP1n1/2N1BN2/PP2BPPP/R2QK2R w KQ - 2 8'
   },
   {
     SCID: 'E92k',
-    desc: `"King's Indian: Gligoric-Taimanov, 7...Ng4 8.Bg5 f6 9.Bc1"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, 7...Ng4 8.Bg5 f6 9.Bc1"',
     fen: 'rnbq1rk1/ppp3bp/3p1pp1/4p3/2PPP1n1/2N2N2/PP2BPPP/R1BQK2R b KQ - 1 9'
   },
   {
     SCID: 'E92l',
-    desc: `"King's Indian: Gligoric-Taimanov, 7...Ng4 8.Bg5 f6 9.Bh4"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, 7...Ng4 8.Bg5 f6 9.Bh4"',
     fen: 'rnbq1rk1/ppp3bp/3p1pp1/4p3/2PPP1nB/2N2N2/PP2BPPP/R2QK2R b KQ - 1 9'
   },
   {
     SCID: 'E92m',
-    desc: `"King's Indian: Gligoric-Taimanov, Main Line"`,
+    desc: '"King\'s Indian: Gligoric-Taimanov, Main Line"',
     fen: 'r1bq1rk1/ppp3bp/2np1pp1/4p3/2PPP1nB/2N2N2/PP2BPPP/R2QK2R w KQ - 2 10'
   },
   {
     SCID: 'E92n',
-    desc: `"King's Indian: Petrosian System"`,
+    desc: '"King\'s Indian: Petrosian System"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7'
   },
   {
     SCID: 'E92o',
-    desc: `"King's Indian: Petrosian, 7...c5"`,
+    desc: '"King\'s Indian: Petrosian, 7...c5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pPp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ c6 0 8'
   },
   {
     SCID: 'E92p',
-    desc: `"King's Indian: Petrosian, 7...c5 8.Bg5"`,
+    desc: '"King\'s Indian: Petrosian, 7...c5 8.Bg5"',
     fen: 'rnbq1rk1/pp3pbp/3p1np1/2pPp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R b KQ - 1 8'
   },
   {
     SCID: 'E92q',
-    desc: `"King's Indian: Petrosian, Stein Variation"`,
+    desc: '"King\'s Indian: Petrosian, Stein Variation"',
     fen: 'rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ a6 0 8'
   },
   {
     SCID: 'E92r',
-    desc: `"King's Indian: Petrosian, Stein, 8.h3"`,
+    desc: '"King\'s Indian: Petrosian, Stein, 8.h3"',
     fen: 'rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N1P/PP2BPP1/R1BQK2R b KQ - 0 8'
   },
   {
     SCID: 'E92s',
-    desc: `"King's Indian: Petrosian, Stein, 8.Bg5"`,
+    desc: '"King\'s Indian: Petrosian, Stein, 8.Bg5"',
     fen: 'rnbq1rk1/1pp2pbp/3p1np1/p2Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R b KQ - 1 8'
   },
   {
     SCID: 'E92s',
-    desc: `"King's Indian: Petrosian, Stein, 8.Bg5 h6"`,
+    desc: '"King\'s Indian: Petrosian, Stein, 8.Bg5 h6"',
     fen: 'rnbq1rk1/1pp2pb1/3p1npp/p2Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R w KQ - 0 9'
   },
   {
     SCID: 'E92t',
-    desc: `"King's Indian: Petrosian, Stein, 8.Bg5 h6 9.Bh4 Na6"`,
+    desc: '"King\'s Indian: Petrosian, Stein, 8.Bg5 h6 9.Bh4 Na6"',
     fen: 'r1bq1rk1/1pp2pb1/n2p1npp/p2Pp3/2P1P2B/2N2N2/PP2BPPP/R2QK2R w KQ - 2 10'
   },
   {
     SCID: 'E92u',
-    desc: `"King's Indian: Petrosian, Stein, Main Line"`,
+    desc: '"King\'s Indian: Petrosian, Stein, Main Line"',
     fen: 'r1bq1rk1/1pp2pb1/n2p1npp/p2Pp3/2P1P2B/2N5/PP1NBPPP/R2QK2R b KQ - 3 10'
   },
   {
     SCID: 'E92v',
-    desc: `"King's Indian: Petrosian, Stein, Main Line, 10...Qe8"`,
+    desc: '"King\'s Indian: Petrosian, Stein, Main Line, 10...Qe8"',
     fen: 'r1b1qrk1/1pp2pb1/n2p1npp/p2Pp3/2P1P2B/2N5/PP1NBPPP/R2QK2R w KQ - 4 11'
   },
   {
     SCID: 'E92w',
-    desc: `"King's Indian: Petrosian, Stein, Main Line, 10...Qe8 11.O-O"`,
+    desc: '"King\'s Indian: Petrosian, Stein, Main Line, 10...Qe8 11.O-O"',
     fen: 'r1b1qrk1/1pp2pb1/n2p1npp/p2Pp3/2P1P2B/2N5/PP1NBPPP/R2Q1RK1 b - - 5 11'
   },
   {
     SCID: 'E92w',
-    desc: `"King's Indian: Petrosian, Stein, Main Line, 10...Qe8 11.O-O Bd7"`,
+    desc: '"King\'s Indian: Petrosian, Stein, Main Line, 10...Qe8 11.O-O Bd7"',
     fen: 'r3qrk1/1ppb1pb1/n2p1npp/p2Pp3/2P1P2B/2N5/PP1NBPPP/R2Q1RK1 w - - 6 12'
   },
   {
     SCID: 'E92x',
-    desc: `"King's Indian: Petrosian, Stein, Main Line, 10...Qe8 11.O-O Nh7"`,
+    desc: '"King\'s Indian: Petrosian, Stein, Main Line, 10...Qe8 11.O-O Nh7"',
     fen: 'r1b1qrk1/1pp2pbn/n2p2pp/p2Pp3/2P1P2B/2N5/PP1NBPPP/R2Q1RK1 w - - 6 12'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line"`,
+    desc: '"King\'s Indian: Petrosian, Main Line"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 1 8'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Qc2"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Qc2"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PPQ1BPPP/R1B1K2R b KQ - 2 8'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Be3"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Be3"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N1BN2/PP2BPPP/R2QK2R b KQ - 2 8'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Be3 Ng4"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Be3 Ng4"',
     fen: 'r1bq1rk1/pppn1pbp/3p2p1/3Pp3/2P1P1n1/2N1BN2/PP2BPPP/R2QK2R w KQ - 3 9'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Bg5"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Bg5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R b KQ - 2 8'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Bg5 h6"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Bg5 h6"',
     fen: 'r1bq1rk1/pppn1pb1/3p1npp/3Pp1B1/2P1P3/2N2N2/PP2BPPP/R2QK2R w KQ - 0 9'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4"',
     fen: 'r1bq1rk1/pppn1pb1/3p1npp/3Pp3/2P1P2B/2N2N2/PP2BPPP/R2QK2R b KQ - 1 9'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4 a6"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4 a6"',
     fen: 'r1bq1rk1/1ppn1pb1/p2p1npp/3Pp3/2P1P2B/2N2N2/PP2BPPP/R2QK2R w KQ - 0 10'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4 a5"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4 a5"',
     fen: 'r1bq1rk1/1ppn1pb1/3p1npp/p2Pp3/2P1P2B/2N2N2/PP2BPPP/R2QK2R w KQ a6 0 10'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4 g5"`,
+    desc: '"King\'s Indian: Petrosian, Main Line, 8.Bg5 h6 9.Bh4 g5"',
     fen: 'r1bq1rk1/pppn1pb1/3p1n1p/3Pp1p1/2P1P2B/2N2N2/PP2BPPP/R2QK2R w KQ - 0 10'
   },
   {
     SCID: 'E93',
-    desc: `"King's Indian: Petrosian, Keres Variation"`,
+    desc: '"King\'s Indian: Petrosian, Keres Variation"',
     fen: 'r1bq1rk1/pppn1pb1/3p3p/3Pp1pn/2P1P2P/2N2NB1/PP2BPP1/R2QK2R b KQ h3 0 11'
   },
   {
     SCID: 'E94a',
-    desc: `"King's Indian: 7.O-O"`,
+    desc: '"King\'s Indian: 7.O-O"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7'
   },
   {
     SCID: 'E94b',
-    desc: `"King's Indian: 7.O-O exd4"`,
+    desc: '"King\'s Indian: 7.O-O exd4"',
     fen: 'rnbq1rk1/ppp2pbp/3p1np1/8/2PpP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E94c',
-    desc: `"King's Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3"`,
+    desc: '"King\'s Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3"',
     fen: 'rnbqr1k1/ppp2pbp/3p1np1/8/2PNP3/2N2P2/PP2B1PP/R1BQ1RK1 b - - 0 9'
   },
   {
     SCID: 'E94c',
-    desc: `"King's Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 c6"`,
+    desc: '"King\'s Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 c6"',
     fen: 'rnbqr1k1/pp3pbp/2pp1np1/8/2PNP3/2N2P2/PP2B1PP/R1BQ1RK1 w - - 0 10'
   },
   {
     SCID: 'E94c',
-    desc: `"King's Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 c6 10.Kh1"`,
+    desc: '"King\'s Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 c6 10.Kh1"',
     fen: 'rnbqr1k1/pp3pbp/2pp1np1/8/2PNP3/2N2P2/PP2B1PP/R1BQ1R1K b - - 1 10'
   },
   {
     SCID: 'E94d',
-    desc: `"King's Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6"`,
+    desc: '"King\'s Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6"',
     fen: 'r1bqr1k1/ppp2pbp/2np1np1/8/2PNP3/2N2P2/PP2B1PP/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E94d',
-    desc: `"King's Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6 10.Be3"`,
+    desc: '"King\'s Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6 10.Be3"',
     fen: 'r1bqr1k1/ppp2pbp/2np1np1/8/2PNP3/2N1BP2/PP2B1PP/R2Q1RK1 b - - 2 10'
   },
   {
     SCID: 'E94e',
-    desc: `"King's Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6 10.Be3 Nh5 11.Qd2"`,
+    desc: '"King\'s Indian: 7.O-O exd4 8.Nxd4 Re8 9.f3 Nc6 10.Be3 Nh5 11.Qd2"',
     fen: 'r1bqr1k1/ppp2pbp/2np2p1/7n/2PNP3/2N1BP2/PP1QB1PP/R4RK1 b - - 4 11'
   },
   {
     SCID: 'E94f',
-    desc: `"King's Indian: Donner Variation"`,
+    desc: '"King\'s Indian: Donner Variation"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 8'
   },
   {
     SCID: 'E94g',
-    desc: `"King's Indian: Donner, 8.d5"`,
+    desc: '"King\'s Indian: Donner, 8.d5"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E94h',
-    desc: `"King's Indian: Donner, 8.Be3"`,
+    desc: '"King\'s Indian: Donner, 8.Be3"',
     fen: 'rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 1 8'
   },
   {
     SCID: 'E94i',
-    desc: `"King's Indian: Glek Variation"`,
+    desc: '"King\'s Indian: Glek Variation"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E94j',
-    desc: `"King's Indian: Glek, 8.Re1"`,
+    desc: '"King\'s Indian: Glek, 8.Re1"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 b - - 3 8'
   },
   {
     SCID: 'E94k',
-    desc: `"King's Indian: Glek, 8.Re1 c6"`,
+    desc: '"King\'s Indian: Glek, 8.Re1 c6"',
     fen: 'r1bq1rk1/pp3pbp/n1pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 w - - 0 9'
   },
   {
     SCID: 'E94k',
-    desc: `"King's Indian: Glek, 8.Re1 c6 9.Bf1"`,
+    desc: '"King\'s Indian: Glek, 8.Re1 c6 9.Bf1"',
     fen: 'r1bq1rk1/pp3pbp/n1pp1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 b - - 1 9'
   },
   {
     SCID: 'E94l',
-    desc: `"King's Indian: Glek, 8.Be3"`,
+    desc: '"King\'s Indian: Glek, 8.Be3"',
     fen: 'r1bq1rk1/ppp2pbp/n2p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 3 8'
   },
   {
     SCID: 'E94m',
-    desc: `"King's Indian: Glek, 8.Be3 Ng4"`,
+    desc: '"King\'s Indian: Glek, 8.Be3 Ng4"',
     fen: 'r1bq1rk1/ppp2pbp/n2p2p1/4p3/2PPP1n1/2N1BN2/PP2BPPP/R2Q1RK1 w - - 4 9'
   },
   {
     SCID: 'E94n',
-    desc: `"King's Indian: Glek, 8.Be3 Ng4 9.Ng5 Qe8"`,
+    desc: '"King\'s Indian: Glek, 8.Be3 Ng4 9.Ng5 Qe8"',
     fen: 'r1b1qrk1/ppp2pbp/n2p2p1/4p1B1/2PPP1n1/2N2N2/PP2BPPP/R2Q1RK1 w - - 6 10'
   },
   {
     SCID: 'E94o',
-    desc: `"King's Indian: Glek, Main Line"`,
+    desc: '"King\'s Indian: Glek, Main Line"',
     fen: 'r1b1qrk1/ppp2pbp/n5p1/4p1B1/2P1P1n1/2N2N2/PP2BPPP/R2Q1RK1 w - - 0 11'
   },
   {
     SCID: 'E94o',
-    desc: `"King's Indian: Glek, Main Line, 11.h3"`,
+    desc: '"King\'s Indian: Glek, Main Line, 11.h3"',
     fen: 'r1b1qrk1/ppp2pbp/n5p1/4p1B1/2P1P1n1/2N2N1P/PP2BPP1/R2Q1RK1 b - - 0 11'
   },
   {
     SCID: 'E94o',
-    desc: `"King's Indian: Glek, Main Line, 11.h3 h6"`,
+    desc: '"King\'s Indian: Glek, Main Line, 11.h3 h6"',
     fen: 'r1b1qrk1/ppp2pb1/n5pp/4p1B1/2P1P1n1/2N2N1P/PP2BPP1/R2Q1RK1 w - - 0 12'
   },
   {
     SCID: 'E94p',
-    desc: `"King's Indian: 7.O-O Nbd7"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E94q',
-    desc: `"King's Indian: 7.O-O Nbd7 8.d5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.d5"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E94q',
-    desc: `"King's Indian: 7.O-O Nbd7 8.d5 Nc5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.d5 Nc5"',
     fen: 'r1bq1rk1/ppp2pbp/3p1np1/2nPp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E94r',
-    desc: `"King's Indian: 7.O-O Nbd7 8.d5 Nc5 9.Qc2"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.d5 Nc5 9.Qc2"',
     fen: 'r1bq1rk1/ppp2pbp/3p1np1/2nPp3/2P1P3/2N2N2/PPQ1BPPP/R1B2RK1 b - - 2 9'
   },
   {
     SCID: 'E94r',
-    desc: `"King's Indian: 7.O-O Nbd7 8.d5 Nc5 9.Qc2 a5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.d5 Nc5 9.Qc2 a5"',
     fen: 'r1bq1rk1/1pp2pbp/3p1np1/p1nPp3/2P1P3/2N2N2/PPQ1BPPP/R1B2RK1 w - a6 0 10'
   },
   {
     SCID: 'E94s',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Qc2"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Qc2"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PPQ1BPPP/R1B2RK1 b - - 3 8'
   },
   {
     SCID: 'E94s',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Qc2 Re8"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Qc2 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PPQ1BPPP/R1B2RK1 w - - 4 9'
   },
   {
     SCID: 'E94t',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Qc2 c6"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Qc2 c6"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PPQ1BPPP/R1B2RK1 w - - 0 9'
   },
   {
     SCID: 'E94u',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Be3"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Be3"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 3 8'
   },
   {
     SCID: 'E94v',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Be3 Ng4"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Be3 Ng4"',
     fen: 'r1bq1rk1/pppn1pbp/3p2p1/4p3/2PPP1n1/2N1BN2/PP2BPPP/R2Q1RK1 w - - 4 9'
   },
   {
     SCID: 'E94w',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Be3 Re8"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Be3 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 w - - 4 9'
   },
   {
     SCID: 'E94x',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Be3 c6"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Be3 c6"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 w - - 0 9'
   },
   {
     SCID: 'E94y',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Be3 c6 9.d5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Be3 c6 9.d5"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/3Pp3/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 0 9'
   },
   {
     SCID: 'E94y',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Be3 c6 9.d5 c5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Be3 c6 9.d5 c5"',
     fen: 'r1bq1rk1/pp1n1pbp/3p1np1/2pPp3/2P1P3/2N1BN2/PP2BPPP/R2Q1RK1 w - - 0 10'
   },
   {
     SCID: 'E95a',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 b - - 3 8'
   },
   {
     SCID: 'E95b',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 a5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 a5"',
     fen: 'r1bq1rk1/1ppn1pbp/3p1np1/p3p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 w - a6 0 9'
   },
   {
     SCID: 'E95c',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 h6"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 h6"',
     fen: 'r1bq1rk1/pppn1pb1/3p1npp/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 w - - 0 9'
   },
   {
     SCID: 'E95d',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 Re8"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 Re8"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 w - - 4 9'
   },
   {
     SCID: 'E95e',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 Re8 9.Bf1"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 Re8 9.Bf1"',
     fen: 'r1bqr1k1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 b - - 5 9'
   },
   {
     SCID: 'E95f',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 exd4"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 exd4"',
     fen: 'r1bq1rk1/pppn1pbp/3p1np1/8/2PpP3/2N2N2/PP2BPPP/R1BQR1K1 w - - 0 9'
   },
   {
     SCID: 'E95g',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 exd4 9.Nxd4 Nc5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 exd4 9.Nxd4 Nc5"',
     fen: 'r1bq1rk1/ppp2pbp/3p1np1/2n5/2PNP3/2N5/PP2BPPP/R1BQR1K1 w - - 1 10'
   },
   {
     SCID: 'E95h',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 w - - 0 9'
   },
   {
     SCID: 'E95i',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6 9.Rb1"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6 9.Rb1"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/1RBQR1K1 b - - 1 9'
   },
   {
     SCID: 'E95j',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 b - - 1 9'
   },
   {
     SCID: 'E95k',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 Re8"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 Re8"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 w - - 2 10'
   },
   {
     SCID: 'E95l',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 exd4"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 exd4"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp1np1/8/2PpP3/2N2N2/PP3PPP/R1BQRBK1 w - - 0 10'
   },
   {
     SCID: 'E95m',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 exd4 10.Nxd4 Ng4"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 exd4 10.Nxd4 Ng4"',
     fen: 'r1bq1rk1/pp1n1pbp/2pp2p1/8/2PNP1n1/2N5/PP3PPP/R1BQRBK1 w - - 1 11'
   },
   {
     SCID: 'E95n',
-    desc: `"King's Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 exd4 10.Nxd4 Re8"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7 8.Re1 c6 9.Bf1 exd4 10.Nxd4 Re8"',
     fen: 'r1bqr1k1/pp1n1pbp/2pp1np1/8/2PNP3/2N5/PP3PPP/R1BQRBK1 w - - 1 11'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line"',
     fen: 'r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 w - a6 0 10'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.h3"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.h3"',
     fen: 'r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N1P/PP3PP1/R1BQRBK1 b - - 0 10'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.dxe5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.dxe5"',
     fen: 'r1bq1rk1/1p1n1pbp/2pp1np1/p3P3/2P1P3/2N2N2/PP3PPP/R1BQRBK1 b - - 0 10'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.dxe5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.dxe5"',
     fen: 'r1bq1rk1/1p1n1pbp/2p2np1/p3p3/2P1P3/2N2N2/PP3PPP/R1BQRBK1 w - - 0 11'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1"',
     fen: 'r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N2/PP3PPP/1RBQRBK1 b - - 1 10'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1 Re8"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1 Re8"',
     fen: 'r1bqr1k1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N2/PP3PPP/1RBQRBK1 w - - 2 11'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1 Re8 11.d5"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1 Re8 11.d5"',
     fen: 'r1bqr1k1/1p1n1pbp/2pp1np1/p2Pp3/2P1P3/2N2N2/PP3PPP/1RBQRBK1 b - - 0 11'
   },
   {
     SCID: 'E96',
-    desc: `"King's Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1 Re8 11.d5 Nc5 12.b3"`,
+    desc: '"King\'s Indian: 7.O-O Nbd7, Old Main Line, 10.Rb1 Re8 11.d5 Nc5 12.b3"',
     fen: 'r1bqr1k1/1p3pbp/2pp1np1/p1nPp3/2P1P3/1PN2N2/P4PPP/1RBQRBK1 b - - 0 12'
   },
   {
     SCID: 'E97a',
-    desc: `"King's Indian: Mar del Plata"`,
+    desc: '"King\'s Indian: Mar del Plata"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8'
   },
   {
     SCID: 'E97b',
-    desc: `"King's Indian: Mar del Plata, 8.dxe5"`,
+    desc: '"King\'s Indian: Mar del Plata, 8.dxe5"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E97c',
-    desc: `"King's Indian: Mar del Plata, 8.Be3"`,
+    desc: '"King\'s Indian: Mar del Plata, 8.Be3"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 3 8'
   },
   {
     SCID: 'E97c',
-    desc: `"King's Indian: Mar del Plata, 8.Be3 Ng4"`,
+    desc: '"King\'s Indian: Mar del Plata, 8.Be3 Ng4"',
     fen: 'r1bq1rk1/ppp2pbp/2np2p1/4p3/2PPP1n1/2N1BN2/PP2BPPP/R2Q1RK1 w - - 4 9'
   },
   {
     SCID: 'E97c',
-    desc: `"King's Indian: Mar del Plata, 8.Be3 Ng4"`,
+    desc: '"King\'s Indian: Mar del Plata, 8.Be3 Ng4"',
     fen: 'r1bq1rk1/ppp3bp/2np1pp1/4p3/2PPP1n1/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 10'
   },
   {
     SCID: 'E97d',
-    desc: `"King's Indian: Mar del Plata, 8.d5"`,
+    desc: '"King\'s Indian: Mar del Plata, 8.d5"',
     fen: 'r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8'
   },
   {
     SCID: 'E97d',
-    desc: `"King's Indian: Mar del Plata, 8.d5 Ne7"`,
+    desc: '"King\'s Indian: Mar del Plata, 8.d5 Ne7"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9'
   },
   {
     SCID: 'E97d',
-    desc: `"King's Indian: Mar del Plata, Odessa Variation"`,
+    desc: '"King\'s Indian: Mar del Plata, Odessa Variation"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp1B1/2P1P3/2N2N2/PP2BPPP/R2Q1RK1 b - - 2 9'
   },
   {
     SCID: 'E97e',
-    desc: `"King's Indian: Mar del Plata, 9.Bd2"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Bd2"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP1BBPPP/R2Q1RK1 b - - 2 9'
   },
   {
     SCID: 'E97f',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 b - b3 0 9'
   },
   {
     SCID: 'E97g',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Kh8"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Kh8"',
     fen: 'r1bq1r1k/ppp1npbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E97h',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Ne8"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Ne8"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E97h',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Ne8 10.c5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Ne8 10.c5"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/2PPp3/1P2P3/2N2N2/P3BPPP/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E97i',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...a5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...a5"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 w - a6 0 10'
   },
   {
     SCID: 'E97i',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...a5 10.bxa5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...a5 10.bxa5"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/P2Pp3/2P1P3/2N2N2/P3BPPP/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E97j',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...a5 10.Ba3"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...a5 10.Ba3"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/1PP1P3/B1N2N2/P3BPPP/R2Q1RK1 b - - 1 10'
   },
   {
     SCID: 'E97k',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...a5 10.Ba3 axb4"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...a5 10.Ba3 axb4"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/3Pp3/1pP1P3/B1N2N2/P3BPPP/R2Q1RK1 w - - 0 11'
   },
   {
     SCID: 'E97k',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...a5 10.Ba3 axb4 11.Bxb4 Nd7"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...a5 10.Ba3 axb4 11.Bxb4 Nd7"',
     fen: 'r1bq1rk1/1ppnnpbp/3p2p1/3Pp3/1BP1P3/2N2N2/P3BPPP/R2Q1RK1 w - - 1 12'
   },
   {
     SCID: 'E97l',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Nh5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Nh5"',
     fen: 'r1bq1rk1/ppp1npbp/3p2p1/3Pp2n/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 w - - 1 10'
   },
   {
     SCID: 'E97m',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Nh5 10.c5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Nh5 10.c5"',
     fen: 'r1bq1rk1/ppp1npbp/3p2p1/2PPp2n/1P2P3/2N2N2/P3BPPP/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E97n',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Nh5 10.g3"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Nh5 10.g3"',
     fen: 'r1bq1rk1/ppp1npbp/3p2p1/3Pp2n/1PP1P3/2N2NP1/P3BP1P/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E97o',
-    desc: `"King's Indian: Mar del Plata, Bayonet Attack, 9...Nh5 10.Re1"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet Attack, 9...Nh5 10.Re1"',
     fen: 'r1bq1rk1/ppp1npbp/3p2p1/3Pp2n/1PP1P3/2N2N2/P3BPPP/R1BQR1K1 b - - 2 10'
   },
   {
     SCID: 'E97p',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 a5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 a5"',
     fen: 'r1bq1rk1/1pp1npbp/3p2p1/p2Pp2n/1PP1P3/2N2N2/P3BPPP/R1BQR1K1 w - a6 0 11'
   },
   {
     SCID: 'E97q',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 Nf4"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 Nf4"',
     fen: 'r1bq1rk1/ppp1npbp/3p2p1/3Pp3/1PP1Pn2/2N2N2/P3BPPP/R1BQR1K1 w - - 3 11'
   },
   {
     SCID: 'E97q',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 Nf4 11.Bf1 a5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 Nf4 11.Bf1 a5"',
     fen: 'r1bq1rk1/1pp1npbp/3p2p1/p2Pp3/1PP1Pn2/2N2N2/P4PPP/R1BQRBK1 w - a6 0 12'
   },
   {
     SCID: 'E97q',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 Nf4 11.Bf1 a5 12.bxa5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 Nf4 11.Bf1 a5 12.bxa5"',
     fen: 'r1bq1rk1/1pp1npbp/3p2p1/P2Pp3/2P1Pn2/2N2N2/P4PPP/R1BQRBK1 b - - 0 12'
   },
   {
     SCID: 'E97r',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5"',
     fen: 'r1bq1rk1/ppp1n1bp/3p2p1/3Ppp1n/1PP1P3/2N2N2/P3BPPP/R1BQR1K1 w - f6 0 11'
   },
   {
     SCID: 'E97s',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5 11.Ng5 Nf6"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5 11.Ng5 Nf6"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3PppN1/1PP1P3/2N5/P3BPPP/R1BQR1K1 w - - 2 12'
   },
   {
     SCID: 'E97s',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5 11.Ng5 Nf6 12.Bf3"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5 11.Ng5 Nf6 12.Bf3"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3PppN1/1PP1P3/2N2B2/P4PPP/R1BQR1K1 b - - 3 12'
   },
   {
     SCID: 'E97s',
-    desc: `"King's Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5 11.Ng5 Nf6 12.Bf3 c6"`,
+    desc: '"King\'s Indian: Mar del Plata, Bayonet, 9...Nh5 10.Re1 f5 11.Ng5 Nf6 12.Bf3 c6"',
     fen: 'r1bq1rk1/pp2n1bp/2pp1np1/3PppN1/1PP1P3/2N2B2/P4PPP/R1BQR1K1 w - - 0 13'
   },
   {
     SCID: 'E97t',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 b - - 2 9'
   },
   {
     SCID: 'E97u',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 Ne8"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 Ne8"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/3Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 w - - 3 10'
   },
   {
     SCID: 'E97u',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 Ne8 10.b4"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 Ne8 10.b4"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/3Pp3/1PP1P3/2N5/P2NBPPP/R1BQ1RK1 b - b3 0 10'
   },
   {
     SCID: 'E97v',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 Nd7"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 Nd7"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 w - - 3 10'
   },
   {
     SCID: 'E97v',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 Nd7 10.b4"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 Nd7 10.b4"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/1PP1P3/2N5/P2NBPPP/R1BQ1RK1 b - b3 0 10'
   },
   {
     SCID: 'E97w',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 c5"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 c5"',
     fen: 'r1bq1rk1/pp2npbp/3p1np1/2pPp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 w - c6 0 10'
   },
   {
     SCID: 'E97x',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/2P1P3/2N5/PP1NBPPP/R1BQ1RK1 w - a6 0 10'
   },
   {
     SCID: 'E97x',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5 10.Rb1"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5 10.Rb1"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/2P1P3/2N5/PP1NBPPP/1RBQ1RK1 b - - 1 10'
   },
   {
     SCID: 'E97y',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5 10.a3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5 10.a3"',
     fen: 'r1bq1rk1/1pp1npbp/3p1np1/p2Pp3/2P1P3/P1N5/1P1NBPPP/R1BQ1RK1 b - - 0 10'
   },
   {
     SCID: 'E97y',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5 10.a3 Bd7"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5 10.a3 Bd7"',
     fen: 'r2q1rk1/1ppbnpbp/3p1np1/p2Pp3/2P1P3/P1N5/1P1NBPPP/R1BQ1RK1 w - - 1 11'
   },
   {
     SCID: 'E97z',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5 10.a3 Nd7"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5 10.a3 Nd7"',
     fen: 'r1bq1rk1/1ppnnpbp/3p2p1/p2Pp3/2P1P3/P1N5/1P1NBPPP/R1BQ1RK1 w - - 1 11'
   },
   {
     SCID: 'E97z',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5 10.a3 Nd7 11.Rb1"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5 10.a3 Nd7 11.Rb1"',
     fen: 'r1bq1rk1/1ppnnpbp/3p2p1/p2Pp3/2P1P3/P1N5/1P1NBPPP/1RBQ1RK1 b - - 2 11'
   },
   {
     SCID: 'E97z',
-    desc: `"King's Indian: Mar del Plata, 9.Nd2 a5 10.a3 Nd7 11.Rb1 f5 12.b4"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Nd2 a5 10.a3 Nd7 11.Rb1 f5 12.b4"',
     fen: 'r1bq1rk1/1ppnn1bp/3p2p1/p2Ppp2/1PP1P3/P1N5/3NBPPP/1RBQ1RK1 b - b3 0 12'
   },
   {
     SCID: 'E98a',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1"',
     fen: 'r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 b - - 2 9'
   },
   {
     SCID: 'E98b',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 c5"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 c5"',
     fen: 'r1bq1rk1/pp2npbp/3p1np1/2pPp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 w - c6 0 10'
   },
   {
     SCID: 'E98c',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Ne8"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Ne8"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 w - - 3 10'
   },
   {
     SCID: 'E98d',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Ne8 10.Nd3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Ne8 10.Nd3"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/3Pp3/2P1P3/2NN4/PP2BPPP/R1BQ1RK1 b - - 4 10'
   },
   {
     SCID: 'E98d',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Ne8 10.Nd3 f5"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Ne8 10.Nd3 f5"',
     fen: 'r1bqnrk1/ppp1n1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP2BPPP/R1BQ1RK1 w - f6 0 11'
   },
   {
     SCID: 'E98e',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Ne8 10.Be3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Ne8 10.Be3"',
     fen: 'r1bqnrk1/ppp1npbp/3p2p1/3Pp3/2P1P3/2N1B3/PP2BPPP/R2QNRK1 b - - 4 10'
   },
   {
     SCID: 'E98f',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Ne8 10.Be3 f5 11.f3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Ne8 10.Be3 f5 11.f3"',
     fen: 'r1bqnrk1/ppp1n1bp/3p2p1/3Ppp2/2P1P3/2N1BP2/PP2B1PP/R2QNRK1 b - - 0 11'
   },
   {
     SCID: 'E98g',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Ne8 10.Be3 f5 11.f3 f4"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Ne8 10.Be3 f5 11.f3 f4"',
     fen: 'r1bqnrk1/ppp1n1bp/3p2p1/3Pp3/2P1Pp2/2N1BP2/PP2B1PP/R2QNRK1 w - - 0 12'
   },
   {
     SCID: 'E98h',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 w - - 3 10'
   },
   {
     SCID: 'E98i',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Kh1"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Kh1"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNR1K b - - 4 10'
   },
   {
     SCID: 'E98j',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Be3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Be3"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N1B3/PP2BPPP/R2QNRK1 b - - 4 10'
   },
   {
     SCID: 'E98k',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Be3 f5"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Be3 f5"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N1B3/PP2BPPP/R2QNRK1 w - f6 0 11'
   },
   {
     SCID: 'E98l',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2NN4/PP2BPPP/R1BQ1RK1 b - - 4 10'
   },
   {
     SCID: 'E98m',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP2BPPP/R1BQ1RK1 w - f6 0 11'
   },
   {
     SCID: 'E98n',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5 11.Bd2"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5 11.Bd2"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP1BBPPP/R2Q1RK1 b - - 1 11'
   },
   {
     SCID: 'E98o',
-    desc: `"King's Indian: Mar del Plata, Fischer Variation"`,
+    desc: '"King\'s Indian: Mar del Plata, Fischer Variation"',
     fen: 'r1bq1rk1/pp1nn1bp/3p2p1/2pPpp2/2P1P3/2NN4/PP1BBPPP/R2Q1RK1 w - c6 0 12'
   },
   {
     SCID: 'E98p',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Kh8"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Kh8"',
     fen: 'r1bq1r1k/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN4/PP1BBPPP/R2Q1RK1 w - - 2 12'
   },
   {
     SCID: 'E98q',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Nf6"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.Nd3 f5 11.Bd2 Nf6"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3Ppp2/2P1P3/2NN4/PP1BBPPP/R2Q1RK1 w - - 2 12'
   },
   {
     SCID: 'E98r',
-    desc: `"King's Indian: Mar del Plata, 9.Ne1 Nd7 10.f3"`,
+    desc: '"King\'s Indian: Mar del Plata, 9.Ne1 Nd7 10.f3"',
     fen: 'r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N2P2/PP2B1PP/R1BQNRK1 b - - 0 10'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N2P2/PP2B1PP/R1BQNRK1 w - f6 0 11'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Nd3"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Nd3"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2NN1P2/PP2B1PP/R1BQ1RK1 b - - 1 11'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3Ppp2/2P1P3/2NN1P2/PP2B1PP/R1BQ1RK1 w - - 2 12'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6 12.Bd2"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6 12.Bd2"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3Ppp2/2P1P3/2NN1P2/PP1BB1PP/R2Q1RK1 b - - 3 12'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6 12.Bd2 f4"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6 12.Bd2 f4"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3Pp3/2P1Pp2/2NN1P2/PP1BB1PP/R2Q1RK1 w - - 0 13'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6 12.Bd2 f4 13.c5"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Nd3 Nf6 12.Bd2 f4 13.c5"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/2PPp3/4Pp2/2NN1P2/PP1BB1PP/R2Q1RK1 b - - 0 13'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Nd3 f4"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Nd3 f4"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Pp3/2P1Pp2/2NN1P2/PP2B1PP/R1BQ1RK1 w - - 0 12'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Be3"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Be3"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N1BP2/PP2B1PP/R2QNRK1 b - - 1 11'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Be3 f4"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Be3 f4"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Pp3/2P1Pp2/2N1BP2/PP2B1PP/R2QNRK1 w - - 0 12'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Be3 f4 12.Bf2 g5"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Be3 f4 12.Bf2 g5"',
     fen: 'r1bq1rk1/pppnn1bp/3p4/3Pp1p1/2P1Pp2/2N2P2/PP2BBPP/R2QNRK1 w - - 0 13'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Be3 f4 12.Bf2 g5 13.a4"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Be3 f4 12.Bf2 g5 13.a4"',
     fen: 'r1bq1rk1/pppnn1bp/3p4/3Pp1p1/P1P1Pp2/2N2P2/1P2BBPP/R2QNRK1 b - a3 0 13'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, 10.f3 f5 11.Be3 f4 12.Bf2 g5 13.a4 Ng6"`,
+    desc: '"King\'s Indian: Mar del Plata, 10.f3 f5 11.Be3 f4 12.Bf2 g5 13.a4 Ng6"',
     fen: 'r1bq1rk1/pppn2bp/3p2n1/3Pp1p1/P1P1Pp2/2N2P2/1P2BBPP/R2QNRK1 w - - 1 14'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, Benko Attack"`,
+    desc: '"King\'s Indian: Mar del Plata, Benko Attack"',
     fen: 'r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P1P1/2N2P2/PP2B2P/R1BQNRK1 b - g3 0 11'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, Benko Attack, 11...Kh8"`,
+    desc: '"King\'s Indian: Mar del Plata, Benko Attack, 11...Kh8"',
     fen: 'r1bq1r1k/pppnn1bp/3p2p1/3Ppp2/2P1P1P1/2N2P2/PP2B2P/R1BQNRK1 w - - 1 12'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, Benko Attack, 11...Nf6"`,
+    desc: '"King\'s Indian: Mar del Plata, Benko Attack, 11...Nf6"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3Ppp2/2P1P1P1/2N2P2/PP2B2P/R1BQNRK1 w - - 1 12'
   },
   {
     SCID: 'E99',
-    desc: `"King's Indian: Mar del Plata, Benko Attack, 11...Nf6 12.Nd3"`,
+    desc: '"King\'s Indian: Mar del Plata, Benko Attack, 11...Nf6 12.Nd3"',
     fen: 'r1bq1rk1/ppp1n1bp/3p1np1/3Ppp2/2P1P1P1/2NN1P2/PP2B2P/R1BQ1RK1 b - - 2 12'
   }
-]
+];
 
 
-export default scid
+export default scid;
