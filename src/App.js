@@ -3,12 +3,10 @@ import React, { Component } from 'react';
 import {
   AppHeader, FileImportRow,
   DatabaseSummaryRow,
-  TestRow,
+  ScidLoadRow,
   HeatMapOptionsRow, HeatMapRow,
 } from './components';
-// import api from './utils/api'
-// import sortByDate from './utils/sortByDate'
-// import isLocalHost from './utils/isLocalHost'
+
 import './App.css';
 
 export default class App extends Component {
@@ -18,7 +16,7 @@ export default class App extends Component {
         <AppHeader />
         <FileImportRow />
         <hr />
-        <TestRow />
+        <ScidLoadRow />
         <hr />
         <DatabaseSummaryRow />
         <HeatMapOptionsRow />
