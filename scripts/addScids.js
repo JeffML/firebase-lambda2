@@ -1,5 +1,5 @@
 import fetch from 'node-fetch';
-import scids from './scid';
+import scids from '../functions/pgnfen/scid';
 
 const URL = 'http://localhost:9000/';
 // const URL = '/'

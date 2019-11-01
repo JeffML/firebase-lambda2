@@ -1,5 +1,5 @@
 /* eslint-disable comma-dangle */
-const scid = [
+module.exports = [
   {
     SCID: 'A00b',
     desc: '"Barnes Opening"',
@@ -51797,5 +51797,3 @@ const scid = [
   }
 ];
 
-
-export default scid;

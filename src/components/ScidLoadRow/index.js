@@ -9,24 +9,23 @@ const styles = {
   },
 };
 
-const handler = async () => {
-  const query = gql`
-    mutation {addDoc{name}}
-  `;
-
-  const client = new ApolloClient({
-    uri: '/.netlify/functions/pgnfen',
-    fetch,
-  });
-
-  // eslint-disable-next-line no-console
-  await client.mutate({ mutation: query }).catch((e) => { console.error(e); });
-};
-
+const client = new ApolloClient({
+  uri: '/.netlify/functions/pgnfen',
+  fetch,
+});
 
 export default () => {
   const [start, setStart] = useState(0);
   const [end, setEnd] = useState(100);
+
+  const clickHandler = async () => {
+    const mutation = gql`
+     mutation {addOpenings({start, end})}
+   `;
+
+    // // eslint-disable-next-line no-console
+    // await client.mutate({ mutation }).catch((e) => { console.error(e); });
+  };
 
   const startEndHandler = (evt) => {
     if (evt.target.name === 'start') {
@@ -41,7 +40,7 @@ export default () => {
       <h3 className="row">Scid load row</h3>
       <div className="column">
         <label className="tabbed">
-          <input type="button" onClick={handler} value="Load Scids" />
+          <input type="button" onClick={clickHandler} value="Load Scids" />
         </label>
 
       </div>

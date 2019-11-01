@@ -1,15 +1,15 @@
-
+const typeDefs = `
 
 type Opening {
-  fen: String! @unique
+  fen: String! 
   SCID: String!
   desc: String!
 }
 
 type Game {
-  header: Header! @relation
+  header: Header! 
   fens: [String!]!
-  opening: Opening @relation
+  opening: Opening 
 }
 
 type Header {
@@ -52,6 +52,8 @@ input OpeningInput {
 # }
 
 type Mutation {
-  addOpenings(openings: [OpeningInput]) : [Opening]! @resolver(name: "add_openings2" paginated:false)
+  addOpenings(openings: [OpeningInput]) : Int! 
 #  addGames(games: [GameInput]) : [Game]! @resolver(name: "add_games", paginated: false)
-}
+}`
+
+module.exports = typeDefs;
