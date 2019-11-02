@@ -52,7 +52,7 @@ input OpeningInput {
 # }
 
 type Mutation {
-  addOpenings(openings: [OpeningInput]) : Int! 
+  addOpenings(start: Int!, end: Int!) : Int! 
 #  addGames(games: [GameInput]) : [Game]! @resolver(name: "add_games", paginated: false)
 }`
 
