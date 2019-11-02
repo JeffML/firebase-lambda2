@@ -1,3 +1,4 @@
+/* eslint-disable no-alert */
 import React, { useState } from 'react';
 import fetch from 'node-fetch';
 import ApolloClient, { gql } from 'apollo-boost';
@@ -5,7 +6,7 @@ import ApolloClient, { gql } from 'apollo-boost';
 const styles = {
   numInput: {
     size: 10,
-    width: '10%',
+    width: '16%',
   },
 };
 
@@ -16,15 +17,18 @@ const client = new ApolloClient({
 
 export default () => {
   const [start, setStart] = useState(0);
-  const [end, setEnd] = useState(100);
+  const [end, setEnd] = useState(500);
 
   const clickHandler = async () => {
-    const mutation = gql`
-     mutation {addOpenings({start, end})}
-   `;
+    const mutation = gql`mutation {
+      addOpenings(start: ${start}, end: ${end})
+    }`;
 
-    // // eslint-disable-next-line no-console
-    // await client.mutate({ mutation }).catch((e) => { console.error(e); });
+    // eslint-disable-next-line no-console
+    const count = await client.mutate({ mutation })
+      .catch((e) => { window.alert(e); });
+    // console.dir(count);
+    window.alert(`${count.data.addOpenings} documents written`);
   };
 
   const startEndHandler = (evt) => {
@@ -47,14 +51,14 @@ export default () => {
       <div className="column">
         <label className="tabbed">
   Row start:&nbsp;&nbsp;
-          <input name="start" type="number" step="100" style={styles.numInput} onChange={startEndHandler} value={start} />
+          <input name="start" type="number" step="500" style={styles.numInput} onChange={startEndHandler} value={start} />
         </label>
 
       </div>
       <div className="column">
         <label className="tabbed">
 Row end:&nbsp;&nbsp;
-          <input name="end" type="number" step="100" style={styles.numInput} onChange={startEndHandler} value={end} />
+          <input name="end" type="number" step="500" style={styles.numInput} onChange={startEndHandler} value={end} />
         </label>
       </div>
     </div>

@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 const apolloLambda = require('apollo-server-lambda');
+const admin = require('firebase-admin');
 const typeDefs = require('./schema.gql');
 const { fetchGames, addOpenings } = require('./resolvers');
 
@@ -7,7 +8,7 @@ const {
   ApolloServer,
   gql,
 } = apolloLambda;
-const admin = require('firebase-admin');
+
 const credential = require('./pgnfen2-0dcc7c57af09.json');
 
 

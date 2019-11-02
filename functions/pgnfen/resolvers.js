@@ -14,15 +14,9 @@ const addOpenings = async (_, { start, end }, { admin }) => {
     batch.set(doc, opening);
   });
 
-  const times = await batch.commit();
+  await batch.commit();
 
-  //   const times = await admin.firestore()
-  //     .doc('chess/openings/fen/f1')
-  //     .set({ fen: 'f1', SCID: 'scid1', desc: 'howdy' });
-  //     // .set(openings.slice(start, end));
-  console.dir(times[0]);
-  return times[0]._writeTime._seconds;
+  return data.length;
 };
 
 module.exports = { fetchGames, addOpenings };
-git;
