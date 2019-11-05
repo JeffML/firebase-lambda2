@@ -1,59 +1,8 @@
 const typeDefs = `
 
-type Opening {
-  fen: String! 
-  SCID: String!
-  desc: String!
-}
-
-type Game {
-  header: Header! 
-  fens: [String!]!
-  opening: Opening 
-}
-
-type Header {
-    Event: String
-    Date: String!
-    White: String!
-    WhiteElo: String
-    Black: String!
-    BlackElo: String
-    ECO: String
-    Result: String
-}
-
-type Query {
-  allGames: [Game]
-  allOpenings: [Opening]
-}
-
-# input HeaderInput {
-#     Event: String
-#     Date: String!
-#     White: String!
-#     WhiteElo: String
-#     Black: String!
-#     BlackElo: String
-#     ECO: String
-#     Result: String
-# }
-
-input OpeningInput {
-  fen: String!
-  SCID: String!
-  desc: String!
-}
-
-# input GameInput {
-#   header: HeaderInput! 
-#   fens: [String!]!
-#   opening: OpeningInput @relation
-# }
-
 type Mutation {
   addOpenings(start: Int!, end: Int!) : Int! 
-#  addGames(games: [GameInput]) : [Game]! @resolver(name: "add_games", paginated: false)
-}`
+}
+`
 
 module.exports = typeDefs;

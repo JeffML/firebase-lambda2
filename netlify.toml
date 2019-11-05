@@ -6,4 +6,3 @@
   publish = "build"
 [context.branch-deploy.environment]
   NODE_ENV = "development"
-  GOOGLE_APPLICATION_CREDENTIALS = "./pgnfen2-0dcc7c57af09.json"

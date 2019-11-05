@@ -1,4 +1,6 @@
-# Chess Opening Database  
-This application takes chess games annotated in PGN format and creates FEN information for the first moves of the game. The FEN informatino is upserted in to an indexed repository and cross-reference with games.
+# Demonstration of hooking up React-Lambda-GraphQL-Firebase on a Netlify server
+You need both a Netlify and Firebase account.
 
-Using GraphQL queries, it is then possible to analyze various opening statistics.
+The fake creds file for Firebase has to be replaced with real credentials.
+
+You will also need to use Netlify Identity to allow the app to run on a Netlify server

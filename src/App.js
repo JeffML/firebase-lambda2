@@ -1,10 +1,7 @@
 /* eslint-disable react/prefer-stateless-function */
 import React, { Component } from 'react';
 import {
-  AppHeader, FileImportRow,
-  DatabaseSummaryRow,
-  ScidLoadRow,
-  HeatMapOptionsRow, HeatMapRow,
+  AppHeader, ScidLoadRow,
 } from './components';
 
 import './App.css';
@@ -14,13 +11,9 @@ export default class App extends Component {
     return (
       <div className="app">
         <AppHeader />
-        <FileImportRow />
         <hr />
         <ScidLoadRow />
         <hr />
-        <DatabaseSummaryRow />
-        <HeatMapOptionsRow />
-        <HeatMapRow />
       </div>
     );
   }

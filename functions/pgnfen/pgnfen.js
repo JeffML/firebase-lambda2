@@ -6,10 +6,9 @@ const { fetchGames, addOpenings } = require('./resolvers');
 
 const {
   ApolloServer,
-  gql,
 } = apolloLambda;
 
-const credential = require('./pgnfen2-0dcc7c57af09.json');
+const credential = require('./fake-creds.json');
 
 
 admin.initializeApp({
